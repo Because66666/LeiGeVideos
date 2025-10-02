@@ -90,6 +90,10 @@ class VideoSubtitleExtractor:
                         code = response_json.get("code", -1)
                         if code == 200:
                             subtitle_contents[current_video_url] = response_json
+                        elif code == 530:
+                            logger.error(
+                                f"获取字幕异常，视频URL：{current_video_url}，错误码：{code}，响应内容: {response_json}"
+                            )
                         else:
                             logger.error(
                                 f"获取字幕失败，视频URL：{current_video_url}，错误码：{code}，响应内容: {response_json}"
