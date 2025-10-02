@@ -94,6 +94,11 @@ class VideoSubtitleExtractor:
                             logger.error(
                                 f"获取字幕异常，视频URL：{current_video_url}，错误码：{code}，响应内容: {response_json}"
                             )
+                        elif code == 500:
+                            logger.error(
+                                f"获取字幕异常，视频URL：{current_video_url}，错误码：{code}，响应内容: {response_json}"
+                            )
+                            await page.wait_for_timeout(15000)
                         else:
                             logger.error(
                                 f"获取字幕失败，视频URL：{current_video_url}，错误码：{code}，响应内容: {response_json}"
@@ -130,11 +135,19 @@ class VideoSubtitleExtractor:
             full_text = ""
             # 正则表达式：排除序号行（纯数字）、时间行，匹配非空内容行
             pattern = r"(?m)^(?!\d+$)(?!\d+:\d+:\d+,\d+ --> \d+:\d+:\d+,\d+$).*\S.*"
-            subtitle_raw = (
-                subtitle_rawdict.get("data", {})
-                .get("subtitleItemVoList", [{}])[0]
-                .get("content", None)
-            )
+            # 步骤1：从 subtitle_rawdict 中取 "data" 键，默认值为空字典 {}
+            data = subtitle_rawdict.get("data", {})
+
+            # 步骤2：从 data 中取 "subtitleItemVoList" 键，默认值为 [{}]（含一个空字典的列表）
+            subtitle_list = data.get("subtitleItemVoList", [{}])
+
+            # 步骤3：取列表的第 0 个元素（索引 0）
+            if not subtitle_list:
+                continue
+            first_item = subtitle_list[0]
+
+            # 步骤4：从第 0 个元素中取 "content" 键，默认值为 None
+            subtitle_raw = first_item.get("content", None)
             if subtitle_raw is None:
                 continue
             # 提取匹配的内容（flags=re.M 启用多行模式）
