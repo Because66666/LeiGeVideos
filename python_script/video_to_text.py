@@ -95,11 +95,13 @@ class VideoSubtitleExtractor:
                             logger.error(
                                 f"获取字幕异常，视频URL：{current_video_url}，错误码：{code}，响应内容: {response_json}"
                             )
+
+                            sleep_time = 30
                         elif code == 500:
                             logger.error(
                                 f"获取字幕异常，视频URL：{current_video_url}，错误码：{code}，响应内容: {response_json}"
                             )
-                            sleep_time = 30
+                            error_flag = True
                         else:
                             logger.error(
                                 f"获取字幕失败，视频URL：{current_video_url}，错误码：{code}，响应内容: {response_json}"
