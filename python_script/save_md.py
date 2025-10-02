@@ -4,7 +4,6 @@ import re
 from datetime import datetime
 
 # 文件路径
-RESPONSE_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "response")
 OUTPUT_DIR = os.path.join(
     os.path.dirname(os.path.dirname(__file__)), "src", "content", "posts"
 )

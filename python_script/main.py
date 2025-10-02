@@ -7,17 +7,12 @@ from video_to_text import get_bilibili_video_subtitle
 from save_md import generate_full_md, save_md_file
 
 # 设置响应文件保存路径
-RESPONSE_DIR = os.path.join(
-    os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "response"
-)
 OUTPUT_DIR = os.path.join(
     os.path.dirname(os.path.dirname(__file__)), "src", "content", "posts"
 )
 
 # 设置是否无头浏览器
 HEADLESS = True
-# 确保响应目录存在
-os.makedirs(RESPONSE_DIR, exist_ok=True)
 
 
 async def get_series_list():
@@ -115,28 +110,6 @@ async def get_subtitle(video_urls: list) -> dict[str:str]:
     return subtitle_text_dict
 
 
-def save_data(data, filename):
-    """保存数据到文件"""
-    file_path = os.path.join(RESPONSE_DIR, filename)
-    with open(file_path, "w", encoding="utf-8") as f:
-        f.write(str(data))
-    print(f"数据已保存到: {file_path}")
-
-
-def load_data(filename):
-    """从文件加载数据"""
-    file_path = os.path.join(RESPONSE_DIR, filename)
-    if os.path.exists(file_path):
-        with open(file_path, "r", encoding="utf-8") as f:
-            content = f.read()
-            try:
-                # 使用ast.literal_eval安全地解析字符串为Python对象
-                return ast.literal_eval(content)
-            except (SyntaxError, ValueError) as e:
-                print(f"解析文件 {filename} 时出错: {e}")
-    return None
-
-
 def parse_json_to_videos(json_data: dict):
     """将JSON数据解析为视频列表"""
     videos = dict()
@@ -211,9 +184,6 @@ def main():
     new_videos = {key: videos[key] for key in videos.keys() - videos_old}
     videos = new_videos
 
-    # 数据筛选结果为videos，需要保存新数据。覆盖保存
-    save_data(user_responses, "data.json")
-    save_data(got_urls, "got_urls.json")
     print(f"准备处理 {len(videos)} 个视频")
 
     # 获取字幕
