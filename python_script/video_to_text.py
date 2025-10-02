@@ -30,6 +30,7 @@ class VideoSubtitleExtractor:
         current_video_url = None
         get_status = asyncio.Event()
         error_flag = False
+        sleep_time = 0
 
         async with async_playwright() as p:
             browser = await p.chromium.launch(
@@ -78,7 +79,7 @@ class VideoSubtitleExtractor:
 
             # 监听所有响应事件
             async def handle_response(response):
-                nonlocal subtitle_contents, current_video_url, error_flag
+                nonlocal subtitle_contents, current_video_url, error_flag, sleep_time
                 # 获取响应所属页面的 URL
                 page_url = response.request.url if response.request else ""
                 # 检查当前页面的用户 ID
@@ -98,7 +99,7 @@ class VideoSubtitleExtractor:
                             logger.error(
                                 f"获取字幕异常，视频URL：{current_video_url}，错误码：{code}，响应内容: {response_json}"
                             )
-                            await page.wait_for_timeout(15000)
+                            sleep_time = 30
                         else:
                             logger.error(
                                 f"获取字幕失败，视频URL：{current_video_url}，错误码：{code}，响应内容: {response_json}"
@@ -121,6 +122,9 @@ class VideoSubtitleExtractor:
                 await get_status.wait()
                 if error_flag:
                     break
+                if sleep_time > 0:
+                    await page.wait_for_timeout(sleep_time * 1000)
+                    sleep_time = 0
                 get_status.clear()
                 await input_element.clear()
 
