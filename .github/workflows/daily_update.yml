@@ -1,9 +1,9 @@
-name: Weekly Update
+name: Daily Update
 
 on:
   schedule:
-    # 每周一凌晨2点执行
-    - cron: '0 2 * * 1'
+    # 每天北京时间上午9点半执行（UTC时间1:30）
+    - cron: '30 1 * * *'
   # 允许手动触发工作流
   workflow_dispatch:
 
@@ -54,6 +54,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Weekly update: $(date +'%Y-%m-%d')"
+            git commit -m "Daily update: $(date +'%Y-%m-%d')"
             git push origin main
           fi
