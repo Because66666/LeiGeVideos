@@ -1,6 +1,6 @@
 ---
 title: 尽力了后羿太贵了，只能玩补位的
-published: 2025-08-26 15:18:35
+published: 2025-08-26 23:18:35
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
@@ -11,37 +11,39 @@ draft: false
 
 视频字幕：
 
-This account might have been played too inhumanly，Now it's impossible to match with real human players anymore.，You can see this Luban has a black proficiency level，The gameplay is utterly inhuman，Let's queue up another match to show you the intensity of the game。
+这号可能是打的太不是人了，现在已经排不到人类了，可以看到这个鲁班是黑色熟练度的，打的也是完全不是人啊，再开一局给大家看看对局强度。
 
-This alternate account is used to test rotating through multiple roles.，Currently testing rotation between marksman, support, jungle, and off-lane roles.，Then someone might ask，Why no mage，Because the runes are all physical.。
+这个小号是用来测很多分路轮着玩的，目前测的是射手，辅助打野对抗轮着玩，这时候有人就问了，怎么没有法师啊。
 
-As you can see, the people I'm laning against are all acting like complete idiots.，Currently this alternate account is at the Starcrest tier，Someone here said，I'll eat my hat if this rank is above Gold，Ah。
+因为铭文全是物理的，哎可以看到跟我对线的这些人都傻不拉几的，目前这个小号是在星耀段位啊，这里有人就说了，这段位超过黄金。
 
-This is truly the Starry Glory rank，I finally managed to climb up here，Someone is definitely going to ask again here，Is the alternate-positioned Hou Yi a human player?，Those veteran players who started earlier all know。
+我吃啊，我这真是星耀段位啊，我好不容易打上来的啊，这里肯定又有人问了，补位后羿是人类吗。
 
-Back when creating an account, the game didn't give you Hou Yi for free, it only gave you Arthur.，Tried my best, couldn't afford Hou Yi，Ah，Fortunately, the hero Hou Yi is permanently free to use.，So no need to buy, these 4 deadweights。
+那这个玩的比较早的老玩家都知道啊，以前创号他是不送后羿，只送亚瑟的，尽力了，没钱买后羿啊。
 
-It doesn't matter whether you buy it or not，rotating through these different lanes，It's not very stable at the moment，This account has reached Star Glory rank，but my other account seems to be stuck in an endless cycle in Diamond tier。
+刚好后羿这个英雄是永久限免的，所以不用买这四个赔钱货，买不买都一样啊，这几条分路轮着玩，目前还不太稳定啊。
 
-Win two matches, lose one，Feels like it's going to be one win followed by one loss if I keep playing.，However, one thing is quite obvious，it's about switching between multiple lanes，The matched players are all particularly dumb。
+这个号是上星耀了，但是我的另一个号疑似在钻石局入轮回了啊，赢两局输一局啊，感觉再打下去就是赢一局输一局了，不过有一点比较明显。
 
-whether it's teammates or opponents，It feels like none of them are human，Compared to other one-trick smurf accounts，accounts that play multiple lanes，The players I matched with can no longer be described as low-level bots。
+就是几条分路轮着玩，匹配到的人都特别的傻，不管是队友还是对面，感觉都没有一个是人类啊，对比其他只玩一条分路的鸡爪后。
 
-It's simply artificial idiocy，I guess it's probably because I played multiple lanes, and none of them were real players.，It completely confused the system，Tried my best，Enemy。
+打多条分路的号，匹配到的人已经不能用低级人机来形容了，简直就是人工智障，我猜可能是因为好几条分路打的都没一个是人，把系统都整不会了。
 
-The score is actually tied at 6:6，In a match like this, there's one detail，that is, you must never go AFK，because there isn't a single human on either side，once taken over by the AI。
+尽力了，Enemy，这竟然还能六比六啊，打这样的局有一个细节，那就是千万不能挂机啊。
 
-the AI bots helped me secure multiple kills，Many times our side just couldn't win，made a teammate rage quit，Then that AFK teammate got possessed by bots and carried us.，claiming to be equal in skill level。
+因为双方都没一个是人，一旦被人机附身，人机就会帮我拿好几个人头啊，很多时候都是我们这边打不过，把一个队友气挂机了。
 
-In reality, both sides couldn't withstand each other，Can we get some real evenly-matched opponents，I'm just stealing a tower，Why is the entire enemy team coming to the bottom lane?，Great, the Creator God Pangu has come to help me.。
+然后那个挂机的队友被人机附身带飞了，我们啊说是同等水平，实际上我们双方都招架不住啊，能不能来点真的同等水平的，我就是偷个塔。
 
-How dare this Luban attack my high ground，Now I'm saved，Me teammates have all arrived.，How is it still alive，Come take a look。
+怎么对面所有人都来下路了，太好了，创世神盘古来帮我了，这个鲁班竟然敢打我的高地，这下我有救了。
 
-Damn，I got the kill，No problem，Fortunately, I've farmed enough skulls.，Finally reached the high ground。
+我的队友也全都过来了，怎么还活着，过来看看啊，不好，人头被我拿到了。
 
-Watch me counterkill Luban in one go，then demolish the high ground，Not good enough, I tried my best.，teammates fighting，I focus on destroying towers while each does their part。
+问题不大，还好我骷髅头刷的多，终于拆到高地了，哎看我直接反杀鲁班，然后把高地给拆了。
 
-After fighting for a long time, only my bottom lane lost two towers.，huge advantage，Tried my best but couldn't defeat the minions，You can see both sides are still fighting quite fiercely，I also fought very hard，Finally reached the opponent's crystal，This really exhausted me.
+不好尽力了，队友打人，我拆塔，各司其职，打半天就我下路掉了两个塔。
+
+大顺风啊，尽力了哎别了，尽力了，没打过小兵，可以看到双方打的还是很激烈的，我也是打的很辛苦，终于打到对面水晶了，哎这可真是累死我了
 
 ---
 
@@ -49,4 +51,4 @@ After fighting for a long time, only my bottom lane lost two towers.，huge adva
 
 时长：03:35
 
-发布时间：2025-08-26 15:18:35
+发布时间：2025-08-26 23:18:35

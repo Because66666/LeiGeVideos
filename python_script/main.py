@@ -110,7 +110,7 @@ async def get_subtitle(video_urls: list) -> dict[str:str]:
     return subtitle_text_dict
 
 
-def parse_json_to_videos(json_data: dict):
+def parse_json_to_videos(json_data: dict) -> dict[str:dict]:
     """将JSON数据解析为视频列表"""
     videos = dict()
     for item in json_data:
@@ -140,11 +140,7 @@ def get_urls_by_dir() -> list:
     video_urls = []
     try:
         files = os.listdir(OUTPUT_DIR)
-        video_urls = [
-            f"https://www.bilibili.com/video/{file.split('.')[0]}"
-            for file in files
-            if file.endswith(".md")
-        ]
+        video_urls = [f"{file.split('.')[0]}" for file in files if file.endswith(".md")]
     except Exception as e:
         pass
     return video_urls
@@ -193,5 +189,45 @@ def main():
     process_videos(video_list)
 
 
+def experimental_main():
+    # 从文件夹中加载已经获取的数据
+    videos_old = get_urls_by_dir()
+
+    # 获取新数据
+    print("从API获取系列列表...")
+    user_responses, got_urls = asyncio.run(get_series_list())
+    videos: dict[str:dict] = parse_json_to_videos(user_responses)
+
+    # 筛选 videos 有而 videos_old 没有的键，并返回对应值
+    new_videos = {key: videos[key] for key in videos.keys() - videos_old}
+    videos = new_videos
+
+    print(f"准备处理 {len(videos)} 个视频")
+
+    # 获取字幕
+    video_list = list(videos.values())
+    if not video_list:  # 列表为空
+        return
+
+    video_urls = [video["link"] for video in videos.values()]
+
+    async def get_subtitle_(video_urls: list) -> dict[str:str]:
+        import experiments
+
+        # 使用自定义的函数
+        subtitle_text_dict = await experiments.get_bilibili_video_subtitle(
+            video_urls, headless=HEADLESS
+        )
+        return subtitle_text_dict
+
+    subtitle_text_dict: dict[str:str] = asyncio.run(get_subtitle_(video_urls))
+    for video in videos.values():
+        video["subtitle"] = subtitle_text_dict.get(video["link"], "")
+        # 保存到指定的markdown文件
+        markdown_content, file_name = generate_full_md(video)
+        if markdown_content:
+            save_md_file(markdown_content, file_name)
+
+
 if __name__ == "__main__":
-    main()
+    experimental_main()
