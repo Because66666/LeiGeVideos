@@ -69,7 +69,9 @@ def generate_full_md(videos_data):
 
 # 保存Markdown文件
 def save_md_file(content, file_name):
+    if not os.path.exists(OUTPUT_DIR):
+        os.mkdir(OUTPUT_DIR)
     file_path = os.path.join(OUTPUT_DIR, file_name)
     with open(file_path, "w", encoding="utf-8") as f:
         f.write(content)
-    # print(f"已成功生成Markdown文件: {file_path}")
+    print(f"已成功生成Markdown文件: {file_path}")

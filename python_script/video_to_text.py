@@ -101,7 +101,11 @@ class VideoSubtitleExtractor:
                             logger.error(
                                 f"获取字幕异常，视频URL：{current_video_url}，错误码：{code}，响应内容: {response_json}"
                             )
-                            error_flag = True
+                            msg = response_json.get("message", "")
+                            if "请求过于频繁，请稍后再试！" in msg:
+                                sleep_time = 30
+                            else:
+                                error_flag = True
                         else:
                             logger.error(
                                 f"获取字幕失败，视频URL：{current_video_url}，错误码：{code}，响应内容: {response_json}"
