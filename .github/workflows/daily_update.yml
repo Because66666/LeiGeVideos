@@ -10,7 +10,7 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
-    name: Update Bilibili Hot Videos
+    name: Update Videos
     
     permissions:
       # 需要写入权限来推送更改
