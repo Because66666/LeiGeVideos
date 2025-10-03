@@ -1,53 +1,53 @@
 ---
 title: 17秒连破2塔，鸡爪蒙恬还是太强了
-published: 2025-05-17 01:00:00
+published: 2025-05-17 09:00:00
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
 ---
 
 
-> 作者：[磊哥游戏](https://space.bilibili.com/268941858?spm_id_from=333.788.upinfo.head.click)
+> 作者：[磊哥游戏](https://space.bilibili.com/268941858)
 
 视频字幕：
 
-Some followers reincarnate and create smurf accounts, ending up in Bronze-tier matches that feel like peak-rank games，full of smurfs，and they don't even get matched against veteran players on the other side，What's going on here，This clearly indicates the account has been flagged.。
+有的粉丝转身开小号打的青铜局跟巅峰赛一样，全是炸鱼的啊，而且他们那边还不刷新老玩家啊，这是怎么回事呢，这很明显是账号被标记了。
 
-At this point, the white knights are about to speak up，How could Honor of Kings go to such great lengths，to mark your account，Such a big company coming after you personally，People who say such things must have nothing useful at home。
+这时候就有狗托要发言了，王者荣耀怎么会费这么大功夫过来，标记你账号呢，那么大一个公司过来针对你一个人啊，说这话的人家里请什么都没有用了啊。
 
-Let me put it this way，even those Flash-based web games，it will tag accounts，You're telling me Honor of Kings doesn't tag accounts，This is not some high-tech stuff。
+我这么跟你讲吧，就连那种flash端的网页游戏，他都会标记账号，你跟我说王者荣耀不会标记，这又不是什么高科技。
 
-Isn't it just about adopting different strategies for different groups of people?，Moreover, this test was conducted last year with two accounts at the same rating，same rank same time，play the same lane for matching，one takes five to six minutes to match。
+不就是对待不同人群采用不同的策略吗，而且这个测试去年就做过了两个账号，在相同的评分，相同的段位，相同的时间玩相同的分路进行匹配。
 
-the other one gets matched instantly，Why is this happening，So hard to guess，Could it be that there were only 11 people playing Honor of Kings during that time period?，The first 10 players were matched together。
+一个要匹配56分钟，另一个秒匹，这是为什么呢，好难猜啊，难道那个时间段玩王者荣耀的一共就11个人。
 
-Was that person left out?，After another 5 minutes，The number of active players in Honor of Kings increased to 20 people，So the match was made，Some crappy accounts are simply unplayable。
+前面十个人匹到一起了，把那个人给落下了吗，之后又过了5分钟，王者荣耀的活跃人数变成了20个人，所以匹配进去了。
 
-It's like being the naturally untalented type in the cultivation world，Ten years of cultivation is not worth one year for others，In the context of the game，you grind for ten days but gain less rank than others achieve in just one day，Account tagging, to put it bluntly, is big data-based price discrimination.。
+有的破号他就是玩不了，属于是修炼界的天生废体，修炼10年不如别人一年，换到游戏里，就是你上十天分。
 
-mark you as a prison-bound player，then relentlessly exploit the captive players，After all, loyal players are less likely to quit the game.，and even self-motivate，Why doesn't he target newbies。
+没别人一天上的快，账号标记，说句大白话就是大数据杀手把你标记成老玩家，然后把老玩家往死里头整，反正老玩家退游概率比较小。
 
-Punish them and they'll quit the game，What's the point?，For example, as repeatedly shown in previous videos, players who perform poorly are expected to lose 3 points next time.，Expected to deduct 3 points next time，Veteran players are expected to lose 4 points next time。
+而且还会自我激励，他怎么不去整萌新啊，整一下人就退游了，还整个毛线啊，再比如说之前视频里一直出现的打的菜的。
 
-Why is this the case?，So if you create a smurf account，find the difficulty level is still extremely high，it means this account is already ruined，The result of you continuing to play。
+预计下次扣三分，老玩家预计下次扣四分，这又是为什么呢，所以说你要是创了小号，发现强度还是非常高。
 
-from Prisoner Player No.1 to Prisoner Player No.2，still trapped，Look at this account of mine, I've almost played a hundred matches，every game ends with zero kills，No points were deducted at all。
+说明这个号就已经废了，你接着玩下去的结果，就是从老玩家一号变成了老玩家，2号还是个老玩，你看我这个号打了也快有上百局了。
 
-You're playing like this with a veteran's account，You must have intentionally thrown the match.，Respawn tutorial at the 50-second mark，It's almost 4 minutes.，All troops, assemble immediately。
+每局都零杠几，一分都没有扣啊，你拿老玩家的号打成这样，你肯定去驿站卖了啊，开局50秒复活教程。
 
-Arthur has returned，Ignore him，This is a good thing，As long as I'm not killed by the tower，won't receive a warning if Arthur doesn't support his teammates。
+快到4分钟了，直接全军列阵，亚瑟回来了，不用管他啊，这是一件好事啊。
 
-I'm freezing the lane and watching videos here，Arthur went to support his teammates，I pushed straight to the second tower，This siege minion didn't make it in，Damn it。
+只要我不是被塔打死的，就不会被警告我亚瑟不去支援他的队友，我在这里卡线刷视频，亚瑟去支援他队友，我直接推到二塔了。
 
-No problem, taking down the tower without minions is still quick，So this Arthur and Kai are just camping in my off-lane, huh?，Can't push the offlane，went to the middle lane，Just as the Mid-lane's Daji also met her demise。
+哎这个炮车没进来，坏了没事啊，无兵线拆塔也很快啊，这亚瑟跟凯就住在我对抗路了是吧，对抗路拆不了。
 
-Team has destroyed turret，Sigh，Now is the time to show your loyalty.，Now we need the minions to tank.，If I take the hit, I'll die。
+到中路了，刚好中路的妲己也去世了，Team has destroyed turret，哎，展现你们忠心的时候到了。
 
-We can probably end the game now.，The enemy hasn't returned, Annie.，Go and instantly kill the enemy's Daji.，Not good, we've dragged it out until Arthur respawned.，Neither attacking early nor late。
+哎现在需要小兵扛了，我扛的话我就死了哎，感觉可以一波了啊，对面都没有回来，安琪拉。
 
-Now I can't save you either，The enemy team is actually doing the dragon, come take a look，I tried my best，Burned a flash, not bad，They are clearing the minions, but actually missed a minion in the mid lane.。
+你去把对面妲己秒掉啊，不好把亚瑟都拖复活了啊，早不进攻，晚不进攻，这下我也救不了你了啊。
 
-Just lead this Kai towards our teammates and that's enough，I don't want to bear the bad reputation of killing Kai.，The enemy's return is already too late，That's all for today
+对面竟然在打龙过来看看，尽力了，哎骗了一个闪现不亏啊，他们清线中路竟然漏掉了一个小兵，直接把这个凯往队友这边引就行了，我可不想背负杀凯的恶名啊，哎对面回来已经太晚了，今天先
 
 ---
 
@@ -55,6 +55,6 @@ Just lead this Kai towards our teammates and that's enough，I don't want to bea
 
 时长：03:52
 
-创建时间：2025-05-16 17:03:19
+创建时间：2025-05-17 01:03:19
 
-发布时间：2025-05-17 01:00:00
+发布时间：2025-05-17 09:00:00

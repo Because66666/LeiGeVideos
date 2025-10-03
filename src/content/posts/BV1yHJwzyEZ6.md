@@ -1,35 +1,37 @@
 ---
 title: 鸡爪流也有大开杀戒的一天，妨碍我的人，都得死
-published: 2025-05-19 02:00:00
+published: 2025-05-19 10:00:00
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
 ---
 
 
-> 作者：[磊哥游戏](https://space.bilibili.com/268941858?spm_id_from=333.788.upinfo.head.click)
+> 作者：[磊哥游戏](https://space.bilibili.com/268941858)
 
 视频字幕：
 
-First, let's test if this Li Xin is using the chicken claw strategy. He can dodge, seems not a fellow practitioner.，Since we're not in the same field, I can rest easy.，Ah，The enemy jungler is coming to gank me，Just ignore him。
+先过来测一下这李信是不是鸡爪流会躲，看来不是同行，不是同行，我就放心了啊，对面打野来抓。
 
-My eyes are only on the minions and the tower, come and cut off the minion wave.，I've done my best，This Li Xin is in such a sorry state，dare to come and pressure my tower，But I cannot kill him。
+我不必管他，我的眼里只有兵线跟塔过来把兵线给断了，哎尽力了，这李信打成这个鸟样，竟然还敢过来压我的塔。
 
-I endure, not only do I not kill him，I cleared the minion wave and even came over to give him a kill，This Li Xin saw that I was dead，transformed into Dark Li Xin，destroyed my defense tower。
+但是我不能杀他，我忍我不仅不杀他，我把兵线清完，还过来给他送一个，这李信看我死了。
 
-I'll endure it again, he's not going back to base with so little health，It's because he realized I wouldn't attack him，Then right in front of Me, he's here stealing our blue buff，I'll keep enduring，This Li Xin never supports his teammates。
+变成了暗信，把我防御塔给拆了，我再忍他这么点血也不回家，就是因为他看出来了，我不打他。
 
-was stubbornly clinging to my off-lane，He follows me wherever I go，Finally, I seized the opportunity，Our Hou Yi sneaked and destroyed the enemy's high ground，Li Xin went back to defend.。
+然后就当着我的面在这里偷我们家蓝Buff，我再忍，这李信根本不去支援他，队友就在我对抗路死磕，我走到哪。
 
-Finally left，Do you think you're safe just by going back to catch Houyi?，There are only three turrets left in the top lane.，You still refuse to defend the crystal，Your turret。
+他跟到哪，终于给我逮到机会了，我们家后羿偷掉了对面的高地，李信回去守了，终于走掉了。
 
-destroyed three turrets in a row，All the early-game advantages Li Xin had built up were completely wiped out，suddenly at a disadvantage，It's only 0-3 now，There are still plenty of revival coins left。
+你们以为回去抓后羿就安全了吗，上路只剩三个防御塔了，你们竟然还不守水晶，Your turret，连破三座防御塔。
 
-directly pushing the tower without minions，Where is Angela，smart little friends，Have you seen Annie?，With my overall score like this, going 0-8-0 is totally fine.。
+李信前期建立的优势全部荡然无存，直接逆风了，现在才零杠三，复活币还多着呢，直接无兵线拆塔。
 
-There's no one around this tower.，I thought nobody wanted this thing.，Now that the defense towers are all destroyed，Only the crystal is left，There are only two enemies defending the base。
+嗯安琪拉在哪里啊，聪明的小伙伴们，你们有看到安琪拉吗，就我这个综合评分送成零杠八杠零都是没事的，这塔周围一个人没有。
 
-Just go for the kill，Anyone who stands in my way shall perish, there's no place for you here.，I can't even be bothered to activate defensive stance，poked to death，and even ended up making the enemy Li Xin the MVP
+我还以为这玩意没人要呢，现在防御塔拆完了，只剩水晶了，对面只有两个人守家，直接杀就完事了。
+
+妨碍我的人都得死死地容不下你，我都懒得开防御形态，直接戳死了哎，还把对面李信送成了MVP
 
 ---
 
@@ -37,6 +39,6 @@ Just go for the kill，Anyone who stands in my way shall perish, there's no plac
 
 时长：02:15
 
-创建时间：2025-05-17 04:24:17
+创建时间：2025-05-17 12:24:17
 
-发布时间：2025-05-19 02:00:00
+发布时间：2025-05-19 10:00:00

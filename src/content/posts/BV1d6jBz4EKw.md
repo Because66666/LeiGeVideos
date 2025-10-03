@@ -1,49 +1,51 @@
 ---
 title: 有一个疯狂的策划，把你大脑放到了装满Elo的大缸里
-published: 2025-05-31 00:00:00
+published: 2025-05-31 08:00:00
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
 ---
 
 
-> 作者：[磊哥游戏](https://space.bilibili.com/268941858?spm_id_from=333.788.upinfo.head.click)
+> 作者：[磊哥游戏](https://space.bilibili.com/268941858)
 
 视频字幕：
 
-Mind-bending Paradox – Prison in a Vat，There's a crazy Honor of Kings designer，put your brain into a big vat filled with Elo，and daily feeds your brain with the notion，If you lose, it's because you're bad, and if you're bad, you need to practice more.。
+烧脑悖论，缸中之牢，有一个疯狂的王者荣耀策划，把你的大脑放进了一个装满ELO的大缸里，并且每天向你的大脑灌输。
 
-even if you're 10-0，Even if your teammate is 0-10, it's still your fault，asking you to reflect on your own issues，Under such circumstances，How can you prove that the loss wasn't due to your poor performance and has nothing to do with you。
+打输了就是你打的菜菜就要多练，即使你十杠零，你的队友零杠十也依然是你的问题，要你找找自己的问题，在这样的环境下。
 
-Angela, let him go，I have to step in for this one，Go save my teammate，There's no point anyway，Let the teammates take the kill。
+你要如何证明输了不是你打的菜跟你没关系，安琪拉放他一马，哎这个我得管一下了，去救一下我的队友啊，反正也没分啊。
 
-The score is now 1:7.，Some of these teammates actually fed even faster than I did，Especially this Kai, he's simply not human，1 minute and 40 seconds to exit the blue buff area，How could that even be human?。
+人头让给队友，比分直接一比七了，这些队友竟然有的送的比我还快啊，尤其是这个铠根本不是人，1分40秒出蓝区。
 
-probably because I'm on a 5-game winning streak，trying to make things a bit harder for me，to snap my winning streak and start feeding，like a failing student during an exam，You dare to give me difficult problems。
+那还能是人吗，估计是我五连胜，想要给我上点难度，断，我的连胜直接开送。
 
-I'll just hand in a blank paper，This question is way beyond my level.，I just can't do it at all，I had no choice but to hand in a blank test paper.，not assigning me prison players。
+犹如考试时的差生，你敢给我上难题，我就交白卷，这题太超纲了，根本不会写。
 
-I'll just get a rating of 2-point-something，severely shock the system，After dying a few times，Our team's score gradually normalized，The wild 'prisoner player' also jumped out。
+只能交白卷了，不给我找老玩家，我就打个二点几的评分，狠狠的震撼系统，死了几次之后。
 
-It's Yu Ji, the hero Lan Ling Wang，as long as there are no kills，die a few more times，with a guaranteed score around 2-point-something, the prisoner player is in danger，I've got to help out with this。
+我们这边比分逐渐正常了，野生的老玩家也是跳出来了，是虞姬兰陵王这个英雄啊，只要没人头，再多死几次。
 
-The low score is just perfect，help if I want to，There's still the Primal Bond now，This Xiao Qiao just brought Kai over to slay the dragon，These two are not human。
+报二点几分的老玩家有危险，这我得帮一下了，这评分低就是好啊，想帮就帮啊，现在还以为原初羁绊。
 
-After the fight, we must pay our utmost respects to Kai，let him serve a life sentence，Fortunately, the 'prisoner' Yu Ji on our team is incredibly strong，18 out of the 20 kills are related to him，He is now 15-1-3。
+这个小乔就带着凯过来打龙啊，这两个都不是人啊，打完之后必须给凯狠狠的致敬啊，让他一劳永逸，好在我们这边的虞姬老玩家非常强大。
 
-As for this Kai, after playing for almost 16 minutes，He only has 8,000 gold，waiting to be honored，His 8,000 gold was still earned by leeching off Zhuang Zhou's support item.，He came to backdoor with Teleport, what the hell is this。
+20个人，18个人头都跟他有关系，他现在是15杠一杠三，至于这个铠打了快16分钟了，他就只有8000块钱。
 
-He died after just a couple of hits，I thought it was a super minion.，Successfully took down the high ground，I don't know what's going on with that enemy Annie.，so fond of backdooring。
+等着被致敬吧，他的8000块钱还是吃庄周辅助装吃出来的，带传送过来偷塔什么玩意，摸两下就死了，我还以为是超级兵呢。
 
-My teammates are taking the dragon here.，I'm here to help my teammates scout the area，When necessary, I can randomly take out one person.，Forget about this Origin Streamer, can't take them on，Ah。
+成功拿下高地，对面这个安琪拉不知道什么情况，那么喜欢偷塔，队友在这里打龙，我来这里帮队友看一下视野。
 
-Look for where the enemy Sun Shangxiang is，This one is manageable，My teammates are taking down the dragon pretty quickly.，I won't help with this one，Because the primordial stream child, Me teammates can definitely handle it。
+必要时候可以随机杀掉一个人，这个源流之子就算了，打不过啊，找找对面孙尚香在哪，这个还是打得过的。
 
-Where did Sun Shangxiang go?，Annie is still over there backdooring the tower，teleport over directly，Just let Annie go without killing her，Just clear the minion wave and it'll be fine。
+哎队友打龙打的还挺快，这我就不帮忙了啊，因为源流之子我的队友肯定能打得过，孙尚香怎么不见了，安琪拉他还在那边偷塔。
 
-Anyway, his Annie can't push towers without minions.，Pushing your luck，I won't kill you，Do you really think I can't beat you?，equipped with the Thunder Sect's secret technique of Stun。
+直接传过来，安琪拉就不杀他了，把兵线清掉就可以了，反正他安琪拉也不能无兵线拆塔，欺人太甚。
 
-So you really are a pro，The comment section often sees people saying they play the 'chicken claw' style but it's ineffective.，with a comprehensive score already over 70，didn't convict you of intentional defeat，is already the greatest mercy from the benevolent judge，When liking, I found that this Kai has already become the team's shining light.
+我不杀你，你真觉得我打不过你，带的还是雷电宗的秘法眩晕，看来还真是个高手啊，评论区经常看到有人说自己玩鸡爪流没有效果。
+
+一看综合评分都70多了，没判你蓄意战败，已是青天大老爷最大的仁慈了，哎点赞的时候发现这个凯已经是团队时光了
 
 ---
 
@@ -51,6 +53,6 @@ So you really are a pro，The comment section often sees people saying they play
 
 时长：03:14
 
-创建时间：2025-05-28 16:44:57
+创建时间：2025-05-29 00:44:57
 
-发布时间：2025-05-31 00:00:00
+发布时间：2025-05-31 08:00:00

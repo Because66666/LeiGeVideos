@@ -213,12 +213,13 @@ def experimental_main():
         return
 
     video_urls = [video["link"] for video in videos.values()]
+    from tqdm import tqdm
 
     async def get_subtitle_(video_urls: list) -> dict[str:str]:
         import video_to_text_old as experiments
 
         subtitle_text_dict: dict[str:str] = {}
-        for url in video_urls:
+        for url in tqdm(video_urls):
             # 使用自定义的函数
             subtitle_text = await experiments.get_bilibili_video_subtitle(
                 url, headless=HEADLESS

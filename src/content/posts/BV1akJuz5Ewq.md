@@ -1,55 +1,57 @@
 ---
 title: 还好我手法高超，否则这波就拿到人头了
-published: 2025-05-20 02:00:00
+published: 2025-05-20 10:00:00
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
 ---
 
 
-> 作者：[磊哥游戏](https://space.bilibili.com/268941858?spm_id_from=333.788.upinfo.head.click)
+> 作者：[磊哥游戏](https://space.bilibili.com/268941858)
 
 视频字幕：
 
-Isn't my teammate already pushing their high ground?，Why doesn't he go defend his base?，stuck in a deadlock with me for 6 minutes，He actually rushed straight over，can't take a single hit。
+不是我队友都打到他高地了，他怎么不去守家呀，跟我在这死磕了6分钟，他竟然直接冲过来了啊，不能打一下都不能打。
 
-Through a field of flowers without touching a single petal，Thankfully, I've encountered this situation quite often these days.，I'm using Meng Tian to hold the lane here，The enemy gets impatient and rushes over directly，If I fight him。
+哼百花丛中过片叶不沾身，还好这几天这种情况，我经常见，我拿蒙恬在这里卡线，对面急了就会直接过来。
 
-this kill will be mine，4 minutes later he was killed，his tower is naturally gone，Actually, there's another advantage to playing Meng Tian，This hero is particularly slow in providing support.。
+我要是打他，这人头就是我的了，呃down4分钟之后他去世了，他的塔自然是没油了，其实玩蒙恬还有一个好处啊。
 
-For example, if you're playing Li Xin，your teammate comes to gank for you，in a 1V1 duel with the opponent，At this moment, if you just stand by and watch, doesn't your conscience bother you?，If you go help, you might easily get the MVP。
+就是这个英雄他支援特别慢啊，比如说你玩李信，你的队友过来帮你抓，跟对面1V1单挑，这个时候你在旁边看着是不是良心过不去啊。
 
-Meng Tian is different，This thing is ridiculously slow，Ah, tried my best，want to provide assistance，I can't catch up with the enemy。
+你要是过去帮忙又容易得MVP，蒙恬就不一样了，这玩意跑得慢的要死，哎，尽力了。
 
-I just slowly walked in defensive stance，Can't catch up with them, nothing I can do，Haha，And even if I catch up，I can still slowly charge up。
+想去支援，我追不到对面啊，我就开着防御形态慢慢走，追不到对面，没办法哈哈。
 
-After charging for so long, it's bound to miss. I tried my best.，When hit, immediately move away from the minion wave，Even if I die，these minions can also go to push the tower，Anyway, my teammates are helping me gank。
+而且就算追到了，我还可以慢慢蓄力啊，蓄力了半天肯定打空了嗯尽力了，被打了，直接远离兵线。
 
-I just stay there charging my power，I'll never strike unless fully charged，when I'm fully charged，the enemy had already escaped，I can't catch up if they run away。
+哎这样即使我死了，这些小兵也可以去推塔，反正队友帮我抓，我就搁那里蓄力，不蓄满力。
 
-A closed loop has formed，This Zhong Wuyan has been stubbornly fighting me this whole match，Ah，can't tear down his tower，I'll just come and take his dragon。
+我绝对不打出去，等我蓄满了，人早就跑了，跑了我又追不上啊，星辰闭环了。
 
-Anyway, my teammates are better than his teammates，I'm not in a hurry either，the moment it's time，He comes right on time to clear the minion wave，It's really annoying。
+这钟无艳，这局就跟我在这里死磕啊，拆不了他的塔，我就过来打他的龙，反正我的队友比他的队友厉害。
 
-Looks like I'll have to use my life as bait to protect the minions and push the tower.，He's chasing me now，Luckily I have Swift Boots，It's clear that he really wants to kill me，Because I've been zoning him out for the first 6 minutes。
+我也不着急，这时间一到，他准时过来清线啊，真的很烦人啊，看来只能用生命做诱饵来保护小兵推塔了。
 
-almost starved him to death，Right now, the dragon minion is attacking his tower，He must have gone back to clear the dragon minions.，So I also came here to clear the dragon，That makes perfect sense。
+他现在跑过来追我，还好我有疾跑鞋，看得出来他真的是很想杀我，因为我前6分钟都在卡他的线，把他快饿死了。
 
-Then come over to clear the minion wave，Just leave directly，I knew he was waiting to ambush me here，Hmm，want to push his tower。
+都现在那条龙兵在打他的塔，他肯定回去清龙兵了，所以我也过来清条龙，这很合理，再过来把兵线清了。
 
-must kill him，or lure him away，Our jungler has been killed，That's great，The jungler got ganked。
+直接走就可以了，我就知道他在这蹲，我嗯，想推他的塔，必须把他弄死。
 
-which means I'm safe now，come to sneak a tower，Liu Shan is also pushing the high ground，They simply don't have time to deal with me，How come you're back so soon。
+或者把他支走，我们打野被打死了，真是太好了啊，打野被抓了，说明我就安全了啊。
 
-I almost took down the high ground as well，Just leave，Because the minion wave is coming now，as long as I can lure him away，My minions will naturally take down that high ground。
+过来偷塔，刘禅也在拆高地，他们根本没空过来管我哈，怎么这么快就回来了，我差点就把高地也拆了。
 
-I can die，but my minions must survive，If I die here at the high ground，This minion won't survive either，Successfully took down the enemy's high ground。
+直接走，因为现在兵线过来了，只要把他支走，我的小兵自然会拆掉那座高地，我可以死。
 
-then go take the dragon，Now 0-4，credited to Meng Tian's four minions，This great general hasn't died even once，It feels like we might be able to destroy the enemy's crystal.。
+但是我的小兵必须活着，我要是死在高地这里，这个小兵也活不了啊，哎成功拿掉对面的高地进攻，再过来打条龙。
 
-But there's a Sun Shangxiang here，Kai has gone back，Can't destroy it now，Oh no，Oh no, I still ran into Sun Shangxiang.。
+现在零杠四啊，记在蒙恬的四个小兵身上，本大将军一次都没死，感觉好像能拆对面的水晶啊，但是这有孙尚香呃。
 
-Uh，This is a family matter between Liu Shan and Sun Shangxiang，This general prefers not to interfere，Has been slain，I just want to come and destroy the tower，Your team an ally，Has been slain
+凯回去了，拆不了了，哎不好，还是撞到孙尚香了，呃。
+
+这是刘禅跟孙尚香的家事，本将不便多管，Has been slain，我只想过来拆塔，Your team an ally，Has been slain
 
 ---
 
@@ -57,6 +59,6 @@ Uh，This is a family matter between Liu Shan and Sun Shangxiang，This general 
 
 时长：03:24
 
-创建时间：2025-05-18 05:15:56
+创建时间：2025-05-18 13:15:56
 
-发布时间：2025-05-20 02:00:00
+发布时间：2025-05-20 10:00:00

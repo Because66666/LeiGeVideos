@@ -1,47 +1,47 @@
 ---
 title: 辅助不出宝石，那只能我李信出宝石了
-published: 2025-05-27 02:00:00
+published: 2025-05-27 10:00:00
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
 ---
 
 
-> 作者：[磊哥游戏](https://space.bilibili.com/268941858?spm_id_from=333.788.upinfo.head.click)
+> 作者：[磊哥游戏](https://space.bilibili.com/268941858)
 
 视频字幕：
 
-Why is Li Xin building a support item?，Some people must be confused，This is called being a real man who knows when to yield and when to stand firm.，Our support isn't buying the blessing item this game，Is there really such a good thing。
+怎么李信出辅助装了啊，肯定有人就看不懂了啊，这叫大丈夫能屈能伸，这把我们的辅助他不出宝石，还有这种好事。
 
-If he won't buy the support item, then I will，Ah，There are three benefits，First, this thing makes you run really fast，It's very useful。
+他不出宝石，我来出啊，这有三种好处啊，第一是这玩意跑的很快，很好用啊。
 
-Secondly, this way when I go to clear the minion wave, all the gold goes to my teammates.，Me's economy score can be lowered，Third, boosting teammates' economy higher，teammates can then become the imprisoned players，There's one detail to pay attention to。
+第二这样子我去清线经济全都算队友的，我的经济分就可以压下去了，第三把队友的经济送高了，队友就可以当老玩家了，就是有一个细节要注意。
 
-you just can't upgrade the Winged Spear，Upgrading to the Shadow Cloak would render all previous efforts useless.，Come kill the dragon when you have nothing better to do.，It's great to have the support item here，This money is also counted towards him.。
+就是不能升级极影，升级极影前面做的一切都废了啊，闲着没事干过来打条龙，这有辅助装就是好啊，这钱也是算在他身上了。
 
-A follower mentioned he plays the 'chicken claw' strategy，What should he do if his teammates always pick Li Yuanfang to screw him over?，Are you stupid，You already know your teammate is going to play Li Yuanfang，Why don't you just ban him?。
+有粉丝说他玩鸡爪流，他的队友老选李元芳坑他怎么办，你傻呀，你都知道你的队友要玩李元芳了，你不会把他禁了吗。
 
-Although I said normally I'd ban Da Qiao，but I also ban Yao and Li Yuanfang，I'm just afraid my teammates would pick her. If they play Loli and do nothing，riding on my head，I'm just a split pusher。
+虽然我说正常情况下禁大乔，但是我也会禁瑶跟李元芳，就是怕队友选他玩瑶啥都不干，骑在我头上啊，我就是一个偷塔的。
 
-Then I go feed, getting a double kill for them.，So when I feel something is off，This Yao obviously isn't human，I'll just ban Yao，As for Li Yuanfang。
+然后我去送买一送一啊，所以说当我感觉不对，这个瑶一看就不是人，我就会把瑶给禁掉，至于李元芳啊。
 
-That's pure hero discrimination，I don't care if you can play it or not，seeing a teammate preselect Li Yuanfang，just ban it directly，let him play Li Yuanfang here。
+那就是单纯的英雄骑士，我管你会不会玩啊，看到队友预选，李元芳直接禁掉，让他玩李元芳。
 
-the enemy might push to our high ground in just 4 minutes，So if you think your teammate absolutely can't play this hero，then just ban him，Here someone might ask，What if he starts slacking off then?。
+我们这里可能4分钟就被对面打到高地了，所以说你感觉你的队友根本就不会玩这个英雄，那你就把他禁了就可以了，这里有人就问了，那他开摆了怎么办。
 
-What's going on here，Why isn't Luban moving?，How strange，This Luban and Sun Ce both stopped moving at the same time，What's going on。
+这什么情况啊，这鲁班怎么不动了，哎真奇怪，这个鲁班跟孙策同时不动了，是什么情况。
 
-Did both bots lag at the same time?，Going back to the previous topic，If he starts slacking off，He was already playing poorly.，Then it makes no difference whether he slacks off or not。
+两个人机难道同时卡了吗，回到刚才的话题，如果他开摆了，他本来就打的很菜，那他摆跟不摆好像没什么区别。
 
-Whatever he wants，What if he's the only dedicated player on your team，started slacking off，Prisoners slacking off deserve extra punishment，The canyon stands on the side of justice。
+随便他的，那万一他是你们这边唯一的老玩家，开摆了呢，老玩家开牌罪加一等，峡谷是站在正义的一边。
 
-Honor of Kings, the impartial judge will never let you get away with this.，Moreover, if a trapped player is using heroes like Yao or Li Yuanfang，Then it seems like this round is also doomed for you.，Enemy has been，I can tell this match is already lost with these teammates.。
+王者荣耀青天大老爷绝对不会放过你的，而且老玩家如果玩的是瑶跟李元芳，那我看你这把也是没了啊，Enemy has been，这把的队友我看也是完了。
 
-I, a Li Xin with a support gem, actually ended up having the highest economy，All three enemies in the bottom lane's jungle have died again.，See if we can sneak in and take the high ground.，Mi Laidi is right here，Just drive them away。
+我一个出宝石的李信竟然是经济第一，对面三个在下路打野又去世了，看能不能把高地给偷了啊，米莱狄就在这里呀，赶走就行了。
 
-No need to kill him，Oh no, he flashed back，I can't believe it，Was this Flash skill perhaps using that auto-targeting function?，Now the 1-1 score is still too good-looking。
+不用杀他，哎呀，他还闪回来了，真是服了，这个闪现难道是开了那个自动寻敌吗。
 
-I've already sold the support item now，This way I probably won't be identified as a support anymore，Damn, I actually got a 7.6 rating，surpassing 50% of Li Xin players，I'm going to pay tribute to my teammates
+现在一杠一战绩还是太好看了，我现在已经把辅助装给卖了，这样应该就不会判定我是辅助了，完了我竟然打了个7.6分，超越了50%的李信啊，我要去给队友致敬啊
 
 ---
 
@@ -49,6 +49,6 @@ I've already sold the support item now，This way I probably won't be identified
 
 时长：02:55
 
-创建时间：2025-05-24 09:43:14
+创建时间：2025-05-24 17:43:14
 
-发布时间：2025-05-27 02:00:00
+发布时间：2025-05-27 10:00:00

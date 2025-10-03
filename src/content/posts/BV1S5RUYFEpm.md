@@ -1,37 +1,37 @@
 ---
 title: 王者荣耀承伤分已成历史，承伤再高也没有分
-published: 2025-04-07 13:58:59
+published: 2025-04-07 21:58:59
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
 ---
 
 
-> 作者：[磊哥游戏](https://space.bilibili.com/268941858?spm_id_from=333.788.upinfo.head.click)
+> 作者：[磊哥游戏](https://space.bilibili.com/268941858)
 
 视频字幕：
 
-The last video was actually wrong，Instead, all tanks no longer have damage taken score.，Warriors don't have it either，Previously, for example, heroes like Cao Cao who could both take and deal damage，Well, not exactly both tanky and high-damage。
+上期视频其实说错了，不是大部分坦克都没有承伤分，而是所有坦克都没有承伤分啊，战士也没有了，以前比如说像曹操这种能扛能打的角色呃。
 
-Basically, characters with fast healing all have damage absorption points，Now Cao Cao is gone too，Not only is the damage taken score gone，I found that the damage score is also gone，which means now it only depends on your assists and kills。
+并非能扛能打，反正就是回血快的角色都有承伤分啊，现在曹操也没了，不仅承伤分没了，哎我发现输出分也没了。
 
-Nothing else matters，how much damage you dealt，how much damage you've tanked is meaningless，You just need to find a way to secure kills.，except for supports。
+也就是说现在就看你的助攻击杀，其他的都不看啊，你打了多少输出，扛了多少伤害都毫无意义，你只要想办法K头就可以了。
 
-It all depends on kills and team fight participation rate，Supports are evaluated based on assists plus teamfight participation rate.，Finally, the planner also mentioned during the Live，All heroes have economy scores，You just need to farm a bit more gold。
+除了辅助，全看击杀跟参团率，辅助看的是助攻加参团率，最后就是策划也在直播间说了，所有英雄都有经济分啊。
 
-that guarantees a gold medal，So now instead of building tank items to absorb damage in the frontline，might as well focus on securing more kills，As long as you secure the top lane, you can achieve a meter reversal，you still gain one star even if you lose。
+你把钱再刷高一点，那包金牌的，所以你现在与其出肉装在前面抗伤害，还不如想着多K几个头，只要拿到顶级对抗路就可以实现电表倒转。
 
-So in the new season, you absolutely must not play those kinds of，tank-only primitive heroes，even if you have 50% damage taken，your rating will also be a 3.0 carried noob，even if you want to play。
+输了也加一颗星，所以说新赛季千万不能玩那种，只能出全肉装的原始人啊，因为哪怕你50%承伤，你的评分也是3.0的。
 
-you should also bring Execute to secure a few kills，Otherwise your rating will definitely be between 6 to 8，Another advantage of going full damage build，You get no points with a full tank build，and can't even influence the outcome of the match。
+躺赢狗就算要玩，你也要带个斩杀去K几个头，否则你的评分肯定是6~8，全输出装还有个好处，你全肉装不仅没喷。
 
-Look at this match where Xiao Ming is paired with Gongsun Li, both with 0-2.，completely unplayable，But going full damage build can actually turn the tide of battle.，I don't know what's going on，Encountered three Gongsun Li today。
+而且还左右不了对局，你看这局小明带着公孙离两个都零杠二，根本玩不了一点，但是全输出装却可以改变对局，不知道怎么回事。
 
-all paired with Xiao Ming，Every time it's just low-level bots, not even comparable to，At least low-level bots can assess team compositions，No matter how thick the health bar is, one slash will take you down，Alright, now it's time to start saving up for the Blade of Despair.。
+今天遇到三个公孙离，全都是带个小明，每次都是低级人机都不如啊，低级人机至少都会看阵容，血条在后一刀带走好。
 
-My ultimate is almost ready，Both enemy carries are standing together，Directly dash over with the first skill and follow up with the ultimate，Eliminating both enemy carries is worth it，Double kill。
+现在可以开始憋破军了，我的大招快好了，对面两个C位都站在一起啊，直接一技能过去接大招啊，切了双C不亏啊。
 
-Playing Xiang Yu, I love bullying these immobile shooters.，Now the ultimate skill has been enhanced with super armor，The strength has been significantly improved.，Carried the game, almost got dragged down by this Gongsun Li again.，Every Gongsun Li I've encountered these days hasn't had a single positive KDA.
+Double kill，玩项羽就喜欢劈这种没有位移的射手，现在大招加了个霸体啊，强度还是提高了不少的，嗯带飞差点又被这个公孙离坑了，这两天遇到的公孙离就没一个正战绩的
 
 ---
 
@@ -39,6 +39,6 @@ Playing Xiang Yu, I love bullying these immobile shooters.，Now the ultimate sk
 
 时长：02:20
 
-创建时间：2025-04-07 13:58:59
+创建时间：2025-04-07 21:58:59
 
-发布时间：2025-04-07 13:58:59
+发布时间：2025-04-07 21:58:59

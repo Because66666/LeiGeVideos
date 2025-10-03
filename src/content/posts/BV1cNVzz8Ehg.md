@@ -1,37 +1,37 @@
 ---
 title: 无解阳谋，不带我飞就等着扣分吧
-published: 2025-05-05 12:51:35
+published: 2025-05-05 20:51:35
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
 ---
 
 
-> 作者：[磊哥游戏](https://space.bilibili.com/268941858?spm_id_from=333.788.upinfo.head.click)
+> 作者：[磊哥游戏](https://space.bilibili.com/268941858)
 
 视频字幕：
 
-Why wasn't I scolded for playing this way，That's exactly what I've mentioned before，the quality of hardcore players is generally high，Survival of the fittest.，Low-quality prison players have already quit the game or been banned.。
+为什么我这么玩没被骂，那自然是我之前就说过的，老玩家素质都比较高，物竞天择适者生存，素质不高的老玩家早退游了或者被禁言了。
 
-Of course there's a second point，Apart from the three alternate accounts commonly seen in my videos，I also have 4 alternate accounts，All four of these alt accounts are named XX's XX followed by two digits，something with two digits。
+当然还有第二个点，除了我视频里面常见的那三个小号，我还有四个小号啊，这四个小号的名字全都叫什么，得什么带两个数字。
 
-XX with two digits，Veteran players burst into laughter the moment they see my username，burst out laughing on the spot，With a name like this, no matter what move I make,，teammates won't find it strange。
+什么且什么带两个数字，老玩家一看到我这名字，当场就气笑了，我顶着这种名字打出什么操作，队友都不会觉得奇怪啊。
 
-Moreover, my avatar also looks very bot-like，sometimes when stubborn players see my avatar，might not get ready，waiting to lose points，As soon as the opponents see my avatar and name。
+另外我的头像也是很人机，就是有时候老玩家他看到我的头像，可能就不准备了啊，不准备等着扣分吧，对面一看到我这个头像。
 
-will definitely let their guard down，instantly ready，This is an open stratagem，During the preparation phase, I already warned you，I'm really bad at this game.。
+我这个名字肯定也会放松警惕，你要准备的哎，此乃杨某，准备阶段，我就告诉过你。
 
-Don't click ready if you can't carry me，Since you've joined，you must be wanting to carry me，If you don't come in, get ready to lose points.，If you get penalized too often, you'll become a repeat offender.。
+我会打的很菜的，没有能力带我飞，就不要点准备，既然你进来了，那肯定是想带我飞啊。
 
-Still have to match with noob teammates，The shadow in the bottom lane is too strong for me，Sigh，I can only let the pro player go deal with him，The most annoying thing when backdooring is this teleport.。
+不进来等着扣分吧，扣多了你就成惯犯了，还是要匹配坑队友，下路的影，我打不过他。
 
-But without me，My teammates can also crush the opponent, no big deal.，And his teleport has a cooldown.，I'll come over to destroy it whenever I want，just trade my life for it。
+唉，只能让老玩家过去解决他了，偷塔的时候最烦的就是这个传送了，不过没有我，我的队友也能打爆对面无所谓了。
 
-Just accidentally picked up two assists，If I don't die a few more times, my rating won't drop enough.，Damn, there's someone standing right next to the turret，accidentally picked up another kill，Now the score really can't be kept down。
+而且他的传送是有CD的，我是想拆就过来拆啊，直接拿命换，刚刚一不小心捡了两个助攻，再不死几次分就压不下来了啊坏了。
 
-What if the poor player didn't read it at the start?，Did you read the user agreement?，Once he enters, it's assumed he has read it.，There must be someone here who sympathizes with the poor player，Prisoner players are so pitiful.。
+有个人跟防御塔站一起，一不小心又捡个人头，这下真压不下来了啊，那老玩家开局没看怎么办，用户协议你看了吗。
 
-Let me ask you，What does my high win rate indicate?，Doesn't it mean that all the poor players who encountered Me won?，Think about it carefully
+只要他进来了，就默认他看过了，这里肯定就有人同情老玩家，老玩家太可怜了，那我问你，我胜率高说明什么，是不是说明遇到我的老玩家都赢了，你好好想想
 
 ---
 
@@ -39,6 +39,6 @@ Let me ask you，What does my high win rate indicate?，Doesn't it mean that all
 
 时长：02:01
 
-创建时间：2025-05-05 12:51:35
+创建时间：2025-05-05 20:51:35
 
-发布时间：2025-05-05 12:51:35
+发布时间：2025-05-05 20:51:35

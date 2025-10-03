@@ -1,45 +1,47 @@
 ---
 title: 我和诸葛亮都在打诸葛亮家的野怪，真的很有缘分
-published: 2025-06-11 02:00:00
+published: 2025-06-11 10:00:00
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
 ---
 
 
-> 作者：[磊哥游戏](https://space.bilibili.com/268941858?spm_id_from=333.788.upinfo.head.click)
+> 作者：[磊哥游戏](https://space.bilibili.com/268941858)
 
 视频字幕：
 
-Zhuge Liang, what a coincidence，You're also jungling，You're farming your own jungle，I'm also farming your jungle，It seems we really have a lot in common。
+诸葛亮这么巧，你也在打野，你在打你家的野，我也在打你家的野，看来我们真的很有缘分啊。
 
-But why aren't you taking the blue buff?，First time meeting，Zhuge Liang has generously given me both wolves he defeated.，It seems this Zhuge Liang is quite an honest fellow.，Han Xin has also secured the blue buff.。
+不过你怎么不打蓝Buff啊，初次见面，诸葛亮就把自己打的两个狼都送给我了，看来这诸葛亮还是个忠厚人啊，韩信也把蓝Buff拿到了。
 
-You can safely retreat now.，This Great Invoker is such a tanky king，fought for so long but didn't kill，baited out a Flash，Not bad, now I have my second skill。
+可以安全的撤退了，这大司命真是耐，打王打半天没打死，骗了个闪现，不亏有二技能了。
 
-Watch me counterattack, giving it my all，slowed down，didn't make it over，but it's fine，The enemy Zhuge Liang won't have it easy either。
+看我反打尽力了，被减速了，没走过去，不过没事啊，对面的诸葛亮也别想好过啊。
 
-After respawning, I immediately went to take down Zhuge Liang's wolves.，I tried my best, but Grandmaster is too tanky.，A full combo only took off two health bars，but seeing that Zhuge Liang's blue buff is gone，I'm relieved。
+复活之后直接过来打诸葛亮的狼啊，尽力了，大司命太肉了，一套技能就打两格血，不过看到诸葛亮的蓝Buff没了。
 
-Diaochan came to help me gank Dasiming.，I'm here to help，Seems like we can take them，No need for my help，Missed it, tried my best。
+我就放心了，哎貂蝉过来帮我抓大司命了啊，我来助你，好像打得过，用不着我帮忙了。
 
-Solo kill, nice nice nice，Enemy has been slain，This Diaochan is really a good person，always helping me gank Da Siming，The enemy Grand Marshal is finally down。
+没打着尽力了，单杀666，Enemy has been slain，这貂蝉也真是个好人啊，一直帮我抓大司命。
 
-We can come and take down their first turret now.，Although Lanling King's tower pushing speed isn't great，but the low rating，Taking down towers is not important，A low score is what matters。
+对面的大司命终于没了，可以过来推掉他们的二塔了，虽然兰陵王的推塔速度不咋地诶，但是评分低，推塔不重要。
 
-Otherwise you won't be matched against such weak opponents，How can we keep stealing towers without matching against such weak opponents?，Come over again and help Diaochan push down the mid-lane tower.，I won't go to the top lane，Da Qiao is in the top lane。
+评分低才重要，不然就匹配不到这么菜的对手了，匹配不到这么菜的对手还怎么偷塔，再过来帮貂蝉把中路的塔给推了，上路我就不去了。
 
-Going there might increase my participation rate too much.，I single-handedly took down 4 of the opponent's towers，four enemy turrets，My teammates took forever but only took down one tower，Now it's 0-3。
+上路有大桥过去，容易把参团率打的太高了，我一个人拆掉了，对面四座防御塔，队友打半天只拆了一座。
 
-Let's slay the dragon and then make our move.，For You to feed a few kills first，and then go to fight enemies，If you fight first and then feed，in case your teammates are too strong。
+现在零杠三了，打条龙准备出山了，哎推荐先送几个，然后再去打人啊，你要是先打人再去送。
 
-you won't have a chance to feed，your rating will increase，but if you feed first and then fight，your teammates are strong，resulting in you having no chance to engage in fights。
+万一你的队友太厉害，你就没机会送了，评分就会变高，但如果你是先送再去打人，你的队友厉害。
 
-then your rating will actually decrease，You have slain，Come over and take out Jiang Ziya again，Get revenge for the early game，Even player Tian wouldn't dare to fight like this。
+导致你没机会去打人了，那你的评分反而会降低，You have slain，再过来打个姜子牙，报一下开局的仇。
 
-But I dare to play like this when using Lanling Wang，When playing Lancelot, as long as your kills don't exceed your deaths，the rating simply can't be high，Liu Bei will be buffed again in the next update，I'll give it a try later, the jungler chicken-feet Liu Bei。
+我玩蒙恬都不敢这么打啊，但是我玩兰陵王敢这么打，玩兰陵王只要击杀数不超过死亡数，评分就不可能高的，下个版本刘备还要加强。
 
-This Liu Bei has fast dragon-slaying speed，definitely very effective，Forget about Li Bai，Without a lifesteal blade, there's zero sustain，can't defeat the dragon，Lane Li Bai builds Vampiric Scythe in the early game，just like a Blood Demon Artifact，The most important thing is not being able to gain teammates' trust
+到时候我试试边路鸡爪，刘备这刘备打龙速度快，肯定很好用的，李白就算了吧，不出吸血刀。
+
+完全没续航，打不过龙，边路李白前期出吸血刀，跟个血魔宗一样，最重要的是获取不了队友的信任啊
 
 ---
 
@@ -47,6 +49,6 @@ This Liu Bei has fast dragon-slaying speed，definitely very effective，Forget 
 
 时长：02:50
 
-创建时间：2025-06-10 14:32:52
+创建时间：2025-06-10 22:32:52
 
-发布时间：2025-06-11 02:00:00
+发布时间：2025-06-11 10:00:00

@@ -1,41 +1,43 @@
 ---
 title: 鸡爪流蒙恬&李信出装优化更新，压低出装成本
-published: 2025-05-15 00:02:07
+published: 2025-05-15 08:02:07
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
 ---
 
 
-> 作者：[磊哥游戏](https://space.bilibili.com/268941858?spm_id_from=333.788.upinfo.head.click)
+> 作者：[磊哥游戏](https://space.bilibili.com/268941858)
 
 视频字幕：
 
-After extensive practical testing，I found that we claw-style players are still too poor，Currently at 4 minutes, the interference is at the second tier，Interference reaches its maximum level at the 10-minute mark.，Since the new version of Chicken Claw lacks penetration。
+经过大量的实战，我发现我们鸡爪流玩家还是太穷了，现在4分钟干扰处于第二档，10分钟的时候，干扰才是满级的。
 
-so you need to buy a small Meteor，After that, you can directly go to destroy the tower.，But this is just too expensive，because the Meteor costs over 900 coins，Rounding up, it's practically a 1,000-gold equipment.。
+由于新版的鸡爪没有穿透，所以需要去买一个小陨星之后，就可以直接去拆塔了，但是这实在是太贵了，因为陨星竟然卖900多块钱。
 
-Without Meteor, you can't take down this tower.，by the time Li Xin can afford these pieces of equipment，probably after 10 minutes，which means the interference has reached level two，At this point, it's definitely possible to take down the high ground.。
+四舍五入都是一件1000块的装备了，而没有陨星是拆不掉这个塔的，等李信买得起这几件装备，估计得10分钟后了，也就是干扰到了第三集。
 
-To reduce costs，After my testing，can replace the Blade of the Heptaseas with the Swift Boots，Swift Spear not only increases attack speed by 20 points，and its passive also consistently increases basic attack damage by 40 points。
+这个时候肯定是能拆掉高地的，为了压缩成本，经过我的测试，可以把制裁之刃换成速击之枪，速击之枪不仅提升20点攻速。
 
-Of course, the most important reason is that it's cheap.，Where would us chicken-claw style players get so much money from?，If it weren't for being cheap，I would never buy the Punishment，Taking down the high ground turret is a piece of cake.。
+而且被动还稳定加40点普攻伤害，当然最主要的还是因为便宜啊，这我们鸡爪流玩家哪来这么多钱啊，要不是因为便宜，我才不会买制裁啊。
 
-Later, upgrade one to Shadow Battle Axe，upgrade to Endless Battle, and buy Wind Blade in the last slot，At this point, the attack speed is already maxed out，overflowed，so you can sell Frostbrand。
+过来拆高地，那也是轻轻松松的，后期一个升暗影战斧，一个升末世最后一个格子买影刃，这个时候攻速已经满了。
 
-switch to Endless Battle，By now the tower should be pretty much pushed down.，Switch to this to make it easier to slay the dragon，Even with turrets, demolishing them with six fully-equipped items is effortless.，Ah。
+溢出了啊，所以可以把冰矛给卖了，换成无尽哎，这会儿塔应该推的也差不多了啊，换成这个方便打龙。
 
-Now let's look at Meng Tian. Li Xin's gameplay is still too difficult.，Let's take a look at the foolproof operation of Meng Tian，First, the new version of Meng Tian only needs two pieces of equipment，can now demolish towers without minion waves，Now look at the time。
+就算有塔六神装，拆个塔也是轻轻松松啊，全集现在来看蒙恬李信操作还是太难了，哎来看一下傻瓜操作的蒙恬，首先新版本的蒙恬只要有两件装备。
 
-It's only been 2 minutes since the game started.，Interference is at its weakest at level one，Charge straight ahead，First, Meng Tian tanks the tower，can take down the tower。
+就可以去无兵线拆塔了，再看时间，现在才开局2分钟，干扰处于一级最弱的时候，直接往前冲。
 
-let the minions take the tower aggro，can still take down the tower，Now it's still the weakest interference，Of course, the difference between Meng Tian and Li Xin is that Meng Tian farms gold too slowly，prone to being reported。
+首先是蒙恬抗塔哎，可以把塔拆掉，让小兵过去抗塔，照样能把塔拆掉啊，现在还是最弱的干扰啊。
 
-and moves slowly，often tends to give their all，Since only two pieces of equipment are needed to demolish towers，so you can fully supplement with damage-dealing equipment later，defeat a 50,000 HP Storm Dragon。
+当然了，蒙恬跟李信的区别在于，蒙恬刷钱太慢，容易被举报啊，而且跑得慢。
 
-This Meng Tian's dragon-slaying speed is decent in the late game.，Similarly, the cost can be further reduced to just a 'chicken claw' paired with a small and large iron sword.，It's only one minute into the game now, and the interference is still at its weakest.，As long as you don't mind losing stamina，You can definitely play Meng Tian。
+经常容易尽力，由于两件装备就可以拆塔了，所以后面完全可以补输出装啊，哎打一个5万血的风暴龙王啊，这蒙恬到后期打龙速度也是可以的。
 
-Rune choices don't matter，Attack speed, full penetration, crit, or even thousand HP are all viable.，The priority is in the order I mentioned.，The effect of Thousand HP Runes is the best we can do，so it comes last
+同样的成本还可以压缩成一个鸡爪，带大小铁剑，现在开局一分钟还是干扰最弱的时候啊，哎只要你不怕扣体力值，完全可以去玩蒙恬啊。
+
+铭文的话就无所谓了，攻速百穿暴击，甚至是千血都可以优先级就是我说的顺序，千血铭文影响尽力了，所以排在最后
 
 ---
 
@@ -43,6 +45,6 @@ Rune choices don't matter，Attack speed, full penetration, crit, or even thousa
 
 时长：03:01
 
-创建时间：2025-05-15 00:02:07
+创建时间：2025-05-15 08:02:07
 
-发布时间：2025-05-15 00:02:07
+发布时间：2025-05-15 08:02:07

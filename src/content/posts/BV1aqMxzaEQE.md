@@ -1,45 +1,47 @@
 ---
 title: 鸡爪流常见问题解答，牢玩家直接换区能逃得掉吗？
-published: 2025-06-17 02:00:00
+published: 2025-06-17 10:00:00
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
 ---
 
 
-> 作者：[磊哥游戏](https://space.bilibili.com/268941858?spm_id_from=333.788.upinfo.head.click)
+> 作者：[磊哥游戏](https://space.bilibili.com/268941858)
 
 视频字幕：
 
-This is the current win rate，This match is against a Flash-using Arthur again，Why are there so many max proficiency Flash Arthurs?，Someone asked whether to lower the activity level，This should probably be suppressed。
+目前胜率是这样的，这一局又是对线一个闪现亚瑟，怎么这么多满熟练度的闪现亚瑟，有人问要不要压低活跃度啊，这个应该是要压的。
 
-For example, this alt account of mine，play only 1 to 2 matches a day，sometimes play 4 to 5 matches，but if I play too many games that day，I won't log into this secondary account the next day.。
+就比如说我这个小号，咱一天就玩一到两局，有时候会打4~5局，但是如果那天打的次数多了，第二天这个小号我就不上线了。
 
-to play another alternate account，because there are too many alternate accounts，Each account can only play one or two matches，If each account were to play more than a dozen matches，I'd be exhausted every day。
+去玩别的小号了啊，因为小号太多了，那每个号只能玩一到两局，要是每个号都打十几局，这我每天不得累死。
 
-As for whether there is any impact under the same device，I think this also has an impact.，So I used five different emulators for my five alternate accounts，directly simulated five different device models，and used virtual positioning to locate in 5 cities。
+至于同设备下有没有影响，这个我觉得也是有影响的啊，所以我五个小号分别用了五款模拟器啊，直接模拟了五款机型，并且使用虚拟定位定位了五个城市。
 
-There's no choice, Honor of Kings is just too ruthless.，don't play tricks，All the effort I put into raising my alternate accounts has gone to waste.，Although they're all mass-produced，But that was also painstakingly achieved by me.。
+没办法，王者荣耀这游戏太狗了，不耍点心眼，我好不容易养的小号就废了，虽然都是量产的。
 
-Why are there so many Flash Arthurs in this King tier?，Who on earth taught this，As for accounts under the same ID but in different regions，That's definitely problematic，It's simply like one prison giving birth to two prisons。
+但那也是我辛辛苦苦打的，这王者段位哪来这么多闪现亚瑟，这到底是谁教的，至于同账号下不同区的号，那百分之百有问题。
 
-endless generations，Back when the Chicken Claw strat wasn't popular last year，Accounts under the same ID but in different regions were unaffected.，but after the Claw Strat became popular，directly indiscriminately targeting accounts under the same ID but in different regions。
+直接就是一劳生两牢啊，子子孙孙无穷尽，也在去年鸡爪流没活的时候，你同账号下同区的号是不受影响的，但在鸡爪流火了之后。
 
-I have 3 such accounts，It's really exhausting，No matter how you play, it's always a 50-50 chance.，Not even pretending anymore，It directly matches you based on the most problematic account in your profile.。
+直接无差别攻击这些同账号下不同区的号，我就有三个这种账号啊，真的是捞完了，怎么打都是50啊，演都不演了。
 
-My teammates helped distract Arthur away，Come to steal his tower，At that time, I still refused to believe it，So I switched to another server and created a new account，They didn't even bother pretending。
+哎直接就是根据你账号内最捞的号进行匹配，队友帮我把亚瑟吸引过去了，过来偷他的塔，当时我还不信邪，于是换个区又开一个号啊。
 
-In the Bronze tier, Ma Chao and Jing appeared，Sigh，In the Bronze tier, I was beaten by him until my win rate dropped to only 50%，The matchmaking is painfully slow.，Every match takes several minutes to wait.。
+那更是演都不演了，青铜局出现了马超跟镜，哎，我在青铜局被他打的只剩50胜率，匹配还慢的要死。
 
-As for different accounts on the same device having an impact，but the impact isn't as significant as it is across different regions，Usually, the first few matches are losing streaks.，then it returned to a winning streak，the account I use for testing。
+每局都得等几分钟啊，至于同设备下的不同账号有影响，但没有不同区的影响那么大，诶一般都是前面几局连败了，那后面又回到连胜了。
 
-70% win rate，This Arthur went home with low HP，But he didn't notice another wave of minions was coming，Wait a second, I'll just take down his tower directly.，So you've been marked as a hardcore player by this game。
+哎我用于测试的那个号啊，70胜率，这亚瑟残血回家了，但是他没注意到兵线又来了一波，等一下直接把他的塔拆了。
 
-That's really frustrating，The device you're using is most likely akin to a haunted house,，tainted with bad luck，bad feng shui，Arthur is coming to gank me。
+所以说你被这游戏锁定成老玩家，那是真的很坑啊，你用的设备很有可能就类似于凶宅的那种啊，沾染了晦气，风水不好。
 
-Go straight to push the mid lane，If he dares to follow，I'll go destroy his high ground，Anyway, he can't outrun me，Arthur also died in the team fight.。
+亚瑟过来抓，我，直接过去拆中路诶，他若是敢跟过来，我就去拆他的高地。
 
-You might think it's troublesome for me to manage multiple accounts every day，Actually, it's not troublesome at all，Because when I play this game, the screen often goes black.，Usually when the screen goes black, I switch to play on other alt accounts.，This directly hard pushed the tower.，A fully-equipped Li Xin fears no turret.，In the end, I even picked up a kill, what a bummer.
+反正他跑不过我，亚瑟还在团战中去世了，你们可能以为我每天打很多号很麻烦啊，实则一点都不麻烦啊，因为我玩这个游戏。
+
+屏幕经常都是黑的，一般屏幕黑了，我就去玩其他小号了，这个直接强拆了，装备成型的李信不怕任何防御塔，最后还捡了个人头，真晦气
 
 ---
 
@@ -47,6 +49,6 @@ You might think it's troublesome for me to manage multiple accounts every day，
 
 时长：03:18
 
-创建时间：2025-06-15 08:02:51
+创建时间：2025-06-15 16:02:51
 
-发布时间：2025-06-17 02:00:00
+发布时间：2025-06-17 10:00:00

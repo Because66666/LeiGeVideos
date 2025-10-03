@@ -1,43 +1,43 @@
 ---
 title: 躺赢后付出了代价，开局6分经济落后7000，比分1比15
-published: 2025-04-03 10:45:59
+published: 2025-04-03 18:45:59
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
 ---
 
 
-> 作者：[磊哥游戏](https://space.bilibili.com/268941858?spm_id_from=333.788.upinfo.head.click)
+> 作者：[磊哥游戏](https://space.bilibili.com/268941858)
 
 视频字幕：
 
-Came across two marketing accounts claiming my Shadow Spear build for Arthur can farm gold medals，every game is a gold medal，What the hell gold medal，I've already said that thing is for lowering ratings，The playstyle is similar to chicken claw strategy。
+刷到两个营销号说我那影魔流亚瑟可以刷金牌，把把都是金牌，刷个屁的金牌，我都说了，那玩意是拿来压评分的。
 
-The title already explains this is an unorthodox build，Why bother chasing gold medals when you've already got the Frost Lance?，Ah，It's about pushing towers, come try out this new version of Thorn Mail，and also taking the opportunity to play this fill-style account。
+打法是跟鸡爪驴一样，标题我也都说明了，这是邪门出装，都出冰矛了，还刷个毛的金牌啊。
 
-I found that I still can't directly go for the new Thorn Mail，should first get a Crimson Agate，Otherwise, the lane-clearing speed is just too slow.，The first match was a complete free ride to victory，Probably because I haven't logged into this account for too long.。
+就是让你去推塔的过来试一下这个新版的反甲，也顺便来打一下这个不畏流的号啊，哎发现这个还是不能直接出反甲啊，应该先整个小红莲斗篷，不然这个清线速度实在是太慢了。
 
-given welfare match，The other two lanes were completely dominant，The jungler kept ganking my lane, which also gave us an advantage.，As for the damage of this new Thorn Armor, I don't feel it's particularly high.，But the added tenacity from this new Thorn Mail is quite useful.。
+第一把这是纯躺赢局，估计是我这个号太久没有登了，给的福利局，另外两条路全都是优势，我这条路打野一直帮我抓也是优势。
 
-Request backup，I can't feel any significant damage from the Thorn Armor，Probably because this match is going too smoothly，The enemy attacks don't even make me bleed，nor could it reflect much damage。
+至于这新反甲的伤害没感觉出来有多高，哎但是这个新反甲加的韧性挺好用的，请求集合，感觉不出来反甲有什么伤害，估计是因为这把太顺风了。
 
-economically disadvantaged，won a game by being carried，The next match indeed came at a cost，Score 1:14, 6 minutes，7,000 gold behind, with only one kill。
+那对面打我都不掉血，也谈不了多少，经济落后，躺赢了一把，下一把果然是付出代价了。
 
-It was still me who solo-killed the opponent.，rewriting history，Liu Bang and Han Xin together couldn't defeat Xiang Yu，rampage ah，This Dian Wei is just like he's turned on invincibility mode。
+比分一比十四六分钟，经济落后7000一个人头，还是我单杀对面的哎，篡改历史，刘邦带着韩信没打过项羽。
 
-No one dare to fight him at all，Our team has no MVP，If it counts, I should be the MVP，Ah，Entering the third game。
+rampage啊，这典韦就跟开了无敌一样，根本没人敢跟他打回防高地，我们这都没有MVP啊，如果算的话。
 
-the familiar win-one-lose-one pattern，found a dedicated player to carry us，This Annie is utterly inhuman，How could they even steal the blue buff from the carry player?，However, the 'prisoner' player always has a very good temper.。
+我应该是MVP啊，来到第三局啊，熟悉的一胜一负，找了个老玩家来带我们啊，这安琪拉就完全不是人啊。
 
-nor did they give up，After all, hardcore players should be quite accustomed to such situations.，long accustomed to it，The persistent player also managed to tie the score.，The shooter being a 'prison player' is just different。
+这还能抢老玩家的蓝啊，不过老玩家脾气一向都是很好的啊，也没有开摆啊，毕竟老玩家应该经常遇到这种情况啊，早就见习惯了。
 
-Not only knows how to follow me for tower dives，also knows how to push towers，Never really noticed，So Yuan Ge was dead，Will this icon above the head keep showing?。
+老玩家也是把比分给打平了，射手是老玩家，就是不一样啊啊不仅知道跟着我越塔，还会推塔，还真没注意啊。
 
-One last thing，Many followers in the comment section asked why this jungle score is low，What's the deal with that low jungle rating?，I have a little tip to improve your jungle rating，Almost every hero has a last-hit score。
+原来元歌去世了，头上那个图标会一直显示吗，最后还有一件事，评论区很多粉丝问这个打野评分低，那个打野评分低怎么回事。
 
-which means landing the last hit on minions，Some junglers are too thin-skinned，feel embarrassed to last-hit minions, or clear the wave without securing the kills，but failed to last hit，so the score is low。
+我有一个提升打野评分的小技巧，几乎所有英雄都有一个补刀分，也就是打小兵的最后一下，有些打野脸皮薄，不好意思去蹭线或者清线了。
 
-The last-hit score accounts for a relatively large proportion in most junglers' ratings.，It's probably to encourage junglers to lane more and farm those last-hit points.，and also incidentally boost the economy score，The last-hit score typically requires around 40 to 50 minions per game.
+但是没有补到啊，所以分低啊，大多数打野的这个补刀分占比还比较大啊，估计就是鼓励打野多带线刷这个补刀分，还能顺便把经济分给刷了，补刀分大概一局要补40~50个兵左右
 
 ---
 
@@ -45,6 +45,6 @@ The last-hit score accounts for a relatively large proportion in most junglers' 
 
 时长：02:41
 
-创建时间：2025-04-03 10:45:59
+创建时间：2025-04-03 18:45:59
 
-发布时间：2025-04-03 10:45:59
+发布时间：2025-04-03 18:45:59

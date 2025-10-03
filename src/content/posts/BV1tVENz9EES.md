@@ -1,43 +1,43 @@
 ---
 title: 队友挂机后被训练营的低级人机接管，人机拿下MVP
-published: 2025-05-14 02:00:07
+published: 2025-05-14 10:00:07
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
 ---
 
 
-> 作者：[磊哥游戏](https://space.bilibili.com/268941858?spm_id_from=333.788.upinfo.head.click)
+> 作者：[磊哥游戏](https://space.bilibili.com/268941858)
 
 视频字幕：
 
-a master like me，it's usually very difficult to be matched with opponents of comparable skill to mine，It always takes ages to match，carefully selecting enemies and teammates, let me show you，the match after 5 minutes of queueing。
+像我这样的高手，一般是很难匹配到跟我实力相当的对手的，每次都要匹配半天，精挑细选敌人跟队友给大家看一下，匹配了5分钟之后的对局。
 
-The Monkey King even knows how to counter-jungle，Looks like a real pro，This Asian server player actually can't beat my Ren Xin，But I can't hit him.，If I kill him。
+哎哎猴子还会反野，看来还真是个高手啊，这亚联竟然打不过我人性，但是我不能打他呀，我要是把他打了。
 
-Wait a second, then I'll be the jailed player.，It's good that he wasn't killed by the minions.，Now I'll give him a free kill，let him be the trapped player，This first blood is a major karma。
+等下我就是老玩家了，他没被小兵打死就好，哎现在给他送一个，让他当老玩家，这第一滴血是大因果。
 
-I've already respawned，Why hasn't this Arthur gone back to base yet?，Just leave，I really don't want to kill you，He actually wants to fight back against me。
+我都复活了，这个亚联怎么还没回家呀，你快走啊，我真不想杀你呀，唉他竟然还想跟我反打。
 
-Request received, rally here，I just went to clear the jungle monsters that Dian Wei didn't want.，This Asian server player has also fully healed up，He came straight at me to fight，Oh no。
+收到请求集合，刚刚去把典韦不要的野怪给刷了，哎这个亚联也是回满血了啊，他直接过来跟我打不好，他要死了。
 
-He's about to die, hurry up and use your ultimate!，That scared me to death，That's a relief, he's not dead.，Those who get matched with me，Indeed, all of them are masters among masters.。
+你快开大呀，哦吓死我了啊，没死就好收，能跟我匹配在一起的，果然都是高手中的高手啊。
 
-Our Luban here is truly a financial wizard，At the start, the Blood Demon Sect disciple bought a Vampiric Scythe，Then sold it again，Fighting against this guy is such a pain，I'm even afraid he might get killed by the minions.。
+我们这鲁班真是理财大师，开局血魔宗弟子买吸血刀，然后又把他卖了，哎跟这个家伙打真折磨啊，我都生怕他被小兵打死了。
 
-Now the match is becoming increasingly bizarre，Not even a single tryhard player is farming.，All 10 players are acting very strangely，Look, all three of them came to gank me.，I circled around their jungle area。
+哎现在对局变得越来越奇怪了啊，一个老玩家都不刷了，十个人都特别奇怪啊，你看他们三个人过来抓我，我绕着他们家野区转了一圈。
 
-They couldn't catch up with me，I can still smoothly come over and destroy their high ground.，Took down the high ground in 8 minutes，What a pity，This round, my teammates were even more inhuman。
+他们没追上我，我还能顺利的过来拆他们高地，8分钟拿下高地，唉可惜了，这把我的队友更加不是人啊。
 
-and one even went AFK，I don't even need to look，It must be our Monkey King who went AFK，because his stats were the best，The one with good stats is definitely not a real player.。
+而且还挂机了，一个人不用看，我都知道，肯定是我们家猴挂机了，因为他的战绩是最好的。
 
-He really isn't a real player，Look at this bot，Sun Wukong kiting the minion wave，According to Tencent's AI algorithm，the minion is stronger than Sun Wukong。
+战绩好的绝对不是真人，他还真不是真人，你看这个人机，孙悟空拉扯龙兵哎，根据腾讯的AI判定。
 
-Sun Wukong is no match for him.，This monkey turns out to be a low-level bot from the training camp.，The low-level AI bot was the best performer on our team.，Five of the ten kills were his.，I tried my best。
+龙兵比孙悟空强大，孙悟空是无法战胜他的，这个猴竟然是训练营的低级人机，一级人机是我们这边打的最好的，十个人头五个都是他的。
 
-Let me recreate the scene for you. Tencent's AI determined，There are four minions，a fully-equipped Monkey King is the only one，4v1 and still can't win, did my best，Fighting while retreating。
+尽力了，给大家还原一下现场腾讯的AI判定啊，小兵有四个，六神装的猴，只有一个四打一打不过尽力了啊。
 
-That's why you were trying to backdoor before，Every time, more than two people come back to beat you up，You're leading three minions，Tencent's bots must think they can't beat you
+边打边撤退啊，这也就是为什么你之前偷塔，每次都有两个以上的人回来捶你，你带着三个小兵，腾讯的人机肯定觉得打不过你啊
 
 ---
 
@@ -45,6 +45,6 @@ That's why you were trying to backdoor before，Every time, more than two people
 
 时长：02:31
 
-创建时间：2025-05-14 02:00:07
+创建时间：2025-05-14 10:00:07
 
-发布时间：2025-05-14 02:00:07
+发布时间：2025-05-14 10:00:07

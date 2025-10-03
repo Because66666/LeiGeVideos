@@ -1,41 +1,43 @@
 ---
 title: 打王者看对面就像照镜子一样，怎么能这么像
-published: 2025-04-08 09:54:42
+published: 2025-04-08 17:54:42
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
 ---
 
 
-> 作者：[磊哥游戏](https://space.bilibili.com/268941858?spm_id_from=333.788.upinfo.head.click)
+> 作者：[磊哥游戏](https://space.bilibili.com/268941858)
 
 视频字幕：
 
-Unexpectedly, the first match today turned out to be a guaranteed victory.，I thought I had the top off-lane，It's all over now，In this match, except for the enemy's Han Xin，his teammates were basically useless。
+没想到今天的第一把竟然是必赢局，我还以为拿了顶级对抗路，接下来就完了，这把除了对面的韩信，他的队友基本上都废了。
 
-The Rapid Firecannon Luban doomed him to lose，This Han Xin has to team fight while also split pushing，Only two towers on the top lane were destroyed after 20 minutes of fighting.，It was still stolen by Han Xin.，The outer turrets of the other two lanes are still standing。
+电刀鲁班注定了他赢不了啊，这韩信又要打团，又要偷塔，打了20分钟就上路掉了两个塔，还是韩信偷的。
 
-If they had surrendered at the 12-minute mark，Han Xin could still snag a gold medal，But as the match dragged on，Han Xin kept disconnecting and dying repeatedly，no gold medal。
+其他两条路一塔都还在，要是在12分钟的时候，他们投降了，韩信还可以捞个金牌，但是现在时间打的久了。
 
-Lost a star for nothing，Moving on to the next game，So this is where you were waiting for me，The perspective has switched，Now I'm the Han Xin。
+韩信断线死的多了，金牌都没有，白掉了一颗星啊，来到下一把，原来在这等着我呢。
 
-How to play this，Even more hellish than the Han Xin match, with an Electric Blade Galore support building two Gems，This Luna player still refuses to surrender，If you keep playing, you won't even get a bronze medal，Ah。
+视角兑换了，现在我成韩信了，这怎么打，比韩信那局还阴间电刀伽罗辅助出两个宝石，露娜这个捞玩家还不投降。
 
-As expected，The poor player Luna got hammered to a 6-5 score，Now I've become a deadweight loser，There's nothing you can do in an unwinnable game like this.，Look, I was playing Hou Yi on my other account in a sure-loss match, and even though I fed this badly,。
+再打下去，你连个铜牌都捞不到啊，果不其然，老玩家露娜被锤成了六杠五，这下变成躺书阁了。
 
-still managed to rank third in economy，After the match, I still ranked second in the rating.，Ah，At first glance, this round is a guaranteed loss.，I quickly took out my General Meng Tian。
+没办法，必输局就是这样，你看我另一个号在必输局玩后羿都送成这样了，经济还能第三名，打完之后。
 
-without spitting out the stars I climbed，He definitely won't let me go up.，Upon entering，All teammates have maxed proficiency levels，They all seem to be experts。
+我还是评分第二啊，乍眼一瞅，这把是必输局，我赶紧拿出我的蒙恬大将军，不把上的星吐出来。
 
-They are playing so seriously，I'll play as a chicken claw build，I feel guilty，Adhering to the principle of never firing the first shot，my teammates don't troll me。
+他肯定不会让我上去的，进去一看啊，队友都是满熟练度的，看来都是高手啊，啊他们打的这么认真。
 
-I definitely won't let them down，Since they all picked their fully-mastered heroes and are playing seriously，Then I'll give it my all this round，This guy also has a full mastery colored badge，Seems like a pro player。
+我玩一个鸡爪流，哎我良心都过不去了，秉持着绝不打响第一枪，队友不坑我，我绝对不坑他们。
 
-He even knows how to Flash，He really is a skilled player，Although I brought the wrong runes this game，but still managed to treat this local Glory rank player as a bot and farmed him，but my teammates were also treated like bots by the opponents。
+既然他们都拿出了满熟练度的英雄认真打，那这一把我也来发发力，这个老布也是个满熟练度的彩标啊，看来也是个高手啊，唉还会闪现。
 
-Then came the classic last stand where I refused to retreat.，because my teammates got crushed，so the enemy team all came, this group of people ganged up on me alone，Meng Tian, this primitive warrior, couldn't even escape at all.，It was already annoying to lane against Akai and Lubu in the early game.。
+还真是个高手，虽然这把我铭文都带错了，但还是把这个星耀本地人的老虎当人机给刷了，但是我的队友也被对面当人机给刷了之后，就是经典的死战不退了。
 
-Now everyone's coming，This is a guaranteed loss, they're not even pretending anymore，except for that Lu Bu on the opposing team who got crushed by me，Everyone else has a medal，Honor of Kings is really so much fun，I'm never going all out again
+因为我的队友被打爆了，所以对面都来了这一群人打我一个蒙恬，这个原始人还根本跑不掉，本来前期对线的时候打个阿轲加劳布就很烦，现在人全来了。
+
+这必输局演都不演了，除了对面那个被我打爆的吕布，其他人全都有牌子，王者荣耀真是太好玩了，我再也不发力了
 
 ---
 
@@ -43,6 +45,6 @@ Now everyone's coming，This is a guaranteed loss, they're not even pretending a
 
 时长：02:40
 
-创建时间：2025-04-08 09:54:42
+创建时间：2025-04-08 17:54:42
 
-发布时间：2025-04-08 09:54:42
+发布时间：2025-04-08 17:54:42

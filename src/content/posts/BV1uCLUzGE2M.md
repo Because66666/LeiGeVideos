@@ -1,43 +1,45 @@
 ---
 title: 还有这种高手？带传送都差点没他送的快
-published: 2025-04-28 13:27:27
+published: 2025-04-28 21:27:27
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
 ---
 
 
-> 作者：[磊哥游戏](https://space.bilibili.com/268941858?spm_id_from=333.788.upinfo.head.click)
+> 作者：[磊哥游戏](https://space.bilibili.com/268941858)
 
 视频字幕：
 
-Yesterday we stole so many towers，There's no need to think to know we're definitely losing this first match today.，That's just how Honor of Kings is，If you don't play according to its predetermined win or loss，it will definitely screw you over。
+昨天偷了这么多塔，今天这第一局不用脑子想都知道肯定输了，王者荣耀这游戏就这样，你不按照他预制好的输赢来打，他就肯定要恶心你。
 
-Whoever plays seriously this round will really be done for next game.，Start feeding right from the beginning，Hurry up and feed，Feeding too slowly might make you the MVP，Tried my best。
+这局谁认真打谁下把就真完了，开局直接送，送快一点，动的慢了，容易当MVP尽力了。
 
-Luckily I fed quickly，Otherwise the first blood would have been taken by our marksman.，This game I took Teleport，No one can die faster than me，After respawning, I immediately teleport back to feed again。
+还好我送的快，否则这第一滴血就被我们家射手给抢掉了，这把我带的是传送，谁也别想有我送的快，复活之后直接传过来。
 
-Two deaths in one minute, truly terrifying for a talented player.，I fed three times in just two and a half minutes.，He also fed three times，The problem is, I have teleport.，It would be strange if this match could be won。
+送一分钟送两个天赋型选手，果然可怕，我在两分半送了三个，他也送了三个，问题是我可是有传送的。
 
-Hurry up and feed, or I might really get the MVP.，Luckily I took teleport，otherwise I really couldn't compare with them，At the 6-minute mark, I was 0-7，My teammates said they would report me。
+这把能赢就怪了，赶紧送，不然真要MVP了，还好我带的是传送啊，不然还真比不过他们。
 
-suspect I'm from the opposing team，Just go ahead and report me，The canyon stands on the side of justice.，Unfortunately, I am justice，This Galoro even built a Thunderclap。
+正在6分钟的时候，我零杠七队友说要举报，我怀疑我是对面派来的，你就举报吧，峡谷是站在正义的一边。
 
-Even if the enlightened AI possesses me，This game is unwinnable anyway，Why not surrender yet，Even if all nine of you report me，The impartial judge will also prove my innocence。
+很不幸，我就是正义，这伽罗都出电刀了，即使绝无人机附身，这把也赢不了了。
 
-against all odds，Fortunately, Judge Di Renjie is as sharp as a god in solving cases.，not a single point was deducted from Me，Now moving on to the second game，No need to throw this second game。
+哎这还不投降，就算你们九个人都要举报我，青天大老爷也会还我一个清白，力排众议的，还好狄仁杰断案如神。
 
-Just stay under the tower and clear the minion waves, that's all.，Because I played so poorly in the last game，the system is definitely going to pull me over，mercilessly torment these poor players，In other words, my teammates in this match are all veteran players。
+一分都没有扣我的，现在来到第二把，第二把就不用摆了，在塔下呆着清线就完事了，因为我上一把打的这么菜。
 
-as long as I don't play too terribly，They could easily carry me.，To clear the minion wave faster，My Kai first item was Swift Boots，This way, I can clear minion waves quickly even without using skills.。
+系统肯定要把我拉过去，狠狠的折磨这些老玩家啊，换句话说这把队友都是老玩家啊，只要我不是打的太离谱，他们带我那是轻轻松松。
 
-This Pangu chariot player seems to be a pro，Everyone knows the jungle has been invaded，even knows to press the gather button，Although I saw Ban Yue coming over，But if this stubborn player doesn't send Messages, I really don't want to bother.。
+为了清线快一点，我的凯第一件装备就出影刃哎，这样没技能清线也快啊，集合这盘古老玩家看来是个高手啊，都知道野区被反了。
 
-enemy hey，got a kill，The attack speed of this Shadow Blade is way too fast，Got another one，But it's not a big deal。
+还知道摁集合，虽然是我看着芈月过来的，但是这老玩家不发消息，我还真不想管，enemy哎。
 
-as long as my teamfight participation rate remains low，The score will definitely still be around 6-7 points.，These teammates in this guaranteed victory match, how can they be so incredibly strong，reached the opponent's high ground in just 9 minutes，14:2 with one kill still being given by me。
+捡了个人头哎，这影刃攻速太快了，又捡了一个，不过问题不是很大啊，只要我参团率低。
 
-absolutely cannot lose，This match was simply unwinnable no matter how hard you tried，11 minutes to reach the enemy's crystal，Honor of Kings is so much fun，rigidly controlling a 50% win rate，reducing the enemy team's scores to just 3 or 4 points
+评分肯定还是6~7分左右啊，这必赢局的老玩家队友怎么能这么强大啊，9分钟就打到了对面的高地，14比二一个人头还是我送的，那根本输不了。
+
+上一局就是怎么打都赢不了，那这一局就是怎么打都输不了，11分钟就打到了对面的水晶哎，王者荣耀真是太好玩了啊，直接硬控50胜率哎，把对面打的全部都是三四分
 
 ---
 
@@ -45,6 +47,6 @@ absolutely cannot lose，This match was simply unwinnable no matter how hard you
 
 时长：02:53
 
-创建时间：2025-04-28 13:27:27
+创建时间：2025-04-28 21:27:27
 
-发布时间：2025-04-28 13:27:27
+发布时间：2025-04-28 21:27:27

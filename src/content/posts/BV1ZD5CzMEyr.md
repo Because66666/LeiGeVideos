@@ -1,43 +1,45 @@
 ---
 title: 曜的评分还是太好打了，2-14还能评分第二
-published: 2025-04-21 11:35:48
+published: 2025-04-21 19:35:48
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
 ---
 
 
-> 作者：[磊哥游戏](https://space.bilibili.com/268941858?spm_id_from=333.788.upinfo.head.click)
+> 作者：[磊哥游戏](https://space.bilibili.com/268941858)
 
 视频字幕：
 
-Someone in the comment section said Yaog's rating is hard to achieve，That's complete nonsense，1-14 and still got a 5.0 rating，0-12 also has a 5.0 rating，2-14, yet the rating is as high as 5.8.。
+不知道谁在评论区说曜的评分难打，简直是胡说八道，一杠14还有5.0，零杠12也有5.0，二杠14评分都高达5.8了。
 
-My teammates played seriously the entire match, only to find out，the rating is still lower than mine，Lancelot is a Legendary King，Seems like a pro，But what does being a Legendary King even mean。
+队友认认真真打了一整局出来，一看评分还没我高，兰陵王是传奇王者，看来是个高手啊，不过传奇王者又怎样啊。
 
-Even a Legendary King can't carry the three of us，Don't judge me for my messy gameplay，but my win rate is high，Don't mind that I keep losing，All my losses are in casual matches。
+传奇王者你也带不动我们三个，你别看我打的抽象，但是我胜率高啊，你也别看我一直输，我输的全都是匹配啊。
 
-But my ranked matches are on a winning streak，6-game winning streak, 7-game winning streak，and then another 8-game winning streak，Zhao Yun is a Glory King，I'm no match for him。
+我排位可是嘎嘎连胜的，六连胜七连胜哎，又打个八连胜，赵云是荣耀王者，哎我不是他的对手。
 
-The matchmaking mechanism of Honor of Kings is quite considerate.，This is in the matching mode with the teleportation skill，Even feeding three kills in one minute won't get you reported，But sometimes you just can't lose even if you try，There's nothing to be done about it。
+王者荣耀的机制还是挺良心的，这在匹配里面带个传送，这一分钟送三个也不会被举报啊，不过有时候真的是想输都输不了，这也是没办法。
 
-after all, losing too much，The system's mechanism is about to kick in，Not only do the opponents become extremely weak，your teammates will also become incredibly strong，Look at this match, I'm 0-4 in just 4 minutes。
+毕竟输多了，系统的机制就要发力了，不仅对面会变得非常弱，队友也会变得非常强大啊，你看这局我4分钟零杠四。
 
-but the score is 6:6，As the game progresses，The respawn time has also increased，This slowed down my feeding speed，I only fed 7 kills in 8 minutes。
+但是比分六比六，随着游戏的时间增加，复活的时间也增加了，这导致我送人头的速度也变慢了，8分钟我才送七个人头啊。
 
-Why is the enemy's damage so low?，Even so，our teammates are still in the lead，still leading in kills，I'm already 0-12 here。
+这对面伤害怎么这么低啊，即使这样，我们的队友还是处于顺风，人头还是领先的，这我都零杠12了。
 
-still managed to push to the enemy's crystal，can't even lose if I try，forced to secure victory in the game，Now it's a situation where you can't lose even if you want to，If I keep playing, it's impossible to win even if I want to.。
+还是打到了对面的水晶，想输输不了，被迫拿下游戏的胜利，现在是想输输不了，再打下去。
 
-In a guaranteed win, I don't exert effort，Because it makes no difference whether I'm there or not，The sweaty tryhard has already stomped the enemy team，No need to do the unlucky deed of increasing my rating.，I don't even try in guaranteed-win games。
+就是想赢赢不了了，遇到必赢局我不发力，因为有没有我都一样，老玩家已经打爆了，对面没必要干涨评分。
 
-In a guaranteed loss match, I won't even try harder.，Whether I'm here or not, this match is doomed to lose，What if I actually try hard，this round still didn't end in victory，not only will it prevent the next game from refreshing prison players。
+这种没事人必赢局我都不发力，必输局我就更不发力了，有没有，我这把都得输，万一我发力了。
 
-It can also easily make you fume with anger.，Anyway, the respawn coins are unlimited，Just follow your teammates and feed together, that's it.，In evenly matched games, the score keeps alternating like 5:5, 9:9, 13:13，nine to nine。
+这把还没赢，不仅会导致下把不刷新，老玩家还容易打的一肚子火，反正复活币无限发放，直接跟着队友一起送就完事了。
 
-The outcome could go either way，Now it's time for me to step up my game.，The Tiger Talisman effect lasts the entire match，This round is probably doomed，If I step up my game, there might still be a chance to win.。
+势均力敌的局一直五比五，九比九，13比13输赢都有可能，这我就得发力了，虎符咒全程生效。
 
-after several team fights，after exerting effort，Why is it still a tie?，At this point，Just give up and go AFK.，Thought getting a few kills would improve everyone's situation，Never expected everyone to still be in dire straits
+这把多半是要玩，我发力，说不定还有赢得转机，打了几波团，发力之后。
+
+怎么还是势均力敌，事已至此，开摆吧，本以为拿几个人头可以改善大火的环境，没想到大火还是处于水深火热之中啊
 
 ---
 
@@ -45,6 +47,6 @@ after several team fights，after exerting effort，Why is it still a tie?，At 
 
 时长：02:49
 
-创建时间：2025-04-21 11:35:48
+创建时间：2025-04-21 19:35:48
 
-发布时间：2025-04-21 11:35:48
+发布时间：2025-04-21 19:35:48

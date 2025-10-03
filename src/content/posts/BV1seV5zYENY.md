@@ -1,33 +1,35 @@
 ---
 title: 海诺的评分还真挺好压的，不过好像就这个优点了
-published: 2025-05-02 14:55:06
+published: 2025-05-02 22:55:06
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
 ---
 
 
-> 作者：[磊哥游戏](https://space.bilibili.com/268941858?spm_id_from=333.788.upinfo.head.click)
+> 作者：[磊哥游戏](https://space.bilibili.com/268941858)
 
 视频字幕：
 
-Many people asked me to check out Hylos. After playing a few matches with this hero,，This hero seems only capable of lowering the rating.，play the chicken claw strategy，boost up，If you want to play the virtue farming style。
+有很多人让我去看看海诺玩了几局，这英雄好像只能把评分往下刷，玩鸡爪驴呃，再往上刷，玩功德流的话。
 
-Wait for me to stack a few marks before team fighting，Stacking upwards is too difficult，but if you intentionally lower it，This hero's tower-pushing speed is just too slow.，The lane clearing speed is actually quite fast.。
+打团之前先等我叠几个标记，再往上刷，太困难了，但是往下刷的话，他这个英雄推塔速度又太慢了。
 
-The survivability is quite high，But since I'm already playing the chicken claw strategy，What do I need survivability for，What I want is to go down together with my teammate，Otherwise the rating can't be kept low。
+清线速度倒是挺快的，诶保命能力是挺高啊，不过我都玩鸡爪流了，我要什么保命能力啊，我要的是跟塔同归于尽啊。
 
-How am I still alive，I thought I was dead for sure，The current new version of this Frost Staff is the same as the Frost Lance，His passive skill can now damage defensive towers.，So you can buy an Icebound Arrow to increase the tower-pushing speed.。
+不然评分根本压不下来啊，唉这还能活着，我都以为死定了，目前新版的这个冰杖跟冰矛一样，他的被动是可以打防御塔的了。
 
-but it's still not much faster，even with the Frost Crystal equipped，Arcane Boots and Golden Staff，His tower-pushing speed is still very slow，Now my Ice Wand is ready。
+所以可以买一个冰矛来增加推塔的速度，不过也快不了多少啊，即使出了冰杖，巫术法杖和金色圣剑，他推塔速度还是很慢。
 
-You can see that attacking the turret deals multiple instances of damage，but it's still slower than minions. With any other hero, I would've finished it by now.，Damn, I didn't even take down the tower and I died.，Sigh，But this hero's rating is quite easy to suppress。
+现在我的冰杖已经出来了，哎可以看到打防御塔是有多段伤害的，只是还没小兵打得快哎换成别的英雄，我早就打完了，完了塔没拆掉。
 
-If you avoid team fights for the entire game，can achieve a score around 3.x，similar to when I play Bai Qi，My Bai Qi often ends up with a score around 3 as well.，This really proves that choice outweighs effort.。
+我还死了哎，但是这个英雄评分挺好压的，一整局不去打团的话，能打出个三点几的分，跟我玩白起差不多啊。
 
-Also feeding over ten kills，The fastest-feeding Xiang Yu gets the highest rating.，The advantage of playing Hylock with the 'chicken claw' strategy is that it's easy to suppress the rating.，Some veteran claw-style heroes are extremely difficult to keep their ratings low，such as Li Xin and Liu Shan。
+这我白起也经常打出三点几的分啊，这下真的是选择大于努力了，同样送十多个人头，送的最快的项羽评分是最高的，凯诺玩鸡爪流的优点就是评分好压啊。
 
-They can easily score seven or eight points with casual play.，Although Hai Luo's rating is easy to suppress，but it feels extremely frustrating to play，The tower pushing speed is too slow.，And I'm not sure if it's just my gameplay issue，Why does playing this hero feel even more torturous than playing Meng Tian?，I never felt this powerless even when playing as Meng Tian.
+有些老牌的鸡爪流英雄评分非常难压，比如说李信跟刘禅啊，他们两个随便打打都能有七八分，虽然韩诺的评分好压，但感觉玩起来很坐牢。
+
+推塔速度太慢了，而且不知道是不是我操作的问题，这个英雄玩起来怎么感觉比蒙恬还要坐牢啊，我玩蒙恬都没有这种无力感
 
 ---
 
@@ -35,6 +37,6 @@ They can easily score seven or eight points with casual play.，Although Hai Luo
 
 时长：02:04
 
-创建时间：2025-05-02 14:55:07
+创建时间：2025-05-02 22:55:07
 
-发布时间：2025-05-02 14:55:06
+发布时间：2025-05-02 22:55:06

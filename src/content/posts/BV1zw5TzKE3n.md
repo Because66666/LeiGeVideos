@@ -1,45 +1,47 @@
 ---
 title: 牢玩家不苦练技术，我如何才能获得游戏的胜利
-published: 2025-05-08 12:59:34
+published: 2025-05-08 20:59:34
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
 ---
 
 
-> 作者：[磊哥游戏](https://space.bilibili.com/268941858?spm_id_from=333.788.upinfo.head.click)
+> 作者：[磊哥游戏](https://space.bilibili.com/268941858)
 
 视频字幕：
 
-Last night my 10-game winning streak was broken，I tried my best，Our teammate players were too terrible.，couldn't carry me，All the losses were because the teammates were too noob.。
+昨天晚上我的十连胜断了，尽力了，我们这边老玩家太菜了，没带得动我呃，输的局全都是老玩家太菜了啊。
 
-everyone is one strong player carrying four noobs，Why can others carry the game but you can't?，That must be because you're trash，Others don't complain about their teammates being bad，Why do you complain about your teammates being bad。
+大家都是一劳带四坑，凭什么别人能带动你就带不动，那肯定是菜啊，别人都不抱怨队友菜，你为什么就抱怨队友菜。
 
-It must be because you're terrible too，If you had practiced hard, wouldn't you be able to carry me now?，It's all because our so-called 'hardcore players' refuse to improve their skills，got beaten up by the noob opponents，complaining about teammates being bad。
+那肯定也是因为你菜啊，你要是苦练技术不就能带我飞了吗，都怪我们这边老玩家不练技术，被对面老玩家暴打了一顿嗯，抱怨队友打的菜。
 
-that's just complaining about the environment，Complaining about the environment means lacking skill.，Many people say this season uses the MMR system，This MMR system is just fantastic，one carry dragging four deadweights。
+那就是抱怨环境，抱怨环境就是没有实力呀，很多人说这赛季是MMR机制，这MMR机制可真是太好了，一劳带四坑。
 
-as long as you're not the one carrying the dead weight，The experience skyrocketed，What happened，just got killed，went to watch videos。
+只要自己不是那个牢，体验直线上升，主宰发生什么事了，刚刚被打死，跑去刷视频了。
 
-The enemy team got wiped out as soon as I respawned.，Many people in the comments want to know what this playstyle of mine is，The strategy is to stubbornly hold the offlane, and push their tower as soon as they leave.，But what if the enemy jungler comes to gank me?，The enemy jungler and mid laner come to gank me。
+一复活，对面就团灭了，评论区很多人想知道我这个打法是什么打法，就是在对抗路死磕对面一走，我就去推他的塔。
 
-Then wouldn't my teammates be safe?，The entire enemy team comes to gank me，I switched to Lightform and held my ground under the tower，until our trapped players farm up，the enemy is done for。
+那万一对面的打野过来抓我怎么办呢，对面的打野跟中路来抓我，那我的队友不就安全了吗，对面一群人来抓我，我变光信在塔下死守。
 
-What if the enemy doesn't target me in the offlane，What if they go after our marksman?，Hey，He's not coming，Then I'll just go take the dragon on my lane and be done with it.。
+等我们这边老玩家发育起来，对面就完蛋了啊，那要是对面不抓我这个对抗路，跑去抓我们的射手怎么办，诶。
 
-The goblins in this game are so annoying.，screaming all day long here，Then there's the frequently asked question about equipment.，Why buy Executioner，People have been asking about this thing since last year.。
+他不来，那我去打我这条路的龙不就完事了吗，哎这游戏的哥布林真烦人，一天到晚在这里鬼叫啊，然后问的比较多的就是装备问题了。
 
-Of course because it's cheap，Do you think equipment is free?，If I had the money, I would've bought six Blade of the Ruined Kings long ago.，I would have bought six Dominations long ago，Let's take a look at other equipment options at the same 1,800 gold price point.。
+为什么要买制裁，这玩意从去年开始就一直有人问啊，当然是因为便宜了，你买装备不要钱吗，我要是有钱。
 
-The Lightning Dagger doesn't provide physical attack, and its passive can't damage towers.，and it's easy to accidentally get assists，It's essentially just a plain equipment with only 35% attack speed.，a complete waste of money，Now let's look at another Vampiric Blade。
+早就买六把破军了，看一下1800块，同价位的其他装备，电刀不加物理攻击，被动不能打塔。
 
-Heroes who desperately need this can just uninstall the game.，This life is over.，Please voluntarily join the Blood Demon Sect，In this case，Is the cost-effectiveness of Sanction maxed out?。
+还容易蹭到助攻，属于是只有35%攻速的白板装备啊，纯浪费钱，再看另一把吸血刀，刚需这个的英雄可以直接埋了。
 
-It has attack speed and physical attack，This is exactly what's needed for pushing towers.，The current score is 0-6，each one feeds once，But I fed twice, still leading my teammate by one kill。
+这辈子都完了，请自觉加入血魔宗，这么一看，制裁的性价比是不是就拉满了，有攻速还有物理攻击。
 
-to motivate teammates to redeem themselves through shame，This is called fighting with one's back to the river.，I'm definitely going to die this time，3 minutes 0-3，I did my best。
+这全都是推塔需要的，现在比分零杠六，一人送一个，但是我送了两个领先队友一个人头啊，让队友知耻而后勇。
 
-The effective time for assists is 10 seconds.，which means within 10 seconds after I dealt damage to him，He was killed by my teammate.，I didn't get the assist，A stylish solo kill
+这叫背水一战，这波我肯定得死啊，3分钟，零杠三尽力了，助攻的有效时间是十秒钟。
+
+也就是说在我对他造成伤害后的十秒，他被我的队友击杀了，我是没有助攻的，帅气的单杀
 
 ---
 
@@ -47,6 +49,6 @@ The effective time for assists is 10 seconds.，which means within 10 seconds af
 
 时长：02:47
 
-创建时间：2025-05-08 12:59:34
+创建时间：2025-05-08 20:59:34
 
-发布时间：2025-05-08 12:59:34
+发布时间：2025-05-08 20:59:34

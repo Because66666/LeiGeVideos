@@ -1,55 +1,57 @@
 ---
 title: 高阶鸡爪流教学，随便沾染因果也不涨评分
-published: 2025-05-28 02:00:00
+published: 2025-05-28 10:00:00
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
 ---
 
 
-> 作者：[磊哥游戏](https://space.bilibili.com/268941858?spm_id_from=333.788.upinfo.head.click)
+> 作者：[磊哥游戏](https://space.bilibili.com/268941858)
 
 视频字幕：
 
-Go invisible and come over directly，Cutting off the lane here, dying means giving it your all，Just use the ultimate to clear the minion wave，Anyway, I won't fight anyone，After playing Orchid King (Lanling Wang) a lot。
+直接隐身过来，这里断线死了就是尽力了啊，直接大招清线，反正也不打人啊，兰陵王打多了。
 
-I found that taking Teleport is a better choice，Because Lanling Warrior's teleport doesn't break his invisibility，After teleporting, he remains invisible，the enemy chased me across half the map，I teleported right over and took down his second tower.。
+我发现还是带传送好一点啊，因为兰陵王传送他是不会破隐的，传过去他还是隐身啊，对面追了我大半个地图，我直接传过来拆掉他的二塔。
 
-And the invisibility is really useful，Sometimes when the enemy mage or marksman see the flashing indicator above their heads，immediately used Flash，Unlike Montian，Many people have never even seen this hero before, so they're not afraid of me at all.。
+而且隐身真的很好用啊，有时候对面的法师跟射手看到头上闪灯了，直接就放闪现了啊，不像蒙恬，很多人根本没见过这英雄一点都不怕。
 
-The most important point is here，Lanling Wang's rating system is incredibly abstract.，can freely rampage and kill，because his rating simply can't go high，This jungler keeps coming to stop me from split pushing。
+我最重要的一点来了，兰陵王的评分异常的抽象啊，可以随意乱杀，因为他的评分根本就打不高啊，这个打野一直过来阻止我拆塔。
 
-He comes over as soon as I cut off the lane，It's time to teach you a lesson，Anyway, I'm Lanling Wang，Killing you won't increase the score either，For You equipment Chicken Claw。
+我一断线，他就过来，是时候让你尝点苦头了，反正我是兰陵王，杀了你评分也不会涨。
 
-Shadow War Axe，Endless Battle, Shadow Blade, Master, any boots，Critical strike equipment, can push towers，can speed up wave clearing，can also slay the dragon。
+推荐出装鸡爪，暗影战斧，无尽影刃宗师鞋子随便暴击，装备可以推塔，可以加快清线。
 
-Playing Lanling King is just so much fun，Once I go invisible，scared him into immediately using Flash，If I were Meng Tian，Even without any skills left, he still comes over to basic attack me.。
+还可以打龙，这玩意，这玩兰陵王就是好，我一隐身，吓得他立马开闪现。
 
-would still come to basic attack me，Lanling Wang gets assists inexplicably，Because providing vision for teammates while invisible grants assists，As you can see, I'm not doing anything right now，and then got another assist。
+这我要是蒙恬，他哪怕没技能了，都要过来平A我，兰陵王会莫名其妙的加助攻，因为隐身的时候给队友提供视野就会加助攻。
 
-I didn't even attack this Cheng Yaojin，I'm just standing here，Another assist added，But don't panic，as I always say。
+可以看到我现在什么都没干，然后就涨了一个助攻，这个程咬金我也是没有打他，我就在这站着，又加了一个助攻。
 
-Laning's scoring system is exceptionally abstract，It's absolutely impossible to get a high score，Moreover, stealthily stealing the crystal，The enemy simply can't react in time，Rating 4.4。
+但是不要慌，还是那句话，兰陵王评分异常抽象，根本不可能把分打高，而且隐身偷水晶。
 
-Divine skill perfected，So playing Lanling King allows you to support your teammates.，The enemy jungler has already invaded our jungle.，Go help our jungler，just give the kill to him。
+对面根本反应不过来，评分4.4，神功大成，所以说玩兰陵王是可以去支援队友的，对面打野都打到我们野区了。
 
-help our jungler farm，just help him attack，because even after dealing damage，he still gets no points，Go ahead and fight without worries。
+过去帮一下我们打野啊，人头就让给他了，给我们打野发育，直接帮他打，因为即使打了输出啊。
 
-The scoring system for this hero is just absurd.，Giving him the kills, but as I kept playing I realized something was off，In this match, I went 0-9 but had the highest economy. My teammates were absolutely useless.，The enemy's Yu Ji even built the Witchcrafter's Staff，could still secure 12 kills。
+他还是没分啊，放心的打，这英雄评分就是抽象啊，给他让人头打着打着我意识到不对劲，这把我零杠九是经济第一队友根本不是人。
 
-scored 12-2, and I stole all the turrets，If this continues，This match is definitely a lost cause.，It seems you refuse a toast only to be forced to drink a forfeit.，Every time I go to steal the crystal。
+对面的虞姬都出巫术法杖了，还能拿下12个人头，打出12杠二防御塔都是我偷的，再这样下去，这一把肯定是必输局啊。
 
-This Wang Zhaojun is just standing there by the crystal，The crystal is just like his spawner cage，Kill! Not even pretending anymore.，So what if I kill you，My rating is still only forty or fifty。
+我看你是敬酒不吃吃罚酒嗯，每一次我过去偷水晶，这个王昭君他就在水晶那边站着啊，水晶就跟他的刷怪笼一样啊，杀直接演都不演了。
 
-Not only can I kill，I can even take down the dragon，You'd probably think that as a jungler, Lanling King，taking down the dragon will definitely give you a lot of points，Not really, still not much points。
+杀了你又如何，我的评分还是只有四五十，不仅能杀人，我还能打龙，你肯定觉得兰陵王作为打野。
 
-This game I took down both the Tyrant and the Storm Tyrant，Not worried at all，Why isn't this Daji coming over?，There's also a Lu Bu watching over here.，Just kill this little prisoner directly。
+打龙肯定会加很多分，实则不然还是没多少分，这把我又打暴君，又打风暴，龙王根本就不慌的。
 
-You really think I can't beat you?，Anyone who stands in my way must die，The enemy jungler is coming，I don't have my second skill，But I am a crit-build Lancelot。
+这妲己怎么不过来啊，这还有个劳布，看着呢，小小劳布直接杀了，真以为我打不过你啊。
 
-Just basic attacks, he can't beat me either，20 minutes into the battle，This Frost Queen's only kill was actually gifted by me.，He actually dares to fight me，Fortunately, I'm playing as Lanling Wang。
+妨碍我的人都得死，对面打野来了，我没有二技能，但是我是暴击，兰陵王。
 
-If I were playing Li Xin, I'd have a silver medal by now，Got it, score 5.9，just below 6 points，below six points，The Orchid King is so much fun to play，I played Li Xin with extreme caution throughout the entire match，just because of accidentally getting an assist，the score can still reach 6.7
+直接平A他也打不过我，打了20分钟，这个王昭君唯一的一个人头还是我送给他的，他竟然还敢跟我打，还好玩的是兰陵王。
+
+这我要是李信这会就赢牌了，拿下评分5.9，刚刚好，六分以下，兰陵王真是太好玩了，我李信小心谨慎了一整局，就因为一不小心沾染了一个助攻，评分都能有6.7
 
 ---
 
@@ -57,6 +59,6 @@ If I were playing Li Xin, I'd have a silver medal by now，Got it, score 5.9，j
 
 时长：03:49
 
-创建时间：2025-05-24 12:50:38
+创建时间：2025-05-24 20:50:38
 
-发布时间：2025-05-28 02:00:00
+发布时间：2025-05-28 10:00:00

@@ -1,43 +1,45 @@
 ---
 title: 我被对面打到高地了，但我的分路表现是金牌
-published: 2025-04-30 13:43:34
+published: 2025-04-30 21:43:34
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
 ---
 
 
-> 作者：[磊哥游戏](https://space.bilibili.com/268941858?spm_id_from=333.788.upinfo.head.click)
+> 作者：[磊哥游戏](https://space.bilibili.com/268941858)
 
 视频字幕：
 
-Brothers，I discovered a really interesting rating，Wasn't there a rating called 'damage to minions under tower' in the previous video，called damage dealt to minions inside the tower?，After testing。
+兄弟们，我发现了一个非常好玩的评分啊，之前视频里面不是打出来一个评分，叫做对塔内小兵造成的伤害吗，那经过测试。
 
-this score for dealing damage to minions under the tower，not attacking minions under the enemy tower，it's about attacking the minions in our own tower，This is probably meant to encourage us to defend the tower.，Watch my moves。
+这个对塔内小兵造成伤害的分，不是打对面塔里的小兵，是打我们塔里的小兵啊，估计就是鼓励我们要守塔，看我操作啊。
 
-We shouldn't lane against him in the early game，Because all this fighting results in ineffective damage output and meaningless pressure absorption，No points for fighting，might as well AFK and do something else，We'll just wait here。
+我们前期不要跟他对线啊，因为这个打的都是无效输出跟无效承伤，打了也没分，还不如挂机干点别的事啊，我们就在这里等。
 
-Wait for the minions to enter the tower before attacking，There's actually a risk in playing this way，For example, the tower will lose health，but it's fine，The tower is not Me。
+等兵线进塔再打，这么玩的话，其实是有风险的，比如说塔会掉血，不过没事啊。
 
-The tower belongs to all of us, this Meng Tian really wants to attack me，But my Arthur comes with Overlord's Mail，is destiny，He cannot defeat Me，Destiny is on my side。
+塔又不是我的塔，是我们大家的这个蒙恬非常想打我，但是我亚瑟自带霸者重装，霸者重装即是天命，他是无法战胜我的。
 
-I'll just clear the minions under the tower，How dare you, a Meng Tian, think you can tower dive and kill me?，How dare you, Meng Tian, collude with Ake to ambush me!，I did my best，Nine people ganging up on me alone。
+天命在我，我就在塔下清线，你一个蒙恬难道还想越塔杀我不成，大胆，蒙恬竟敢暗同阿珂过来刺杀我。
 
-Luckily I managed to counter-kill one.，Meng Tian tears down towers so fast.，Now the first tower is gone，ran to the second tower here，I just want to clear minions under the tower honestly.。
+尽力了，九个人打我一个，还好我反杀了一个蒙恬，拆塔就是快，现在一塔没了。
 
-This Montian has nothing better to do，Why do you keep trying to hit me?，Do you understand that we're both just dealing meaningless damage to each other?，Now my Sunfire Cape and little suspenders are ready，Can go over to leech assists now。
+跑到二塔这里来，我就想在塔下老老实实的清线，这个蒙恬没事干，老想打我干什么，我们两个打的都是无效承伤。
 
-Although it only counts kills now，but it's okay，I cleared a lot of minions under the tower this game.，This Mengtian has already pushed me back to the high ground，Fortunately, my teammates came to support me.。
+懂不懂，现在我的小红莲斗篷加小背带裤都出来了，可以过去蹭助攻了，虽然现在就看击杀分，但是没事啊。
 
-Otherwise, our high ground would have been lost very quickly.，After fighting for so long, I haven't even seen the enemy's first tower.，The tiny bit of health left on this top lane tower was actually taken down by Sun Shangxiang for me.，I don't know what's wrong with this Meng Tian，Right after dying, he spams '666'。
+我这一局在塔下清了很多小兵，这蒙恬已经把我打到高地了，还好我的队友过来支援了，否则很快我们家高地就没了，打了半天我连对面的一塔都没见到啊。
 
-Anyone would think he's playing the 'chicken claw' strategy.，with a 0-5 score，relying on the suspenders and the little red face cloak，I also managed to snag over a dozen assists，Although there were only two kills。
+这上路的塔那一点血还是孙尚香帮我打的，这个蒙恬不知道怎么回事，这一死就发个666个，不知道的，我还以为他在玩鸡爪流。
 
-and died three times，But I cleared a lot of minions，I contributed greatly to defending our towers this game，Fortunately, the shooter survived this final team fight，directly ace them。
+都零杠五了，靠着背带裤跟小红莲斗篷，我也是蹭了十几个助攻啊，虽然就两个人头，而且还死了三次。
 
-Even after flashing, this primitive Meng Tian couldn't escape.，played the entire game，This is the first tower I've seen，still the high ground，also earned a silver medal。
+但是我清了很多的小兵啊，这把我守塔有功啊，还好这最后一波团战射手活着唉，直接一波了啊，蒙恬这个原始人即使放了闪现也跑不掉啊。
 
-This lane performance directly upgraded to a gold medal，I have no idea how this score was calculated.，100% damage taken during laning phase，I intentionally lured the minions under my tower to attack them，The system judged that I was under pressure.，Combat performance is garbage-tier，because combat performance is determined by kill counts
+打了一整局，这是我见到的第一个塔，还是高地啊，胜利也是拿到了一个银牌诶，这个分路表现直接刷成了金牌。
+
+他这个分不知道是怎么判的，对线期抗压伤害百分之百啊，我故意把小兵引到塔里打，系统判定我这是在抗压，战斗操作是个废铁，因为战斗操作要看击杀数
 
 ---
 
@@ -45,6 +47,6 @@ This lane performance directly upgraded to a gold medal，I have no idea how thi
 
 时长：02:55
 
-创建时间：2025-04-30 13:43:35
+创建时间：2025-04-30 21:43:35
 
-发布时间：2025-04-30 13:43:34
+发布时间：2025-04-30 21:43:34

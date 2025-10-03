@@ -1,39 +1,41 @@
 ---
 title: 5分半拿下对面水晶，达成15连胜
-published: 2025-06-15 00:00:00
+published: 2025-06-15 08:00:00
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
 ---
 
 
-> 作者：[磊哥游戏](https://space.bilibili.com/268941858?spm_id_from=333.788.upinfo.head.click)
+> 作者：[磊哥游戏](https://space.bilibili.com/268941858)
 
 视频字幕：
 
-This match, our teammates suggested we push towers together，So they picked Mi Leidi, Liu Chan, and Han Xin，Normally, I can't understand teammates' commands.，Teammates said let's push turrets together，Now I get it。
+这把队友说我们一起推塔，于是选出了米莱狄，刘禅和韩信，平时队友的指挥听不懂，队友说我们一起推塔吧。
 
-What impressed me the most was still 7 days ago，a Liu Chan said to me at the start of the game with a line from Li Xin，Let's fight side by side，destroy the enemy's turrets，Although a bit cringey。
+这下听懂了，让我印象最深的还是七天前，有一个刘禅开局就给我来了一句李信，让我们一起并肩作战，击碎对面的防御塔。
 
-But bringing Liu Shan along to push towers is actually quite nice，There were actually three teammates like this in this match，The teammate said to gather at my bottom lane after 4 minutes.，To make it easier to gather, we all took Teleport，Only 4 minutes left?。
+哎虽然有点中二，但是带个刘禅一起去推塔还真不错啊，这把像这样的队友，竟然还出现了三个队友，说4分钟之后到我下路集合。
 
-I need to feed a few more times before the 4-minute mark，Otherwise, after 4 minutes when we group up with teammates，The participation rate simply can't be kept down，613, finally died，The marksman just died once。
+为了方便集合就都带了传送啊，只有4分钟了嘛，我得在4分钟之前多送几个，不然4分钟之后跟队友抱团，那参团率根本压不下来。
 
-I died too，Han Xin came to help me gank，got attacked by the enemy jungler，Han Xin avenged me，But I can't take revenge for Han Xin。
+终于死了啊，刚刚射手死了一下，我也死了一下，韩信过来帮我抓，被对面打野打了。
 
-If I fight back now, my rating won't stay low anymore，Han Xin is still sending me signals，Your signals won't help，This Han Xin is really a decent guy，He didn't scold me。
+韩信替我报仇，但是我不能替韩信报仇啊，这我要是打了我的评分就压不下来了，韩信还给我发信号，你发信号也没有用啊。
 
-just said 'totally not worth it'，Didn't pay attention at first，discovered that the opposing Annie was a gifted player，is an execute-type Annie，The clock ticks to 4 minutes。
+这把的韩信还真是个忠厚人啊，他没有骂我，只是说了一句亏炸了，刚开始没注意，发现对面的安琪拉是个天赋型选手。
 
-My teammates are finally coming，I should still pretend to fight a bit.，All my teammates are watching，If I don't put up a symbolic fight，my teammates won't scold me。
+是个斩杀安琪拉，时间来到4分钟，我的队友终于要来了，这我还是象征性的打几下吧，几个队友都看着呢。
 
-I feel embarrassed，can't fight too much，If I keep fighting, the damage score won't stay low enough.，Anyway without me，My teammates can handle it。
+这我要是不象征性的打几下，队友不骂我，我都不好意思了啊，不能打多了，打多了。
 
-This Mi Lay's ability to summon minions is so convenient，Ah，I need to find a way to die，Lu Ban is only level five，No。
+这个输出分就压不下来了，反正没我，我的队也也打得过，这米莱狄能变小兵，就是方便啊。
 
-I got the kill on Luban，We need to finish this quickly.，As long as the game ends quickly, the rating won't catch up with me，I'm retreating，After respawning。
+得想办法去世一下，这鲁班才五级，唉不好，我拿到了鲁班的人头，得速战速决了。
 
-Teammates chose to sneak attack the top lane，but I noticed the super minions were pushing the bottom lane，teleported over directly，secured a 15-win streak，victory，A score of 5.6 is just perfect
+只要游戏结束的快评分就追不上，我开始撤退，复活之后，队友选择去偷上路，但是我看到下路有超级兵哎。
+
+直接传过来，拿下15连胜，victory啊，评分5.6，太对了
 
 ---
 
@@ -41,6 +43,6 @@ Teammates chose to sneak attack the top lane，but I noticed the super minions w
 
 时长：02:18
 
-创建时间：2025-06-14 11:54:58
+创建时间：2025-06-14 19:54:58
 
-发布时间：2025-06-15 00:00:00
+发布时间：2025-06-15 08:00:00

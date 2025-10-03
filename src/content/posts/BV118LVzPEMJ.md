@@ -1,59 +1,59 @@
 ---
 title: 牢玩家看完这集包被气笑的，逮着牢玩家往死里坑
-published: 2025-04-24 14:39:14
+published: 2025-04-24 22:39:14
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
 ---
 
 
-> 作者：[磊哥游戏](https://space.bilibili.com/268941858?spm_id_from=333.788.upinfo.head.click)
+> 作者：[磊哥游戏](https://space.bilibili.com/268941858)
 
 视频字幕：
 
-This dead ant seems to be a pro in this match，I might just get carried.，It seems like every Dead Ant I've encountered hasn't been a noob.，After all, this hero is quite rare to begin with，probably those still playing are all pros。
+这把这个死蚂蚁好像是个高手啊，搞不好我可以躺，好像遇到的死蚂蚁没有一个是坑的，哎毕竟这英雄本来就少见，估计还在玩的都是绝活啊。
 
-This Li Xin is also a top player，is a top-tier off-laner，And you can tell from the name that this player frequently uses Li Xin.，directly build Thorn Mail as the first item，to prevent him from going on a rampage。
+这李信也是个高手啊，是顶级对抗路，而且看名字就知道是经常玩李信的，直接第一件就反甲，免得他操作起来了。
 
-Having lower economy is actually a good thing，to avoid getting the MVP，Now my economy is the second lowest，Because I've been freeloading off my teammates the whole time，I haven't even touched the minion wave in the bottom lane.。
+经济低一点是好事，免得金牌了，现在我的经济是倒数第二，因为我一直在跟着队友混啊，下路的线我就没清过。
 
-give all the gold to teammates，Then someone might ask here，What if teammates don't clear the minion waves?，Uh, what if I'm the only Lian Po among the four teammates who can clear minion waves?，This game is still doomed。
+把经济全都让给队友，那这里有人问了，那万一队友不清线呢，呃要是四个队友只有我一个廉颇会清线，这把不还是得玩。
 
-Now I'm already 2,000 gold behind my teammates，trying to suppress the economy score，see if it can be a bit lower，This Kagura is pretty good in this match，Every team fight I can keep up with them。
+现在我已经敌对有2000经济了，尝试着压一下经济分，看看会不会低一点，这把这火舞还是不错的，每次团都能跟上在冷却。
 
-Although I have low economy，but I built the Thorn Mail, this Li Xin，he couldn't take me down，However, Haino's damage is still quite high.，I was still thinking about whether I should Flash-Flicker。
+虽然我经济低，但是我出了反甲，这个李信他就打不动我，不过海诺伤害还是挺高的，哎我还在想我要不要E闪啊。
 
-Li Xin flashed out first.，Marko Polo has been helping me clear the minion wave in the bottom lane the whole time.，He now has the highest economy，My teammates will clear the minion waves，Then I won't clear it。
+李信就先闪出去了，马可波罗一直在下路帮我清线，他现在经济已经第一了，哎队友会清线，那我就不清了。
 
-I haven't been to the bottom lane in ages，I've spent 6 out of the 10 minutes in other lanes，Gather，No matter how we fight this round, it's always a close match，Ah。
+哎我都好久没去过下路了，打了10分钟，6分钟我都在其他路集合，这把怎么打，他都是势均力敌啊。
 
-It seems the Tiger Talisman is working its magic.，but the outcome is already decided，the enemy Luban Blood Demon Sect disciple，The enemy stands no chance now，The loyal yet often losing player Lan on the enemy team was brutally countered by the system.。
+看来是虎符咒发力了，但是胜负已定，对面的鲁班写摩登弟子，对面已经无力回天了，对面的老玩家澜被系统狠狠的制衡了。
 
-Although it's a close fight right now，but the opposing team has no chance of winning anymore，Our team is performing well，the opposing side only has a struggling Lan，In the previous video, someone asked about having veteran players carry newbies。
+虽然现在怎么打都是势均力敌，但是对面已经没有胜的可能了啊，我们这边打的都可以，对面只有一个蓝苦苦支撑啊，上期视频有人问。
 
-let veteran players carry the noobs，What if these loyal players quit the game?，The answer is, veteran players would never quit.，Loyal players will motivate themselves，Ugh! How come it's a ten-game losing streak?。
+让老玩家带坑，那老玩家退游了怎么办，哎答案是老玩家是不会退游的，老玩家会自我激励诶，怎么十连败了。
 
-It must be because I played too poorly，I only got 16 kills this round.，If I had gotten 160 kills，Wouldn't we have won this game then?，Besides, even if a dedicated player really quits the game。
+一定是我打的太菜了，我这局才杀16个，我要是杀160个，这把不就赢了吗，况且猫玩家就算真退游了。
 
-he will come back，because he has spent so much time honing his skills in this game，spent so much money，Even if he quits, he'll come back，or get called back by friends。
+他也会回来，因为他在这个游戏苦练了这么久的技术，充了这么多钱，就算退了，他也会回来。
 
-while those who play poorly，He won't delve into this game，He doesn't read game guides，don't study game strategies，He doesn't even read the game update announcements。
+或者被朋友叫回来，而那些打得菜的人，他不会钻研这个游戏啊，他不看游戏攻略，不看游戏打法。
 
-He genuinely won't come back after quitting the game.，Loyal players leave but always come back，Assuming the die-hard players truly quit the game，Is it one person quitting or nine people quitting，Can't the planners tell the difference?。
+甚至连游戏更新公告都不看啊，他退游是真不会回来了，老玩家退了还会回来，假设老玩家真退游了，是退一个人还是退九个人。
 
-This Sima Yi is pretty impressive this round.，The timing of their engagement was pretty well executed.，Although the enemy's Lan is also pretty good，But this is not a one-man show，It's the glory of the team。
+策划分不清楚吗，这把的死蚂蚁还是挺厉害的，感觉进场时机把握的都不错，虽然对面的澜也挺厉害的，但是不是一个人的王者。
 
-No, I think this damn ant is playing really well.，How come this dead ant only got an 8.6 rating?，The enemy Li Xin is also a pro player，Fortunately, I have the power of the Thorn Mail.，Come take a look at this damn ant, this damn ant is a classic。
+是团队的荣耀啊，不是我觉得这个死蚂蚁打的挺厉害的，这死蚂蚁怎么才8.6分，对面的李信也是个高手，还好我拥有反甲的力量啊。
 
-It used to be the present，Now is the past，The rating has increased，The win rate has dropped even lower，Even more interesting。
+过来看看这个死蚂蚁哎死蚂蚁，这个是经典的，以前是现在，现在是以前啊，哟评分变高了。
 
-The enemy team's tryhard Lancelot is so skilled，still got hard-countered by Luban，still a Honor of Kings player，take a look，This is even worse than before。
+胜率还变低了，更有意思了，对面老玩家澜这么厉害，还不是被鲁班狠狠的制衡了，还是个荣耀王者。
 
-Now is the past，Even AFKing the whole match would give you a higher win rate than this，Killed over a dozen, but still couldn't turn the tide.，Although the stats can't be clicked on，but his stats have already told the whole story。
+看一下啊，这这还不如以前是现在，现在是以前啊，全程挂机胜率都比这高啊，杀了十几个无力回天啊。
 
-Thankfully, the fair judge severely balanced this Lan.，Otherwise I would have been in danger this round.，This Luban has lower economy than the support.，I wonder if I can report this，Others are expected to lose 4 points next time。
+虽然战绩点不进去，但是他的战绩已经说明了一切，还好青天大老爷狠狠的制衡了这个蓝，否则这把我就危险了，这鲁班经济比辅助都低。
 
-This one even only got 3 points，They can't even be bothered to make empty promises about the expected outcome.，Report this Lan，Honor of Kings is so much fun，Honor of Kings is the most fun game in the world，Lan is expected to lose 4 points next time
+不知道能不能举报啊，呵呵别人都是预计下次扣四分，这个甚至就三分，连预计这种画饼都不愿意了，举报一下这个人，王者荣耀真是太好玩了，王者荣耀是世界上最好玩的游戏，难预计下次扣四分
 
 ---
 
@@ -61,6 +61,6 @@ This one even only got 3 points，They can't even be bothered to make empty prom
 
 时长：04:09
 
-创建时间：2025-04-24 14:39:15
+创建时间：2025-04-24 22:39:15
 
-发布时间：2025-04-24 14:39:14
+发布时间：2025-04-24 22:39:14

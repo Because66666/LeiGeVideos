@@ -1,49 +1,51 @@
 ---
 title: 好奇怪啊，为什么就是输不了呢，明明已经拼尽全力了
-published: 2025-05-03 21:57:57
+published: 2025-05-04 05:57:57
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
 ---
 
 
-> 作者：[磊哥游戏](https://space.bilibili.com/268941858?spm_id_from=333.788.upinfo.head.click)
+> 作者：[磊哥游戏](https://space.bilibili.com/268941858)
 
 视频字幕：
 
-Forbidden Technique，Using this technique consumes stamina.，Reaching the high ground in 5 minutes，The ideal scenario is getting penalized once every three matches.，deducted 3 points at a time。
+禁忌功法啊，使用此功法会消耗体力值，5分钟打上高地，理想状态是三局扣一次分，一次扣三分。
 
-achieve sustainable development，In reality, it's three deductions in three matches，Stamina is completely depleted，The problem still lies with Meng Tian, just like before，still no tower pushing points。
+实现可持续性发展，实际上是三局扣三次分，体力值全都没了，哎问题还是出在蒙恬和以前一样，仍然没有推塔分啊。
 
-This results in me having a very low rating even with over 80% tower push.，very prone to being reported，Of course, I don't think it's caused by giving away too many kills.，I think it's because Meng Tian's farming speed is too slow.，So I switched to playing Li Xin。
+这就导致我即使80多的推塔评分还是很低，非常容易被举报，当然了，我并不觉得我这是送了太多人头导致的，我认为是蒙恬刷钱速度太慢了啊。
 
-Li Xin has fast farming speed，As long as you farm enough gold, you won't get reported.，Ah，Just think about why I have so much money，That's because I made great contributions!。
+所以我跑来玩李信了，李信那刷钱快啊，只要把钱刷多了，就不会被举报啊，你想想我为什么钱多。
 
-Cutting off lanes, counter-jungling, slaying the dragon – countless battle merits deserve this reward，Why should I be reported，Here someone might say，Brother Lei，I see you've got a pile of money but haven't made any real contribution。
+那是因为我贡献大呀，断线反野打龙数战之功应得此赏，凭什么被举报，这里有人就说了，磊哥。
 
-Never mind that, the honorable judge only cares about money, not deeds.，as long as you have enough gold，that counts as a great contribution，For example, if Hou Yi starts the game with a 0-3 score，and then stayed in the jungle farming creeps the entire game without coming out。
+我看你拿一堆钱也没做出什么贡献啊，这个你别管青天大老爷只认钱不认事，只要你钱多，就是贡献大，比如说后羿开局被打成零杠三。
 
-Even if he spends the whole game farming jungle creeps, you still can't report him.，In the end, I also developed this set of equipment through research.，Since the new version of Chicken Claw lacks penetration，so you need to build a Small Meteor first，Finally, complete it by upgrading to the Shadow Battle Axe.。
+然后一整局都在野区刷，野怪不出来，哪怕他打了一局野怪，你也举报不了他，最终我也是科研出了这套装备。
 
-The advantage of this build is that it demolishes towers extremely fast，Of course, it's only good for attacking towers, and practically useless against anything else.，Ah，In the late game, you can not only demolish the towers，can also survive。
+由于新版的鸡爪没有穿透，所以需要先出一个小陨星，最后再补成暗影战斧就行了，这套装备的优点就是打塔非常快啊，当然了也就打塔除了塔。
 
-Dying fewer times also makes you less likely to get reported，Because my skills are completely inhuman，Unless the opponent intentionally feeds me kills，otherwise I can't get it，so I can get matched with good teammates。
+其他的都不行啊，到了后期不仅可以把塔拆了，还能活下来啊，少死几次也不容易被举报啊，由于我的操作完全就不是人。
 
-In a team, the number of veteran players and noobs is fixed.，you took the spot of the veteran player，your side will have one less hardcore player，you're occupying the slot for a noob，your team will have one less noob。
+除非对面故意给我送人头，不然我就拿不到啊，所以我能匹配到好队友啊，一个队伍里面老玩家跟菜鸟的数量是固定的，你占了老玩家的名额。
 
-Actually, I was really nervous while playing.，Each match takes 30 to 40 seconds to matchmake.，Every time I thought it would match me with someone even worse than me，to end my winning streak，Luckily, I was overthinking it.。
+你们这边就少一个老玩家，你占了菜鸟的名额，你们这边就少一个菜鸟，其实我玩的时候非常的慌，每局都要匹配三四十秒。
 
-It turns out that people as bad as me are very rare.，Afraid that average hardcore players can't carry me，is matching me with top-tier prison players，still playing this game in the middle of the night，must all be hardcore players。
+每次我都觉得他要匹配比我还坑的，来断我的连胜，好在是我想多了，原来是像我这么菜的人非常的少见，怕一般的老玩家带不动。
 
-But the bigger the storm, the more valuable the fish，Ah，Why can't I bet on these imprisoned players，all spawned on our side，Luckily my gamble paid off。
+我，正在给我匹配极品老玩家啊，正常凌晨还在玩这个游戏的，绝对都是老玩家，但是风浪越大。
 
-Because I played so poorly，so all the veteran players are on my side，Haki King, you guy，The matching is so slow，So you're actually finding hardcore players for me。
+鱼越贵啊，我为什么就不能赌，这些老玩家全都刷在我们这边呢，好在我赌对了啊，因为我打的太菜。
 
-simply unbeatable，I just glanced at the pro player in the crowd，just picked up two assists，12:4 all four kills were mine，Luckily I took up the noob slot。
+所以老玩家全都在我这边啊，塔吉王，你这家伙匹配这么慢，原来是在给我找老玩家，而根本输不了。
 
-Otherwise, my teammates in this match would be in danger.，Attack the tower directly，This minion doesn't have much health left.，Sigh，Okay, one more thing。
+我就是在人群中看了一眼，老玩家就捡了两个助攻，12比四，四个人头全是我送的，还好我把菜鸡的名额给占了。
 
-Li Xin is truly a hero who shouldn't kill anyone，0-7, 3.4，3-8, 7.5，I was almost the MVP
+不然这把我的队友就危险了，直接抗塔，这个龙兵没多少血了，哎，还有一件事嗯。
+
+李信这英雄是真不能杀人啊，零杠73.4，三杠87.5，差点我就是MVP了
 
 ---
 
@@ -51,6 +53,6 @@ Li Xin is truly a hero who shouldn't kill anyone，0-7, 3.4，3-8, 7.5，I was a
 
 时长：03:25
 
-创建时间：2025-05-03 21:57:57
+创建时间：2025-05-04 05:57:57
 
-发布时间：2025-05-03 21:57:57
+发布时间：2025-05-04 05:57:57

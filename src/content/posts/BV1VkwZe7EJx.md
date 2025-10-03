@@ -1,41 +1,41 @@
 ---
 title: 咱两战绩是差不多，但我的团队贡献比你大多了
-published: 2025-02-17 16:13:58
+published: 2025-02-18 00:13:58
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
 ---
 
 
-> 作者：[磊哥游戏](https://space.bilibili.com/268941858?spm_id_from=333.788.upinfo.head.click)
+> 作者：[磊哥游戏](https://space.bilibili.com/268941858)
 
 视频字幕：
 
-This shows our veteran player is a tiger.，He failed to counter the buff at the start.，Then a buff was activated.，We can still fight back.，Looks like he’s a pro.。
+这把我们的老玩家是老虎啊，他这个开局反Buff没反成功，然后一个Buff开，这还能打起来啊，看来是个高手啊。
 
-As for who the veteran player on the other side is, it doesn’t matter now.，My alt account is already Rank One Starlight.，The enemy Luba’s build is still Electro Blade and Bloodsucker.，If they win, it would be a miracle.，The tiger’s record is about the same as mine。
+至于对面的老玩家是谁已经不重要了，我这个小号都星耀一了，对面的鲁班出装还是电刀加吸血刀，对面能赢就见鬼了，老虎的战绩还跟我差不多。
 
-but his score definitely isn’t as high as mine，The records are pretty similar，But what about team contributions? You just invaded their jungle，killed a few dragons and caught a few people，I was wearing the Crimson Lotus Cloak。
+但是他的评分肯定没我高，战绩是差不多了，那团队贡献呢你只不过是反了对面的野区，打了几条龙和抓了几个人罢了，我可是穿着红莲斗篷。
 
-which inflicted the Grievous Wound Buff on everyone on the enemy team，The tiger even accidentally died once，Ah, so his score is naturally only nine points，The enemy Mi Le Di has Teleport.，At the start, she directly flies to our turret.。
+给对面所有人都挂上了重伤的Buff，老虎还一不小心死了一次，哎分自然是只有九分了，对面的米莱狄带传送，开局直接飞到防御塔这里。
 
-She’s definitely going to invade and take our Blue Buff.，I’ve seen this video before too.，Your plan has been figured out.，Sure enough, she’s here.，Our jungler is also on the way.。
+他肯定是要反我家蓝Buff啊，因为这个视频我也看过，你的计谋被识破了，果然在这里啊，打野也赶过来了。
 
-But in this match, our experienced player is Da Qiao.，And the support is also an experienced player.，It’s time to just give up.，Can’t handle it anymore.，But I’ve already earned the gold medal.。
+但是这把我们的老玩家是大乔啊，那辅助是老玩家，自然是可以直接投降了，玩不了一脸，不过我已经刷出金牌了啊。
 
-Losing won’t cost me any stars.，As my rank keeps climbing,，the opponents get tougher and tougher.，Look, this guy was just laughing and joking with me a second ago,，seemed to be in a good mood,。
+输了也不掉星，随着段位越来越高，遇到的人也是越来越不是人了啊，你看这个老大前一秒还在跟我嘻嘻哈哈，心态看着也是不错的。
 
-and now he’s even giving me a back rub.，It's only been two and a half minutes.，And he's already been driven mad by his teammates.，Sigh, their Marksman,，is only slightly better because his first item is a Bloodthirster.。
+你看他还在这里给我搓背呢，仅仅过去两分半啊，他就被队友气昏了，哎他家的射手，也就比第一件装备是吸血刀好一点。
 
-The first item should be a Bloodthirster.，It's really strange.，Clearly, his rank has improved,，but the players he encounters have gotten worse.，Look at the enemy team's composition.。
+第一件装备是制裁啊，真的很奇怪啊，明明段位变高了，但是遇到的人都变菜了，你看对面的阵容。
 
-Xiahou Dun, Cai Wenji, and Bai Qi，Our marksman should get the Bloodthirsty Blade here，This match in Star Platinum is really strange，The opponents don’t seem human，But neither do our teammates。
+夏侯惇蔡文姬加白起啊，我们射手搁这里出吸血刀啊，这星耀一的对局真的很奇怪，对面不像人啊，但是队友看着也不像人啊。
 
-Sometimes watching my teammates play is just frustrating，Of course, the most annoying are the substitute heroes，They’re all like cavemen，Playing Lianpo can’t beat the experienced players on the other side，I'll have to bring out Wu Yan, this quirky hero.。
+有时候看队友的操作真的很无语，当然最烦人的就是补位英雄，补出来的全是原始人哎，玩廉颇打不过对面老玩家啊，只能拿出无艳这个邪门英雄了。
 
-Although this hero is quite quirky,，the damage output is pretty high, though.，You have slain，it's still possible to take on experienced players.，Don't look for trouble.。
+虽然这英雄挺邪门的，但是伤害还挺高啊，You have slain，还是可以打得过对面老玩家的，别找点套。
 
-And she can push towers pretty quickly too.，Killing spree，I see someone asking about Mi Yue in the substitute heroes list,，why not play her?，Mi Yue isn't a primitive hero either,，but the issue is,，you're asking me to use Mi Yue to take down experienced players in late-game team fights,，isn't that a bit too challenging?
+而且推塔也挺快的，Killing spree，我看有人问补位英雄里有芈月，怎么不玩，这芈月也不是原始人啊，但问题就在于，你让我在后期团战用芈月击杀对面的老玩家，是不是难度有点太大了
 
 ---
 
@@ -43,6 +43,6 @@ And she can push towers pretty quickly too.，Killing spree，I see someone aski
 
 时长：02:43
 
-创建时间：2025-02-17 16:13:58
+创建时间：2025-02-18 00:13:58
 
-发布时间：2025-02-17 16:13:58
+发布时间：2025-02-18 00:13:58

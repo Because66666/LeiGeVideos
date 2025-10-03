@@ -1,53 +1,55 @@
 ---
 title: 抓到一个这样的牢玩家，队伍经济直接+1000多
-published: 2025-06-05 02:00:00
+published: 2025-06-05 10:00:00
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
 ---
 
 
-> 作者：[磊哥游戏](https://space.bilibili.com/268941858?spm_id_from=333.788.upinfo.head.click)
+> 作者：[磊哥游戏](https://space.bilibili.com/268941858)
 
 视频字幕：
 
-Go straight to contest the lane at the start，If you can seize the lane, immediately activate stealth，Preparing to intercept the second wave of minions，If you can't win the lane, just feed first blood，Clearly I've secured the first wave of minions.。
+开局直接过来抢线，能抢过，直接开隐身，准备去断第二波线，抢不过。
 
-Go invisible immediately to cut off the second wave，Enemies are coming, I did my best，There's nothing that can be done，After respawning, teleport over immediately，Just focus on clearing the minion waves。
+直接送一血，很明显我抢到了第一波线，直接隐身来断，第二波来人了，尽力了。
 
-Only focused on minions and towers, and got caught again，Great，No worries about dying within the first 4 minutes，Because of the turret protection，He simply can't take down Me tower。
+这没办法啊，复活之后直接传过来啊，反正就是清线，眼里只有兵线跟塔又被抓了，太好了。
 
-After 4 minutes, you must clear the minion wave before dying，otherwise the tower will be lost，Actually, it's a good thing for Lancelot to die a few more times.，For every two deaths, you can go and kill one person.，Kill according to a 1:2 ratio。
+哎前4分钟随便死，因为有防御塔保护，他根本推不了我的塔，4分钟之后死之前一定要把兵线给清了，不然塔就没了。
 
-Your rating should be around 3-4 points.，Even if you trade kills at a 1:1 ratio, it's not a big problem，should be around 5.6 points. For You to attack those with high bounty levels，target those with level 3 or 4 bounties，One hit will burst out a large amount of gold。
+其实兰陵王多死几次是好事啊，没死两次，你就可以去杀一个人，按照一比二的情况去杀人，你的评分应该就在3~4分。
 
-and your teammates will also receive gold，Don't go after those trash worth only a few dozen coins，wasted a kill slot，If you manage to kill someone with a max bounty, you can get 550 gold.，and your four teammates, even if they are miles away。
+即使按照一比一的情况去杀，问题也不大，应该也就在5~6分打人，推荐打那种悬赏等级高的，打那种三四级悬赏的。
 
-did nothing，as long as the max bounty target dies，can also receive gold coins，This is because I'm using Han Xin to 1v4 against bots，the system judged me to be at a disadvantage。
+打一下就能爆出来一大堆金币啊，并且你的队友也会获得金币，不要去打那种就值几十块的垃圾，浪费了一个杀人的名额，你要是打死了一个满级悬赏。
 
-so the gold dropped is a bit less，Normally all four players should receive over 100 gold coins，If your teammate can also secure an assist，even if it wasn't your teammate who got the kill，he can also get 240 gold。
+可是能得到550块的，并且你的四个队友即使远在天边，什么都没干，只要满级悬赏的人死了，也可以得到金币啊。
 
-This is also because Han Xin was judged to be at a disadvantage.，Otherwise, it should have been 275 gold.，If Han Xin is in the lead, the bounty gold will be much higher，instantly closed the gap of one to two thousand gold，This is why。
+这里是因为我拿韩信在一打四个人机，系统判定我为劣势方，所以爆的金币少了一点，正常应该四个人都获得100多块钱，如果你的队友再能摸到个助攻。
 
-Despite your team being in a clear advantage with over a dozen more kills，just because your carry player died，the enemy's economy suddenly caught up，This is all because of your stubborn players, who gave the opponent a huge amount of gold.，Two hardcore players just gave away 2,000 gold。
+即使不是你的队友击杀的，他也能获得240块，这里也是因为韩信被判为逆风了，不然的话应该报的是275块钱，如果韩信是顺风爆的金币会更多。
 
-Two veteran players just gave away 2000 gold，Of course they caught up，So some people might ask here，the max-bounty imprisoned player is way too overpowered，What if I can't defeat him?。
+直接就追上了一两千的经济，这也就是为什么，明明你们这边大顺风领先了十几个人头，就因为你们这边老玩家死了，对面经济突然就追上来了。
 
-No worries，Our Claw Tactics players usually have scores like 0-something.，He can only get a few dozen gold at most if he kills me.，I killed him，we directly get an additional 1,000 bucks。
+这都怪你们老玩家给对面爆了大量的金币，一个老玩家报1000，两个老玩家就是爆了2000金币，当然追上来了啊，那这里肯定有人就想问了。
 
-It's a sure profit anyway，On the other hand, if you are the hardcore player，your bounty level is too high，you better behave yourself，Otherwise, the blame for the defeat falls on you, and there's no need to say more.。
+满级悬赏的老玩家太过强大，我打不过他怎么办啊，没事啊，我们鸡爪流的战绩一般都是零杠几的，他杀了我顶多得几十块钱。
 
-Many people have some misunderstanding about this bounty level，think that as long as you die，the bounty is reset，Dead wrong，Each death only reduces the bounty level。
+我杀了他，我们直接加1000块钱啊，怎么算都是赚的好吧，反之如果你是老玩家，你的悬赏等级太高。
 
-unless the bounty level is very low，In other words, even if a max-bounty 'prisoner player' dies，he is still very valuable，Next time this high-bounty player dies, they'll still spill gold coins，My chicken claw strategy only feeds the enemy team a few dozen gold per death.。
+你就要老实一点，不然输了就怪你败战之罪在你休要多言，很多人对这个悬赏等级有一定的误解，认为只要死了，悬赏就清零了。
 
-A caged player's death gives the opposing team one to two thousand gold.，Who exactly is the noob among us，Who is the one actually making the opponents stronger，And who is the one feeding the enemy team，Also, although the full bounty will drop 550 gold。
+大错特错，每次死亡只会降级，除非悬赏等级非常低，也就是说满层悬赏的老玩家死了，他还是很值钱。
 
-but if the disadvantaged side kills the advantaged side，will trigger the economic catch-up mechanism，it will drop even more gold，What's this poor Yuan Ge chasing me for?，Just cash him out already。
+下次这个老玩家再死还是要爆金币，我鸡爪流死一次给对面送几十块，老玩家死一次给对面送一脸钱，我们到底谁是坑，到底是谁让对面变得更强大的。
 
-Only 200 bucks，As for consecutive deaths，When consecutive deaths reach 8 or more，that is, when reaching 0-8 or above，will only be worth 20 gold。
+又是谁把对面送起来的，还有就是虽然说满级悬赏会爆550块，但如果是劣势方，击杀优势方则会触发经济追赶机制，爆的金币会更多元。
 
-basically means you can die freely，not even worth as much as a minion，So always prioritize high-value targets when attacking，let's earn money together，for example, this Annie just now，he had the maximum bounty
+歌这个穷鬼一直追着我干什么，直接把他提现了算了，才200块钱哎，至于连续死亡，当连续死亡大于等于八。
+
+也就是零杠八以上时，就会只值20块钱，属于是随便死了，还没小兵值钱呢，所以说打人一定要挑贵的打，一起加钱，就比如说刚刚的这个安琪拉，他就是满级悬赏了
 
 ---
 
@@ -55,6 +57,6 @@ basically means you can die freely，not even worth as much as a minion，So alw
 
 时长：04:00
 
-创建时间：2025-06-04 16:59:15
+创建时间：2025-06-05 00:59:15
 
-发布时间：2025-06-05 02:00:00
+发布时间：2025-06-05 10:00:00

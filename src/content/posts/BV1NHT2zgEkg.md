@@ -1,45 +1,47 @@
 ---
 title: 一己之力逆风翻盘，直接受到4个队友致敬
-published: 2025-06-08 00:00:00
+published: 2025-06-08 08:00:00
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
 ---
 
 
-> 作者：[磊哥游戏](https://space.bilibili.com/268941858?spm_id_from=333.788.upinfo.head.click)
+> 作者：[磊哥游戏](https://space.bilibili.com/268941858)
 
 视频字幕：
 
-I noticed everyone is curious about my win rate，Actually, the win rate isn't that high either，now there's only this little left，Meng Tian has the lowest win rate，Why is that。
+我看大家好奇我的胜率呃，其实胜率也不高，现在只剩下这么点了，蒙恬的胜率是最低的诶，这是为什么呢。
 
-Because during the period when I played Montian，I am the beacon of the team，damn Team's Beacon of Hope，It caused my Meng Tian to have only such a low win rate left，The current overall win rate is close to 80%。
+因为我玩蒙恬的那段时间，我是团队之光，可恶的团队之光，害得我的蒙恬只剩这么点胜率了，哎目前总胜率接近80。
 
-The win rate in the Offlane is slightly higher.，the overall win rate is lower，That's because I had to play as the jungler.，There's really no way around it.，After I reached the King rank。
+对抗路的胜率稍微高一点点，总胜率低了，那是因为玩打野玩的，这个是真没办法呀，我上了王者之后。
 
-He insists on making me choose two lanes，Although most matches are in the off-lane，but there's still a tiny chance I'll be assigned as a jungler，Can I even play as a jungler?，The auto-fill just gives me monkeys, Liu Bei and Meng Qi.。
+他非要让我选两条分路，虽然大部分对局都是对抗路，但还是有极小的概率会是打野，这我能玩打野吗，这补位补出来的都是猴刘备梦琪。
 
-I don't have the right runes, it takes me 1 minute and 50 seconds just to clear this jungle camp and leave the jungle area，except for jungling，The other four modes are locked for me，My comprehensive score with Li Xin is 49，Meng Tian is 35。
+这我没铭文打这个野怪，1分50秒我才能出野区，除了打野，另外四种模式我没解锁，我玩李信的综合评分49。
 
-Lancelot，can't see so I was randomly assigned to jungle，I really had no choice, let me show you the most speechless match I've ever encountered，They said I don't know how to play，They even asked me why I didn't take Teleport。
+蒙恬是35，兰陵王哎我根本没买，兰陵王看不了，所以给我随机到打野，我是真没办法再给大家看看。
 
-And then these were their stats，At this point, except for that one defensive tower in the bottom lane，All the other turrets were taken down by me alone.，Is this even human behavior，Of course, I'm used to seeing such teammates and I'm not surprised.。
+我遇到最无语的一局，他们说我不会玩，还问我为什么不带传送，然后他们的战绩是这样的，此时场上除了下路的那一个防御塔。
 
-In the end, I single-handedly took down 8 of the opponent's defense towers.，In the end, I destroyed the enemy's crystal as well. In total, there are 9 towers plus the crystal in one game.，a total of nine towers plus the crystal，I single-handedly destroyed 8 towers plus the crystal, accounting for 90% of the total.，After the game, I saw all four teammates saluting me。
+其他所有的防御塔全是我拆的，这能是人，当然这种队友见多了，我也不见怪，最终我凭借一己之力拆掉了对面八座防御塔。
 
-You four，I returned good for evil，You actually repay kindness with enmity，It's a pity that only one player can be honored per game.，You four better hope I don't run into you again。
+最后水晶也是我拆的一局游戏，一共九个塔加水晶，我一个人拆了八座塔加水晶，占比90%出来一看四个人给我致敬啊，哦哦哦你们四个。
 
-otherwise I'll definitely pay you back，The next match was indeed a disaster，The jungler picks Hou Yi, and doesn't even bring Smite.，Honor of Kings' reporting system actually couldn't even detect this，The designer of the reporting system should go work in an electronics factory screwing bolts.。
+我以德报怨，你们竟然恩将仇报，可惜了，一局游戏只能致敬一个人，你们四个最好别让我再遇到了。
 
-What can I do，I had no choice but to switch to playing Meng Tian as the jungler.，This Han Xin actually dares to come steal Me jungle camps，How could this puny Han Xin be a match for my Meng Tian?，To be honest, this thing clears the jungle pretty fast.。
+否则一定回敬你们下把，果然出事了，打野选后羿还不带惩戒，这个王者荣耀的举报机制竟然也检测不出来啊，做举报机制的那个策划可以去电子厂打螺丝了。
 
-We've already pushed to their high ground in just 6 minutes.，Our team's Hou Yi is about to be beaten back to the high ground.，Han Xin still wants to fight me，As soon as I raise my shield, he'll run away.，Dare to come back。
+那能怎么办，只能我蒙恬过来打野了，这韩信竟然还想过来反我的野怪啊，韩信小儿怎会是我蒙恬的对手，你还真别说这玩意打野速度还挺快的。
 
-Since you've come, you might as well be buried here.，Now with attack speed items，Let's go kill the dragon，This jungle Montian actually seems playable，The speed is really good.。
+这才6分钟就打到了对面的高地了，唉我们家的后羿也快被锤到高地了，韩信还想跟我打，这我一举盾，他就要跑了。
 
-This is really a last resort for me to resort to playing Jungle Montien.，If you copy this and something goes wrong，Don't say I taught you，After the equipment is fully developed，even without Interference。
+还敢回来啊，既然来了就安葬在这里吧，现在有攻速装了，过来打条龙，这打野蒙恬好像还真能玩。
 
-I can directly take down the high ground，only 6.2 points，No problem，balance
+速度还真不错啊，这是我实在没办法才过来玩打野蒙恬的，你要是偷学出了事，不要说是我教你的，收到装备成型之后。
+
+即使没有干扰，我也可以直接拆掉高地眼睛，才06:02分啊，问题不大，制衡
 
 ---
 
@@ -47,6 +49,6 @@ I can directly take down the high ground，only 6.2 points，No problem，balanc
 
 时长：03:16
 
-创建时间：2025-06-07 15:30:52
+创建时间：2025-06-07 23:30:52
 
-发布时间：2025-06-08 00:00:00
+发布时间：2025-06-08 08:00:00

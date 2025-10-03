@@ -1,65 +1,65 @@
 ---
 title: 对面意识终于变高了，我打他，他竟然知道跑
-published: 2025-06-13 02:00:00
+published: 2025-06-13 10:00:00
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
 ---
 
 
-> 作者：[磊哥游戏](https://space.bilibili.com/268941858?spm_id_from=333.788.upinfo.head.click)
+> 作者：[磊哥游戏](https://space.bilibili.com/268941858)
 
 视频字幕：
 
-Previously, the ban rate for Meng Tian was observed to be 0%，This match actually saw a banned Montian, which is quite uncommon.，Even more outrageous is，It's already King tier，There's actually a basic skin Sprint Yi showing up。
+之前看蒙恬的ban率是0%，这把竟然出现了ban蒙恬的这ban蒙恬可不常见啊，更逆天的是，都王者了，竟然还能看到原皮疾跑后羿。
 
-It seems this Hou Yi is also a master of chicken feet.，So this is a naturally gifted player，The players matched with this account are all top-tier experts.，Yesterday I encountered an Annihilate Annie，The comprehensive score is surprisingly over 80。
+看来这后羿也是一位鸡爪高手啊，原来是天赋型选手，这个号匹配到的人全都是高手中的高手啊，昨天遇到一个斩杀，安琪拉。
 
-Someone is invading our red buff, let's go check it out，Go straight in and wait for teammates to come，Just let him take the kill，Block Sun Ce's boat，Okay, our jungler is here.。
+综合评分竟然高达80多，有人反我们的红Buff过去看一看，直接打，等下队友过来把人头让给他就可以了，挡一下孙策的船好。
 
-Pay attention now，Try to avoid basic attacks，so the kill won't be mine，Well, didn't get the kill，Double kill。
+我们打野来了，哎这个时候注意了，尽量不要平A，免得人头就是我的了，好一个人头没拿到啊。
 
-Now I've gotten two assists in a row，and took down a tower，Continuous tower pushes, assists, kills, and dragon takedowns will increase your bounty level.，It's necessary to die at this moment，Otherwise, once the bounty level reaches tier one, I'll become a gold mine for the enemy.。
+Double kill，现在我连着拿了两个助攻，还推掉了一个塔，当连续推塔助攻击杀和打龙就会加悬赏等级，这个时候有必要去试一下啊。
 
-Now that I have the Swift Boots, I'll play around with them a bit.，The enemy mid laner still wants to come and gank me，Hey，I'll loop back around，distracted three opponents。
+不然进入了一级悬赏就要爆金币了，现在我有疾跑鞋陪他们玩一玩啊，对面的中路还想过来抓我，诶，我再绕回来。
 
-This move was totally worth it，Want some healing?，Circle back around，Honor of Kings is so much fun，I tried my best to bait out a flash。
+牵制了三个人，这波血赚啊，请你吃血吗，哎再绕回来，王者荣耀真是太好玩了啊。
 
-no loss，The score has unexpectedly reached 2:7，It seems our original skin Luban is even more of a disaster，But there's good news，This Sun Ce is particularly fond of helping others。
+尽力了，骗了个闪现，不亏啊，此时比分竟然来到了二比七，看来我们这边的原皮鲁班更加不是人。
 
-As soon as his ultimate is ready, he will use it to rush over and support his teammates.，He went to support his teammates，I can steal his tower，Now he's out of his ultimate，I stole his tower。
+不过有个好消息，这把的孙策特别喜欢乐于助人，大招一好就会开大招过去支援队友，他去支援队友，我就能偷他的塔。
 
-He can't even catch up to me，Actually, even if he caught up, he couldn't beat me，Ah，But I showed mercy，spare his life。
+完了他没有大招，我偷他的塔，他还追不上我，即使他追上了，也打不过我啊。
 
-This Sun Ce finally gave up on chasing me，Now the enemy Zhou Yu has a level 3 bounty on him，and is still in my offlane，I can't beat him，and Li Xin can't fight either。
+但是我慈悲为怀，放他一条生路啊，唉这孙策终于放弃抓我了，现在对面的周瑜已经三级悬赏了，而且还在我对抗路。
 
-The enemy jungler and Sun Ce came to attack me again，Taking them for a morning run，Work out with me，I've done my best，Zhou Yu didn't attack me。
+我打不过他，而且李信也不能打人，对面的打野跟孙策又过来打我了，拉着他们去晨跑，跟我一起锻炼身体。
 
-Then they won't be able to catch up with me，Just tear down his tower again，a piece of cake，Dark Canyon Rule，You don't pay tribute to your teammates。
+尽力了，这周瑜没打我诶，那他们就别想追上我了啊，直接把他的塔再拆了啊，顺手的事。
 
-your teammates will salute you，Recently I've been frequently stealing the Crystal，Every time I successfully steal the enemy's crystal and win，My teammates would come to pay tribute to me，Damn it, I had already exited the results screen.。
+黑暗峡谷法则啊，你不致敬队友，你的队友就要致敬你了，最近我经常去偷水晶，每次我偷到了对面的水晶。
 
-can't return the salute，So now, after every match, I always wait a few seconds on the results screen.，I want to see who is paying tribute to me，Sun Ce used his ultimate to go support.，came straight over and knocked down the high ground。
+赢了队友都会过来给我致敬啊，完了我早就退出这个结算界面，不能给他回敬了，所以现在的我每次打完都要在结算界面等个几秒钟，我倒要看看是谁给我的致敬啊。
 
-It's great to play with a Sun Ce who knows how to provide backup.，Hou Yi is coming over，Daring to come over with so little health, I'll spare him this time，I've done my best，The enemy's high ground is gone。
+孙策开大去支援了啊，直接过来把高地给拆了，跟这种会支援的孙策打就是好啊，哎后羿过来了，这么点血也敢过来啊。
 
-Everyone rushed to the bottom lane to defend，It seems we can't sneak attack the bottom lane turret anymore.，Have to go and take down the other two lanes instead，Go straight for the demolition，Why is this support following me?。
+放他一马尽力了，哎对面的高地没了，全都跑到下路来守，这下路的塔看来是偷不了了，只能过去拆其他两条路的了。
 
-It's fine，It's not bad to help divert Hou Yi's firepower for me，Counting on teammates is impossible，Looks like I'll have to sneak over here.，The enemy only has two high grounds left, it's hard to sneak attack so I went to kill the Lord instead.。
+直接过来拆啊，这辅助跟着我干什么啊，没事啊，帮我吸引一下后羿的火力也是不错的，指望队友那是不可能了。
 
-Sigh，With the Lord buff, we can directly force a push, let's go，Has destroyed the turret，It looks like my teammates are about to engage in a team fight.，but it's fine。
+看来只能过来偷了，对面只剩两个高地不好偷，所以我过去打了一条主宰，哎，有了主宰就可以直接去强拆来直接走。
 
-I'll soon steal the last high ground turret from the enemy.，Now all three lanes' minion waves are cleared.，Just let the teammates die if they must.，It's fine if they die，No kissing。
+Has destroyed the turret，这队友看样子是要团灭了，不过没事啊，我很快就能偷掉对面最后一座高地了，现在三路兵线都断了。
 
-I went to take down another Lord again，Now the enemy is firmly defending near their crystal.，There's no way I can force a push right now，in case they get killed，the rating could easily increase。
+队友死就死吧，死了也没事啊，不准亲，我又过去打了一条暴君，现在对面死守在他们水晶旁边。
 
-I can only come back to kill the Lord again，After sneaking for two minutes，only managed to steal half of the enemy's crystal，Now the enemy's crystal health is almost fully restored，As the rank increases。
+这我也没办法强拆，万一把他们杀了，评分又容易变高，只能再过来打条主宰了，偷了2分钟。
 
-The enemy's awareness has improved just a tiny bit.，This is a good thing，For example, the Sun Ce and Xiahou Dun in this match，He knew he couldn't defeat my Li Xin，Ah。
+只偷了对面半个水晶，现在对面水晶血量也快回上来了，随着段位变高，对面的意识稍微上涨了那么一点点，这是一件好事啊。
 
-He runs away after I hit him a few times，Ah，The ones I encountered before, they wouldn't run when I hit them and just fought me to the death，Ah，I was forced to let him go, and it felt terrible。
+就比如说这把的孙策跟夏侯惇，他知道打不过我，李信啊，我打他几下，他就知道跑啊。
 
-Ah，Achieved a 13-game winning streak，Someone actually paid tribute to me in this match，but I returned the favor
+之前遇到的那些我打他，他不跑，就跟我死磕啊，我被迫放他一马，就很难受啊，拿下13连胜，这局还真有人致敬我，不过我还回去了
 
 ---
 
@@ -67,6 +67,6 @@ Ah，Achieved a 13-game winning streak，Someone actually paid tribute to me in 
 
 时长：04:49
 
-创建时间：2025-06-12 14:58:23
+创建时间：2025-06-12 22:58:23
 
-发布时间：2025-06-13 02:00:00
+发布时间：2025-06-13 10:00:00

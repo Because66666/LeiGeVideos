@@ -1,49 +1,51 @@
 ---
 title: 对面输了之后全体连胜了，那我下局将极可能是必输局
-published: 2025-04-26 13:46:36
+published: 2025-04-26 21:46:36
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
 ---
 
 
-> 作者：[磊哥游戏](https://space.bilibili.com/268941858?spm_id_from=333.788.upinfo.head.click)
+> 作者：[磊哥游戏](https://space.bilibili.com/268941858)
 
 视频字幕：
 
-Let’s do a routine divination，the prisoner players on our side，After winning, the next match is still a win，The support as well, the next game after winning was also a victory，Me's winning chance just increased by 2 points。
+按常规占卜一下，我们这边的老玩家，赢了之后，下把还是赢了，辅助也是赢了之后。
 
-The win rate of this trapped player hasn't exceeded 50，But it should be soon，Let's check the opponents，the opponent went on a winning streak directly after losing，After finishing the game, Marco Polo quit in time to cut his losses.。
+下把也是赢了，我的胜算就加了两分，这老玩家的胜率还没超过50，不过应该也快了，过来看看对面。
 
-This Marco Polo seems to be a pro，actually has over 80% win rate，The overall rating is also over 80，Is this my destined loss match?，Yet the stubborn players managed to turn the tide and win。
+对面在输了之后直接连胜了，马可波罗打完之后及时止损下线了，这马可波罗看来是个高手啊，竟然有80多的胜率，综合评分也有80多啊。
 
-This 1-6 monkey also went on a winning streak after losing，The 0-6 Crazy Iron then went on a two-game winning streak，Then my chances of winning will greatly decrease，This is most likely an unwinnable game.，But I still have to check it out。
+难道这是我的必输局，结果被老玩家硬生生打赢了，这个一杠六的猴在输了之后也连胜，零杠六的狂铁，后面两局也是连胜。
 
-First, to see if Me theory is correct，Secondly, to check if there’s any unlucky soul using these betting coins.，Alright, there's absolutely no dumbass using these betting coins.，Damn, why isn't anyone using such a useful thing?，Sigh。
+那我的胜算将大大下降，这把极有可能是必输局，但我还是得去看看，第一是看看我的理论对不对，第二是看看有没有哪个大冤种用这个竞猜币啊。
 
-Didn't I turn off this goblin?，Why did it pop up again，It seems everyone knows this is a guaranteed loss.，Why can you predict your outcome just by looking at your teammates?，It's very simple。
+好吧根本就没有大冤种用这个竞猜币啊，奶奶的这么好用的东西，为什么不用哎，这哥布林我不是关了吗，怎么又弹出来了。
 
-You two played the same match，Winning or losing the same matches means being bound by the same karma.，Let me give you an example and you'll understand，Ah，Originally this was a losing game at 10:40。
+看来这把大家都知道这是必输局啊，为什么看队友就知道自己的结局呢，因为很简单，你们两个打了同样的局，赢了或输了同样的局就沾染了同样的因果。
 
-But luckily all four of your teammates are decent players，work together，encouraging each other，Ultimately, they made a comeback against the odds and won this game.，Done, you cut your losses and logged off.。
+我给你举个例子，你就明白了啊，本来这一把逆风局十比40，但是好在你的四个队友都是人，齐心协力。
 
-The next day when I logged in，Begin retreat，three of your four teammates were on a triple-combo losing streak，spit out the stars they had gained，You were the losing MVP in that match, directly resulting in a five-game losing streak。
+互相鼓励啊，最终逆风翻盘赢下了这局游戏完了，你及时止损下线了，第二天上线一看，开始撤退。
 
-and even lost two more stars，Then let me ask you，What do you think your fate will be，You still dare to fight?，This Sun Ce seems to be a pro。
+你的四个队友三个都三连败，把上的星星吐出来了，你那局败方MVP直接五连败，还多吐了两颗星星，那我问你。
 
-also knows how to freeze the lane，But now the tables have turned，Calling him to freeze my lane，Now we can trap him here and make him AFK.，He's tilted, tilted so quickly。
+你觉得你的下场是什么，你还敢打吗，这孙策看来是个高手，还会卡线啊，不过现在攻守异形了啊。
 
-Direct solo kill，Got it okay，Alright, this doomed match is indeed tough to fight.，This monkey clearly doesn't play like a human，Originally I couldn't defeat Sun Ce in a duel。
+叫他卡我线，现在卡死他啊，可以在这里挂机了，诶他急了这么快就急了啊，来直接单杀嗯。
 
-can only freeze the lane here，annoy him，This monkey actually thought I was going to give him the farm.，Forget it, it's come to this，Just play casually.。
+收到好吧，这必输局果然难打，这猴看着就不像人，本来我单挑打不过孙策，只能在这里卡线。
 
-Anyway, I never thought we could win this game.，Sun Ce is coming，I tried my best，The teammates have already fed this Lan to level 9.，Sigh。
+恶心他，这猴竟然以为我要把经济让给他啊，算了，事已至此，随便打吧。
 
-This monkey fed faster than me，Just 11 minutes into the game, this Monkey King has already fed 8 deaths，This monkey actually fed eight times，It's just pure trolling，Teammates refused to surrender and had to tough it out。
+反正也没觉得这把能赢啊，哎孙策来了，尽力了，哎队友都把这个澜喂到九级了，哎。
 
-Endured a grueling 17 minutes of torture，finally surrendered，After checking,，Only the performance of the player using Yao was decent among these nine people.，This Yao also has a 50% win rate with one win and one loss.。
+这猴送的比我还快啊，开局11分钟，这猴竟然送了八个，真的就是纯搞了啊，队友不投降还得硬着头皮打。
 
-player，Because Doria lost the last game，so this round was a win，This game is so disgusting，My two alternate accounts finally managed to get a tier-3 skin gift box，The result was getting a Brave-tier skin from it
+硬是被折磨了17分钟，最后才投降啊，之后看了一下，这九个人里只有瑶的战绩，能看这个瑶也是一胜一负。
+
+包50胜率的人，因为上一局多利亚输了，所以这一把赢了，这游戏真他妈恶心，我两个小号好不容易整出一个三级皮肤礼盒，结果都开出来一个勇者皮
 
 ---
 
@@ -51,6 +53,6 @@ player，Because Doria lost the last game，so this round was a win，This game 
 
 时长：03:11
 
-创建时间：2025-04-26 13:46:36
+创建时间：2025-04-26 21:46:36
 
-发布时间：2025-04-26 13:46:36
+发布时间：2025-04-26 21:46:36

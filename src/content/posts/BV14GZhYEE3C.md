@@ -1,33 +1,33 @@
 ---
 title: 比诸葛亮北伐还难，谁认真打下把就完了
-published: 2025-04-01 12:44:38
+published: 2025-04-01 20:44:38
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
 ---
 
 
-> 作者：[磊哥游戏](https://space.bilibili.com/268941858?spm_id_from=333.788.upinfo.head.click)
+> 作者：[磊哥游戏](https://space.bilibili.com/268941858)
 
 视频字幕：
 
-A support actually claimed he could carry the game，There's no way to trust him，Upon entering the game，This match is simply unwinnable，Whoever takes it seriously will lose the next game。
+哎一个辅助竟然说他带飞，这肯定不能信他啊，进去一看，这把根本就打不了，谁认真打谁。
 
-Ah，One game of effort leads to ten games of suffering.，This match is clearly meant to end my winning streak.，The ADC fed even faster than I did.，This Mi Laydi even recognizes me。
+下一局就完了啊，一局发力换来十局的劳啊，这把明显就是来断我连胜的射手，送的比我还快啊，这米莱狄还认识我。
 
-Almost let him steal the crystal.，This match is as difficult as Zhuge Liang's Northern Expeditions.，I'm going to clear the mid lane，Hey，no one takes care of the off-lane。
+差点还真让他偷到水晶了，这把的难度属于是比诸葛亮北伐还要困难了啊，我去中路清线，哎，对抗路就没人管。
 
-Look at the minions in the Off-lane，Then I went to the offlane to push the lane，The mid lane is left unattended，went back to defend the base，Zhuge Liang's Northern Expedition, with Liu Shan defending the base at home。
+你看对抗路的兵线，然后我去对抗路带线啊，中路就没人管哎，回家守家了，诸葛亮北伐家里还有个刘禅守家哎。
 
-However, I still managed to keep my score between 7-8.，I did my best，Moving on to the next game，Fortunately, I was already dead this time，otherwise, I would have been ganked by the enemy jungler。
+不过我还是把评分压到了7~8分，尽力了，来到下一局，还好这波我早就死了，否则就被对面打野抓了。
 
-After the winning streak was broken, it became much easier to play.，We reached the enemy's high ground in just 10 minutes.，I often see people in the comments section telling me，What's the point of you playing like this，grinding ranks for the sake of ranking up。
+连胜断了之后也是好，打多了，才10分钟就打到了对面的高地，哎我看评论区老有人跟我说，你这么玩的意义在哪里。
 
-with all due respect，You're already playing the game，what's the damn point，Let me put it more bluntly，You're already playing Honor of Kings。
+为了上分而上分啊，恕我直言，你都打游戏了，还有个毛的意义，我不妨把话再说。
 
-what's the point，You don't actually think playing Honor of Kings is something glorious，a very meaningful thing, right，Since it's so meaningful，Why not print two photos and hang them around your neck。
+直接一点，你都打王者荣耀了，还有啥意义啊，你不会认为打王者荣耀是一件很光荣，很有意义的事情吧。
 
-right，Although I started the game with a 0-2 deficit，But things got better later，The score was evenly matched.，Damon even came over to give us a kill, and we wiped them out in one go.，I just love playing with these hardcore players.
+既然这么有意义，怎么不打印两张照片，挂脖子上上吧，虽然我开局被打成零杠二，但是后面也是好起来了，比分也是势均力敌了，达摩还主动过来送一波了，就喜欢跟这些老玩家玩
 
 ---
 
@@ -35,6 +35,6 @@ right，Although I started the game with a 0-2 deficit，But things got better l
 
 时长：01:51
 
-创建时间：2025-04-01 12:44:39
+创建时间：2025-04-01 20:44:39
 
-发布时间：2025-04-01 12:44:38
+发布时间：2025-04-01 20:44:38

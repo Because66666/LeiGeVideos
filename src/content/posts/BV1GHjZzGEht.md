@@ -1,55 +1,55 @@
 ---
 title: 匹配机制最公平的一集，双方打野都先出鞋
-published: 2025-05-30 02:00:00
+published: 2025-05-30 10:00:00
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
 ---
 
 
-> 作者：[磊哥游戏](https://space.bilibili.com/268941858?spm_id_from=333.788.upinfo.head.click)
+> 作者：[磊哥游戏](https://space.bilibili.com/268941858)
 
 视频字幕：
 
-Logged in today to check the mailbox and claim rewards，found an extra email，Turns out I was deducted some points without knowing when，and now it's been returned to me，Because it was too long ago。
+今天上线打开邮箱领奖励，发现多了一封邮件，原来不知道什么时候扣了我一点分，然后现在又给我还回来了啊，由于时间太久远。
 
-I can't even remember which match it was，Anyway, the just judge will definitely clear my name.，report me，Hmph，want to see Judge Dee。
+我都忘了哪一局了，反正青天大老爷绝对会还我一个清白的人，举报我，哼，想见狄仁杰。
 
-You probably don't have that fortune，You can only meet Li Yuanfang，It simply couldn't detect my violations，The system even praised me for my good recent gaming behavior.，That must be excellent。
+你怕是没这个福分了，你只能见到李元芳，根本识别不出来我的违规行为，系统还夸我近期游戏行为良好呢，那必然是良好啊。
 
-I not only play well in every match，and also help the system catch rule-breaking players，Here someone might say，this report makes offending players lose points，deduct points from veteran players。
+我不仅每局都好好打，还帮系统抓违规的老玩家，这里有人就想说了，这举报老玩家，让老玩家扣分。
 
-Is this behavior really appropriate?，Then let me ask you，Am I the law enforcer?，Is it up to me whether the banned player gets penalized or not?，I randomly pointed at someone on the street。
+这种行为真的好吗，那我问你，我是执法者吗，老玩家扣不扣分是我说的算吗，我在大街上随便指了个人。
 
-say this person violated the law，Then he was dragged over and subjected to a round of major memory restoration techniques，admitted that typhoons, earthquakes, and volcanic eruptions were all his doing，Ah，sentenced him to over 3,000 years in prison。
+说这个人违法了，完了他被拉过去一通大记忆恢复术啊，承认台风地震，火山爆发都是他干的啊，判他关了3000多年。
 
-Do you think this problem lies with me?，This Luban seems to be a pro，He secured 5 kills within the first 3 minutes of the game.，I'm freezing the lane here, and the most annoying thing is when teammates come to 'help' me.，He didn't help at all。
+你觉得这个问题在我吗，这鲁班看来是个高手，开局3分钟就拿下了五个人头，我在这卡线遇到最烦的就是有队友过来帮我，他忙没有帮到。
 
-and even cleared all the minion waves I had so painstakingly frozen.，This Luban has already taken down 6 kills，Let me check how this Luban is playing later，Damn, this Luban doesn't seem quite human either，Ah。
+还把我好不容易卡的兵线全都给清掉了啊，这鲁班已经拿下了六个人头，等会去看看这鲁班是怎么打的，好家伙，这鲁班我看着也不太像人啊。
 
-That can only mean one thing，The enemy Hou Yi is even more inhuman，Let's see what's going on，I tried my best against three of them.，Brave but powerless。
+那只能说明一件事，对面的后羿那更不是人了，看看怎么个事啊，尽力了呃，三个人打我一个勇敢何能。
 
-Just checked the Houyi，So he's a disciple of the Blood Demon Sect，That explains it，And this is indeed a well-matched battle，Both junglers didn't buy jungle items first, just went straight for boots。
+刚刚看了一下后羿啊，原来是血魔宗弟子，这就不奇怪了啊，而且这还真是势均力敌，双方打野第一件都不出打野刀搁那里出席。
 
-It's just that our monkey is even more of a disgrace.，playing a simple hero like Monkey King，can even go 0-3，feeding faster than me，The enemy team can't handle Luban。
+只不过我们这边的猴更不是人罢了，玩个猴子这么简单的英雄，还能玩成零杠三啊，送的比我还快啊，对面打不过鲁班。
 
-The whole team rushed to my bottom lane，pushed my bottom lane all the way to the high ground，Fortunately, Xiahou Dun just died in the team fight.，Now I've pushed him back to the high ground，Just finish off the low-health Xiahou Dun and it's over.。
+全队往我下路跑了，直接把我下路打到高地了，好在刚刚团战夏侯惇去世了，现在我也把他拆到高地了，残血夏侯惇直接杀了就完事了。
 
-Meng Tian checks the damage score，He's just that low on health，Killing him wouldn't give much contribution score，Our team's Monkey King is absolutely inhuman，0-6。
+蒙恬看输出分，他就这么点血，打死也没多少输出分，我们这边的猴子简直不是人啊，零杠六。
 
-He'd better pray his overall rating is below 70，otherwise my report will definitely succeed，It's not easy to sneak attack the bottom lane's crystal.，The enemy Liu Bang has been split pushing in the bottom lane the whole time，Can't push bot lane, switch to top instead。
+他最好祈祷自己的综合评分低于70，否则我举报他必定成功，这下路的水晶不好偷啊，对面的刘邦一直在下路带线啊，下路偷不了。
 
-Damn Han Dynasty emperor, almost ruined my grand plan.，The enemy probably won't be back for a while，You can come and take down this high ground.，Ignore the Houyi，just tear this down。
+直接换上路了，可恶的汉朝皇帝差点坏了本将的大事，哎对面应该是一时半会回不来了，可以过来把这个高地给拆了，科一不用管他。
 
-Hou Yi bought a bunch of lifesteal items，deals little damage，and the Lightning Saber，Although the opponents are completely inhuman，but our team seems to be just as inhuman。
+直接拆啊，这个后羿买了一堆吸血装备，没啥伤害啊，还有电刀啊，未能虽然对面完全不是人。
 
-have to come defend the base，Fall back，Luckily this Houyi doesn't deal much damage，Otherwise I'd be done for，Come and take the dragon。
+但我们这好像也完全不是人啊，别过来守家了，开始撤退，还好这后羿伤害不高，否则我就完蛋了啊。
 
-Now all three mid-lane turrets are still standing，Then there's no need to go mid，Send a signal to my teammates，This Liu Bang still wants to backdoor，It's more efficient to just go steal from the other two lanes。
+过来打条龙，现在中路的防御塔三个都在啊，那中路就不用去了，给队友发个信号，这刘邦还想偷塔。
 
-This Monkey King is completely inhuman，He can't even understand the signals I sent，Killing，Three enemies are dead，The remaining two are still in the middle lane。
+直接去另外两条路偷更省事啊，这猴子就完全不是人啊，发了信号他也看不懂啊，Killing，对面死了三个。
 
-The moment has come，This Xiahou Dun spotted me，still trying to come back，All troops, fall in! Too late.，Break!
+剩余两个还在中路，时机已到这，夏侯惇发现了，我还想回来，全军列阵太晚了，破
 
 ---
 
@@ -57,6 +57,6 @@ The moment has come，This Xiahou Dun spotted me，still trying to come back，A
 
 时长：03:42
 
-创建时间：2025-05-27 15:12:10
+创建时间：2025-05-27 23:12:10
 
-发布时间：2025-05-30 02:00:00
+发布时间：2025-05-30 10:00:00

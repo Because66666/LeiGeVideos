@@ -1,37 +1,37 @@
 ---
 title: 和打野一起送人头被牢玩家点名了，难受
-published: 2025-04-19 15:11:56
+published: 2025-04-19 23:11:56
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
 ---
 
 
-> 作者：[磊哥游戏](https://space.bilibili.com/268941858?spm_id_from=333.788.upinfo.head.click)
+> 作者：[磊哥游戏](https://space.bilibili.com/268941858)
 
 视频字幕：
 
-This account alternates between one match of casual and one match of ranked，I don't know what's going on，intentionally feeding over a dozen times in casual matches，The next ranked match actually became a bit easier.，Not sure if it's an illusion。
+这个号是一把匹配，一把排位，不知道怎么回事啊，跑匹配里送十几个人头，下一把排位竟然会变得简单一点。
 
-It's also unclear whether the stars gained will be taken back.，Anyway, I've now achieved an 8-win streak.，This is my 7th consecutive win in a match，This match was also won.，Anyway it's just really strange。
+不清楚是不是错觉，也不清楚上的心会不会吐出来，反正现在已经八连胜了啊，这是我七连胜的对局，这局也是赢了的。
 
-Now I can encounter not only in matches but also particularly bizarre ones，I can encounter them in ranked matches as well，Moreover, there's no need to worry about being reported in match mode at all.，At first I was worried about losing stamina points，were all fed at a ratio of 1:6。
+反正就非常奇怪，我现在不仅能在匹配里遇到特别抽象的哎，排位里也能遇到了，而且打匹配完全不用担心被举报啊，一开始我担心体力值不薄。
 
-until I played the primitive Bai Qi，2-16 is fine，And Bai Qi's score is exceptionally low.，Other characters require exhausting efforts just to intentionally feed，The score could actually reach four or five points。
+都是按一比率来送的，直到我玩了原始人白起，二杠16也没事，而且白起这玩意评分特别低，玩别的角色累死累活的去送评分。
 
-Bai Qi only needs to make a slight move to get a 3.9.，Just use the ultimate skill and rush to push the tower，Why does this Qin Shi Huang deal so much damage?，I did my best，Then play a ranked match。
+竟然还能有四五分，白起只要略微出手就有3.9，直接开大招跑去推塔，这秦始皇伤害怎么这么高啊，尽力了。
 
-I originally thought I was laning against Pangu in this match，But it turned out to be a Flash Monkey，This is a strategy from 30 seasons ago.，Isn't the Monkey King character just someone who couldn't survive in the off-lane?，then switched to jungle?。
+然后来一把排位赛，这把我原本以为我对线的是盘古啊，没想到是闪现猴啊，这都30个赛季前的打法了，猴子这角色不就是对抗路混不下去。
 
-It seems he can't even defeat my Li Xin，spare this Li Xin，We are all guardians of the Great Wall，Someone asked if anyone would scold you for playing like this，Of course not。
+才跑去打野的吗，诶他好像连我人性都打不过啊，放这个李信一马，大家都是长城守卫军，有人问这么玩有没有人骂你。
 
-First, it's because we Honor of Kings players have high moral standards，Second, all the seasoned players have pretty good conduct.，have a great mentality as well，Here someone might ask，Why do all the veteran players have such good manners and mentality?。
+那自然是没有，第一是我们王者荣耀玩家素质高，第二是所有老玩家素质都挺好的，心态也很好，这里有人就问了。
 
-Because players with poor mental states have already quit the game.，All toxic veteran players have been muted，Those who can still speak must be well-behaved.，Although our Honor of Kings reporting mechanism，Nothing can be reported successfully。
+为什么老玩家的素质和心态都这么好呢，因为心态不好的老玩家都退游了，素质不好的老玩家全都被禁言了，能讲话的一定是素质好的，虽然我们王者荣耀的举报机制。
 
-but cursing will definitely get reported successfully，not only deducts points but also imposes a mute，The whole team is feeding.，this poor player is barely holding on，In a completely one-sided match like this。
+啥玩意都举报不成功诶，但是骂人一定能举报成功啊，不仅扣分还带禁言，这把全都在送人头，就这个老玩家苦苦支撑啊。
 
-revival coins are infinitely distributed，There's no need to compete for kills at all，Li Bai's score is actually lower than mine，Now I can rest assured that I'm safe too
+像现在这种大逆风局，复活币无限发放，根本不需要去抢人头额，李白的评分竟然比我还低，嗯放心了，这下我也安全了
 
 ---
 
@@ -39,6 +39,6 @@ revival coins are infinitely distributed，There's no need to compete for kills 
 
 时长：02:24
 
-创建时间：2025-04-19 15:11:56
+创建时间：2025-04-19 23:11:56
 
-发布时间：2025-04-19 15:11:56
+发布时间：2025-04-19 23:11:56

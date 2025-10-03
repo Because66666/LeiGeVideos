@@ -1,41 +1,41 @@
 ---
 title: 测了半天兰陵王的加分点，发现他好像没有加分点
-published: 2025-06-09 02:00:00
+published: 2025-06-09 10:00:00
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
 ---
 
 
-> 作者：[磊哥游戏](https://space.bilibili.com/268941858?spm_id_from=333.788.upinfo.head.click)
+> 作者：[磊哥游戏](https://space.bilibili.com/268941858)
 
 视频字幕：
 
-Originally, I wanted to test why Lanling Wang's rating is so low.，find out where the scoring points for Lanling Wang lie，As you can see in this match, the jungler doesn't trust me，thought I was trolling, and Liu Chan went AFK in the fountain again，1 minute and 20 seconds。
+本来我想测一下兰陵王的评分为什么这么低，找一下兰陵王的加分点在哪里，哎结果你看这一局打野不相信，我觉得我是演员刘禅又在泉水挂机了，一分20多秒。
 
-didn't move a bit，I didn't even bother pretending anymore，directly played with a 1:1 score，one to one，three to three。
+动都没动过，我直接演都不演了啊，直接以一比一的战绩去打，一比一，三比三。
 
-5:5，when there's nothing to do，I even went to slay the Dragon，I originally thought my rating would be above 7，The rating was only 5.9.。
+五比五，没事干的时候，我还去打龙，本来我以为我的评分要大于七了，结果评分就5.9到了。
 
-In the second game，I see he's a jungler，plan to test the economy score，earn more gold，kill a few more dragons。
+第二把，我看他是个打野，打算测一下经济分，把经济刷高一点，再多打几条龙。
 
-See if the rating will increase，First blood，I feel like I need to slot in a few 'Plunder' runes.，Lán Líng Wáng's sustain is really poor，In the end, I had the highest economy and slayed four lords.。
+看看评分会不会涨，First blood，我感觉铭文里得塞几个夺萃了，兰陵王的续航实在太差了，最终我经济第一刷了四条龙。
 
-Rating 5.0，After testing for a long time，I didn't figure anything out，instead, it resulted in a 16-win streak，The rating system for this hero is absolutely absurd.。
+评分5.0，测了半天，我毛也没测出来，反而测出来一个16连胜，这个英雄评分抽象的很。
 
-even with a 3000 gold lead over the second-highest economy，his rating remains very low，It seems that if you want to increase this hero's score，can only get a bunch of kills，and zero deaths, stating the obvious。
+即使经济甩开经济第二三千块，他的评分还是很低啊，貌似想把这个英雄评分打高，只能杀一堆人，然后临死亡听君一席话。
 
-That's like saying something without saying anything.，Except for supports, all roles can use this method to boost their ratings.，That puts my mind at ease，That way I can confidently play with chicken feet，No need to worry about boosting the rating too high。
+如听一席话啊，除了辅助都能用这种方法把评分打高啊，如此我就放心了啊，这样我就可以放心的玩鸡爪，不用担心把分打高了。
 
-Originally wanted to find out where Lanling Wang's scoring points are，then avoid this scoring point，In the end, it turns out he simply doesn't have any scoring points.，Due to Lanling King's stealth mechanism, he provides vision for his teammates.，will inexplicably grant assists。
+本来想找找兰陵王的加分点在哪里，然后避开这个加分点，最后发现他根本就没有加分点，由于兰陵王的隐身机制会给队友提供视野，会莫名其妙的加助攻。
 
-Therefore, Lanling Wang's assist score is practically non-existent.，As for the vision score, it might be because the risk of scouting while invisible is zero，So it seems Orchid King's vision score doesn't count either.，If Lanling Wang keeps providing vision for teammates，without a single kill。
+所以兰陵王的助攻分约等于没有，至于视野分可能因为隐身探视野风险为零，所以兰陵王的视野分好像也没有，如果兰陵王一直给队友探视野，然后一个人头都没有。
 
-can easily achieve a rating of just over 2 points，Lanling Wang can easily end up with this kind of trash-tier score，It's just a pity that my 16-win streak was broken，In the 17th round, there was a fifth-pick support Lu Ban，used all sorts of underhanded tricks against his teammates。
+就可以打出二点几的评分，兰陵王也是非常容易打出来这种废铁的粉，就是可惜我的16连胜断了，第17局出现了一个五楼辅助鲁班啊，有点阴招全往队友身上使了啊。
 
-Even I wouldn't resort to such dirty tricks，Wandering around in the match，Yet the almighty Honor of Kings system still failed to detect it，not kicking him out，his rating was just 3.0。
+这么阴的招连我都不用啊，对局里面走走停停啊，结果王者荣耀青天大老爷硬是没检测出来，不把他踢出去，他的评分就3.0啊。
 
-Even lower than mine, what a pity.，The system refreshed for me that match, with two team MVPs，Two dedicated players couldn't carry him.，Well, tried my best，Got caught by Kai，An ally has been，you have been蒙恬，Why didn't you retreat?
+比我都低也是可惜了，那把系统给我刷新了两个团队之光，两个老玩家没能带动他，嗯尽力了，被凯抓了，An ally has been，you have been蒙恬，你为什么不撤退
 
 ---
 
@@ -43,6 +43,6 @@ Even lower than mine, what a pity.，The system refreshed for me that match, wit
 
 时长：02:44
 
-创建时间：2025-06-07 05:06:02
+创建时间：2025-06-07 13:06:02
 
-发布时间：2025-06-09 02:00:00
+发布时间：2025-06-09 10:00:00

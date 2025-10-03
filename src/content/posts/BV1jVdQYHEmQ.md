@@ -1,39 +1,41 @@
 ---
 title: 大家千万不要故意出肉装，故意去抗伤，打了也是白打
-published: 2025-04-11 12:28:06
+published: 2025-04-11 20:28:06
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
 ---
 
 
-> 作者：[磊哥游戏](https://space.bilibili.com/268941858?spm_id_from=333.788.upinfo.head.click)
+> 作者：[磊哥游戏](https://space.bilibili.com/268941858)
 
 视频字幕：
 
-This game's Luban is a Glory Leader，and all three teammates have maxed out proficiency，All units attack，Luban still took Sprint，The first item appears to be a Vampire Dagger。
+这把的鲁班是个荣耀领袖，而且三个队友都是满熟练度的，全军出击，鲁班带的还是疾跑啊，第一件装备看来是吸血刀啊。
 
-So hilarious，After clearing the minion wave, just return to the tower and stand there, going AFK.，I can't even be bothered to deal with the Pangolins.，You must never fight against Li Xin，because the game designers said。
+太搞了，清完线直接回塔下站着挂机，穿山甲我都懒得打了，千万不能去跟李信打，因为策划说了。
 
-This is intentionally building tank items，intentionally tanking damage，We must not intentionally take damage maliciously，After clearing the minion wave, just return to the tower and go AFK，Anyway, there's no points for fighting or not。
+这是故意出肉装，故意去扛伤，我们可不能恶意抗伤啊，清完线直接回塔下挂机，反正打不打都没分。
 
-Might as well go back to AFK，It just so happens that I'm playing on an emulator.，doesn't affect me browsing my phone，You can even use the emulator to dual-window and play a smurf account on the side，The game designer said。
+还不如回来挂机，刚好还是用模拟器玩的，不影响我刷手机啊，甚至可以模拟器双开过去玩小号啊，策划都说了。
 
-Except for team fights during the laning phase, whether you engage or not doesn't affect the score.，Then why should I fight him，So it seems it really is the Bloodsucker's Edge，Now waiting at ease for the 'prisoner'，waiting for our prison player to appear。
+除了团战这种对线期打不打都没分，那我打他干啥，这看样子还真是吸血刀啊，现在以逸待劳，等待我们这边老玩家出现。
 
-The chances of winning this round are pretty slim.，This prisoner must be Yao，If the noob player is Anila or Da Qiao，This game is still doomed.，The clock hits the 10-minute mark。
+这把想赢难度还是比较大的，这老玩家必须是要啊，老玩家如果是安琪拉或者大乔，这把还是得玩，强化时间来到10分钟。
 
-directly push down Li Xin's second tower，After clearing the minion wave, I just returned under the tower and went AFK，This made the Dark Li Xin so angry that he switched to Light Li Xin to attack me，Finally got caught and killed by my teammates.，He lost two towers immediately after dying once。
+直接推掉李信的二塔，我清完线就回塔下挂机，把这个暗信气的切成光信来打我，最后被我队友抓死了，他死一次直接掉两个塔。
 
-can't be bothered to fight him，Come check out the team fight，I can't believe it's really you，This noob player really is something, huh，This Tiger Talisman is also exerting its full power throughout。
+懒得跟他打，打团了，过来看看，没想到真的是你呀，这老玩家还真是要啊。
 
-This is also giving it all throughout，The score remained tied.，This guy Luban didn't build Vampiric Knife first，but Sever，but it's almost the same。
+这把虎符，这也是全程发力，比分一直是平等啊，鲁班这家伙第一件不是吸血刀啊，是制裁。
 
-This Li Xin still wants to push Me tower，directly sucked out the minion wave，Now he's stunned，That Li Bai on the enemy team simply doesn't dare to fight me，only dares to hide in the corner and watch。
+不过也差不多了，这李信还想推我的塔，直接把兵线吸出来，哎这下他懵了哎，对面这个李白那是根本不敢跟我打。
 
-If it weren't for the fact that the Witch's Cloak only blocks magic damage，He can't even break the shield of the Witch's Cloak.，Anyway, with high HP，Just push the tower directly and start retreating，The opponents in this match aren't that strong either。
+只敢躲在墙角看着，要不是魔女斗篷，只能挡法术伤害，他连魔女的盾都打不破啊，反正血量厚。
 
-Basically, all the skills were thrown at me，also managed to take crucial damage in team fights, and surprisingly got a bronze medal，Turns out it's because I pushed lanes and destroyed towers too much，This Li Xin only earned 6,000 gold from lane clearing.，My Lian Po has over 7,000 gold from lane clearing.，Let's see what's going on with this Luban，Indeed a disciple of the Blood Demon Sect，The first item is normally the Vampire's Fang.
+直接把塔推了，这把对面也不是很强，基本上技能全都往我身上丢，也是弄到了团战关键承伤竟然拿到了一个铜盆，原来是我带线和推塔推多了。
+
+这李信带线才6000块钱，我廉颇带线7000多，看看这鲁班什么情况啊，鲁班大果然是血魔宗弟子啊，第一件正常都是吸血刀的
 
 ---
 
@@ -41,6 +43,6 @@ Basically, all the skills were thrown at me，also managed to take crucial damag
 
 时长：02:26
 
-创建时间：2025-04-11 12:28:06
+创建时间：2025-04-11 20:28:06
 
-发布时间：2025-04-11 12:28:06
+发布时间：2025-04-11 20:28:06

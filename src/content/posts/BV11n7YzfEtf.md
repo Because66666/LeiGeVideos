@@ -1,45 +1,49 @@
 ---
 title: 鸡爪流拯救了牢玩家，却还要被牢玩家反咬一口
-published: 2025-06-04 02:00:00
+published: 2025-06-04 10:00:00
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
 ---
 
 
-> 作者：[磊哥游戏](https://space.bilibili.com/268941858?spm_id_from=333.788.upinfo.head.click)
+> 作者：[磊哥游戏](https://space.bilibili.com/268941858)
 
 视频字幕：
 
-Chicken Claw and Prison，Originally, according to the matchmaking mechanism of Honor of Kings，the trapped player will be matched with four teammates who are all terrible，But this poor player was incredibly lucky，matched with a 'chicken claw' style player。
+鸡爪与劳，本来根据王者荣耀的匹配机制，老玩家将会匹配到四个队友都不是人，但是这个老玩家运气非常的好，匹配到了一个鸡爪流。
 
-He took the spot of a lousy player，and did everything from split pushing, backdooring towers, to controlling dragons，In the end, they even got bitten back by the furious and embarrassed player.，All the credit goes to the toxic player.，The 'chicken claw' playstyle became a freeloading dog.。
+他挤掉了一个坑的位置，并且带线偷塔控龙事情都干了，到最后还要被恼羞成怒的老玩家反咬一口，功劳全是老玩家的啊，鸡爪流成了躺赢狗啊。
 
-encountering such angry and resentful toxic players，he should be brought before the impartial judge，I just love laning against Sun Ce，Because when Sun Ce reaches level 4, he will definitely use his ultimate to support his teammates.，He went to support his teammates。
+遇到这种恼羞成怒的老玩家，就应该让他去面见青天，大老爷，就喜欢跟孙策对线，因为孙策到了四级肯定会开大招去支援队友。
 
-I can just demolish his turret.，What if this Sun Ce reaches level 4 but doesn't go to support his teammates?，What should I do?，It's fine if he plays Sun Ce and doesn't support his teammates.，His teammates are even more anxious than I am。
+他过去支援队友，我就可以拆掉他的防御塔了，那万一这个孙策到了四级不去支援队友，我该怎么办呢，没事啊。
 
-I've done my best. Li Yuanfang's passive is way too overpowered.，How does this Sun Ce still have his ultimate after supporting his teammates?，I really don't want to fight him，Just use the ultimate and run away，Our jungler is here。
+他玩个孙策不去支援队友，他的队友比我还急啊，尽力了，李元芳的被动太超标了，这孙策支援完队友怎么还有大招啊。
 
-Just help our jungler with some crowd control, let him take the kill，it's not a big deal to get it，At most, it's only 4 points anyway.，At first I thought this hero Lanling Wang could die five or six times，the score remains stable at around 5 or 6 and can't go any higher。
+我真不想跟他打呀，直接放大招跑啊，来我们打野来了，帮我们打野打个控制得了人头让给他，拿到了。
 
-Later I realized I was overthinking it，Actually, dying two or three times already makes it very hard to raise your score.，Moreover, intentionally feeding with this hero，not to mention Judge Skyprison，even if there were 10 Eagle Eye Guards。
+问题也不大，反正顶天了也就四分，一开始我以为兰陵王这英雄死个五六次，评分就稳定在五六分，打不上去了。
 
-He couldn't even tell I was violating the rules，I'm going to feed the enemy，I specifically target the enemy's high-armor warriors. It's perfectly reasonable that my Lan Ling Wang can't defeat them.，Can you deduct my points?，I pressed all the buttons I could before dying。
+后面我发现是我想多了啊，其实死个两三次评分就已经很难打上去了啊，而且玩这个英雄跑去故意送人头，别说青天大老爷了，就算是十个鹰眼护卫队。
 
-I did my best，For example, when I go to assassinate the squishy targets，I initiated with my ultimate，Can you say I'm intentionally feeding and deduct my points for this?，You can only say I'm bad, right?。
+他都看不出来，我违规，我去送人头，就专挑对面护甲高的战士打我兰陵王打不过他，合情合理。
 
-Naturally, being bad doesn't warrant a penalty.，Plus my overall rating is just four or fifty，Then with my 40-50 overall rating, any insane plays I make，The system would find it completely reasonable.，Not to mention I start with my ultimate。
+你能扣我分吗，我死之前能按的技能都按了，尽力了呀，再比如说我去切脆皮，我大招起手。
 
-Even if my Lancelot builds Sunfire Cape，automatically breaking stealth when approaching an enemy, the system thinks it's completely reasonable，Playing Lancelot is just too good，Not as frustrating as the previous 'chicken claw' style play.，Kill anyone who pisses you off。
+这你能说我故意送人头扣我分吗，唉只能说我菜是吧，那菜自然是不用扣分的，加上我的综合评分就四五十，那我四五十综合评分打出任何逆天的操作系统。
 
-At most, I'll just give him a life back.，This attack speed and critical strike build for Lancelot is quite effective for pushing towers and slaying dragons.，Unfortunately, it just doesn't have much sustain.，The sustain from Skill 2 is still slightly lacking.，Lanling King's ultimate ability's super armor is just too effective。
+都会觉得合情合理的，别说我大招起手了，就算我兰陵王出红莲斗篷，靠近人自动破影系统都觉得很合理，这玩兰陵王真是太好了啊。
 
-Even if the sustain is sufficient, mana can easily run out，Under these circumstances, with no health and no mana, you can only go and feed one kill.，Quickly restore full health，What on earth is this Sun Ce trying to do? Never mind.，Take down the enemy's last defensive tower。
+不像之前鸡爪流那么憋屈啊，看谁不爽，直接杀了他，大不了，我还他一命就是了。
 
-All teammates are here，Looks like we can finish them off in one push.，Go all in，Haven't gotten the kill yet，That's great。
+这攻速暴击装的兰陵王推塔打龙都挺好用的，可惜就是没什么续航，二技能的续航还是差了一点，兰陵王这大招霸体也太好用了，就算续航够了。
 
-I tried my best，I'm done for，economy lead，Died one more time before victory, a perfect ending.
+蓝也容易没有，这一般没血没蓝只能过去送一个了，哎快速回满血，为何这孙策到底要干什么，不管了。
+
+拿下对面最后一座防御塔，队友全都在这里，看来可以一波了，直接上哎，人头还没拿到。
+
+真是太好了，尽力了，我命休矣，经济领先，胜利之前还多死了一次完美的结局
 
 ---
 
@@ -47,6 +51,6 @@ I tried my best，I'm done for，economy lead，Died one more time before victor
 
 时长：03:17
 
-创建时间：2025-06-03 16:20:23
+创建时间：2025-06-04 00:20:23
 
-发布时间：2025-06-04 02:00:00
+发布时间：2025-06-04 10:00:00

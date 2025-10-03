@@ -1,45 +1,47 @@
 ---
 title: 鸡爪流里评分最抽象的就是兰陵王，成功超越了蒙恬
-published: 2025-06-10 02:00:00
+published: 2025-06-10 10:00:00
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
 ---
 
 
-> 作者：[磊哥游戏](https://space.bilibili.com/268941858?spm_id_from=333.788.upinfo.head.click)
+> 作者：[磊哥游戏](https://space.bilibili.com/268941858)
 
 视频字幕：
 
-Li Xin's rating is truly outrageous，This time I got teammates, all of them were good guys，I always prefer to stop at the right moment when laning against opponents，spare others，This match was seen by my teammates.。
+李信的评分是真的逆天，这把是遇到的队友全都是好人啊，我不是跟人对线，老喜欢点到为止放别人一马吗，这局被队友看到了。
 
-I thought he was going to scold me，Then he said, 'Li Xin, don't be afraid'，You can beat him，Seems like a really nice guy indeed，The four teammates in this match were chatting quite harmoniously.。
+我以为他要骂我，结果他来一句，李信不要怕你能打过他啊，看来还真是个好人呐，这局的四个队友聊天聊的都挺融洽的。
 
-I was too busy watching them chat，forgot to suppress the score，achieved a great 2-0 score，It's too late to feed now，because we've already pushed to the enemy's high ground。
+我光顾着看他们聊天，忘了压分了，打出了二杠零的好战绩，这会来送已经来不及了，因为已经推到了对面的高地。
 
-Finally gave up one, did my best，Got a bronze medal with 2-1，This is so ridiculous，So I came over to test Li Xin's rating，I'm going to see just how ridiculous his score is。
+哎这才送一个尽力了，二杠一拿了个铜牌啊，真是无语了，于是我就过来测一下李信的评分，我倒要看看他的分到底有多抽象啊。
 
-First was a 1:1 kill，Your team has been，6-5 got a silver medal，then it was completely detached from cause and effect，with not a single kill or assist。
+首先是一比一杀，Your team has been，六杠五，拿了个银牌之后，就是不沾染。
 
-In the end, I secured victory with a score of 0-6.，The rating could even reach 5.7，A 4-3 score can earn you a bronze MVP medal，almost got the rating too high，Fortunately, I played one game as Li Xin and two games as Lan Ling Wang。
+因果一个人头，一个助攻都没有，最终我是零杠六拿下了游戏的胜利，评分都能有5.7，四杠三能是铜牌MVP。
 
-alternate between playing，Playing as Lancelot often results in scores around three or four points.，this way Li Xin's rating gets suppressed，Now there are minions in the top lane，The enemy Li Xin must be trying to steal our crystal.。
+差点就把评分打高了，还好我一局李信，两局兰陵王换着玩，用兰陵王经常打出来一堆三四分哎，这样就把李信给压下去了。
 
-Recall immediately，Fortunately, I often do this kind of thing，Otherwise, he would have succeeded.，This Li Xin is still using a semi-tank build，The tower damage is simply not enough。
+现在上路有兵线，对面的李信肯定想偷我们家水晶啊，直接回城，还好我经常干这种事，否则就让他得逞了。
 
-Just clear the minion wave and it's fine，destroyed, sigh，It's over，only 4-point-something，I use Lancelot as a score suppressant.。
+这李信还是半肉出装，打塔伤害根本不高啊，只要把线清了就行，destroyed哎，结束了。
 
-If your score gets too high, just switch to playing Lanling Wang.，easily achieve a low score，the hero Lancelot，The rating is even more absurd than Montian's，Meng Tian wants to achieve such a low score。
+哎才4.9，我把兰陵王当压分器用的，分高了就去玩兰陵王，轻松打出低分，兰陵王这英雄啊。
 
-have to be careful，the score accidentally exceeds 6 points，But Lan Ling Wang doesn't need to worry about such things，Here's a 4-6 KDA Lan Ling Wang with a 5.4 rating，Ah。
+评分比蒙恬还抽象啊，蒙恬想要打出这么低的分，都得小心一点，一不小心评分就超过六分了，但是兰陵王就不用担心这种事了。
 
-Now let's take a look at Meng Tian's performance，This is a 4-9 Montian，a 4-6 and a 4-9，a 4-9，Which one actually has the higher rating?。
+这是一个四杠六的兰陵王，评分5.4啊，再过来看蒙恬的表现，这是一个四杠九的蒙恬，一个四杠六。
 
-Of course, it's Meng Tian who got the higher rating.，I thought Meng Tian's rating was already abstract enough，Having only 67 minion kills yet still being rated as Iron，Little did I expect that Lancelot is even more of a master，Some people must be wondering here。
+一个四杠九，到底哪个评分高呢，那当然是蒙恬的评分高了，原本以为蒙恬的评分已经够抽象了，补兵67竟然还能是废铁。
 
-Li Xin's rating is so high，those who play Li Xin normally，wouldn't that mean getting gold medals every game and ranking up effortlessly，That's definitely wishful thinking，The normal progression of the plot should be。
+没想到兰陵王更是个高手，这里肯定有人就好奇了，李信的评分这么高，那正常玩李信的玩家，岂不是把把金牌随便上分了啊。
 
-The first few matches did indeed earn gold medals.，and then it directly triggered，You're so good, why not carry me along?，Ah，His teammates are utterly useless，He was directly beaten by the opponents and forced into the 'chicken claw' playstyle.，0 kills and several deaths
+这肯定是想都别想，正常的剧情发展应该是，前面几局确实是拿到了金牌，后面直接就触发了，你这么厉害。
+
+带带我怎么了啊，他的队友完全不是人，他直接被对面打得被迫成了鸡爪，零零杠几啊
 
 ---
 
@@ -47,6 +49,6 @@ The first few matches did indeed earn gold medals.，and then it directly trigge
 
 时长：03:04
 
-创建时间：2025-06-09 14:10:34
+创建时间：2025-06-09 22:10:34
 
-发布时间：2025-06-10 02:00:00
+发布时间：2025-06-10 10:00:00

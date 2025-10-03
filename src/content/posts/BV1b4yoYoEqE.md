@@ -7,7 +7,7 @@ draft: false
 ---
 
 
-> 作者：[磊哥游戏](https://space.bilibili.com/268941858?spm_id_from=333.788.upinfo.head.click)
+> 作者：[磊哥游戏](https://space.bilibili.com/268941858)
 
 视频字幕：
 
@@ -21,10 +21,7 @@ draft: false
 
 ---
 
-
 链接：https://www.bilibili.com/video/BV1b4yoYoEqE
-
-
 
 时长：54
 

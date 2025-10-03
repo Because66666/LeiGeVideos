@@ -1,47 +1,51 @@
 ---
 title: 2秒速通满血水晶，拆塔比打小兵都快
-published: 2025-05-18 00:00:00
+published: 2025-05-18 08:00:00
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
 ---
 
 
-> 作者：[磊哥游戏](https://space.bilibili.com/268941858?spm_id_from=333.788.upinfo.head.click)
+> 作者：[磊哥游戏](https://space.bilibili.com/268941858)
 
 视频字幕：
 
-Meng Tian's damage reduction is quite useful，and the basic attacks also restore health，In the early game, I actually out-damaged the Original Flow Child in auto-attacks.，But I can't kill him.，Just as our jungler finished taking the blue buff。
+这蒙恬的免伤还挺好用，而且普攻还能回血，前期对A我竟然A得过源流之子，但是我不能杀他呀，刚好我们打野把蓝Buff打完。
 
-come over to my side，give the kill to our jungler to help him farm，The jungler is still a Glory Leader，Bad operation mistake，I should have died together with the Origin Stream Child.。
+往我这边走，把人头送给我们打野，让他发育，打野还是个荣耀领袖，不好操作失误了。
 
-That way the Primordial Stream Child could be worth a few more bucks.，2 minutes and 10 seconds fountain exit tutorial，Jungler and mage, come help me gank the Origin Stream Child.，I don't even dare to take a look，Seeing them alive, I can't bear to see them die。
+我应该跟源流之子一起去世的，这样源流之子就可以多值几块钱了，2分10秒出泉水教程，我同意合特打野跟法师帮我来抓源流之子，我看都不敢看。
 
-Hearing its cries makes me unable to eat its flesh，I dare not even take a single assist，All troops, form up and demolish it now，Although it's still the first 4 minutes，But Meng Tian's tower destruction speed is very fast。
+一眼见其生，不忍见其死，闻其声不忍食其肉，这助攻我是一个都不敢拿啊，全军列阵直接过来拆啊。
 
-If not now, when?，We won't be able to destroy it once he respawns.，Team has destroyed，Oops, I accidentally got another assist.，Just stay alive。
+虽然现在是前4分钟，但是蒙恬拆塔速度很快啊，此时不拆，更待何时，等他复活就拆不了了啊。
 
-Suggest changing Meng Tian to be considered as minion damage，Not counted as Meng Tian's damage, but as jungle creep damage，Took down the second tower in 5 minutes，I often see people saying that chicken claw playstyle is about tricking teammates，is just a freeloading dog。
+Team has destroyed，不好又蹭到助攻了啊，活着就好啊，建议蒙恬改为小兵，打的不算。
 
-Then let me ask you, if we can be matched together，it shows that we are equally skilled，Since we are equally skilled，Then my win rate is higher than yours，Who is actually throwing the game。
+蒙恬打的算野怪，5分钟拿下二塔，经常看到有人说鸡爪流就是坑队友，就是躺赢狗，那我问你能匹配在一起。
 
-Are you saying that I, with an 80% win rate,，Am I, with an 80% win rate, pretending to be a teammate compared to your 40% win rate?，You with a 40% win rate carrying me with an 80% win rate，Does this make sense?，To say the least。
+说明我们的实力是一样的，既然我们的实力是一样的，那我胜率又比你高，到底是谁在演队友啊，你是说我一个80多胜率的。
 
-The canyon stands on the side of justice.，Since you think I screwed you over，Then why don't you report it to the officials?，I'm afraid you're not on the side of justice at all，Even if you go to report it。
+再演你一个40多胜率的吗，你40多胜率的带飞我80多胜率的，这像话吗，退1万步说，峡谷是站在正义的一边。
 
-He will also tell you that I didn't violate any rules at all，I haven't lost a single point after playing so many matches.，I thought that's how the game was supposed to be played.，Fortunately made it back in time，The defense tower is also secured。
+你既然觉得我坑你，那你为何不告官呢，只怕你根本就不是正义吧，你就算去告官了，他也会告诉你。
 
-I'm really fed up with this Origin Stream Child，I've been playing this game for 9 years，Do you think I don't know what the reporting mechanism is like?，Those who play poorly cannot be penalized，That's just his skill level。
+我根本就没有违规，我打了这么多局，一分都没有扣，我还以为这游戏就是这么玩的呢，追击敌方还好赶回来了。
 
-Players with low activity shouldn't be penalized either, it's reasonable for them to perform like this given their low match count.，Persistent players, penalize them severely，deduct like crazy，He clearly could carry all four teammates，but not utilizing their full potential。
+防御塔也守住了，哎这个源流之子我真是服了啊，这游戏我打了9年，举报机制是啥样的，我不清楚吗。
 
-Even the MVP can be judged as intentional defeat，The defense tower is almost down.，The interference cooldown isn't ready yet，Killing the dragon for no reason when bored，Fortunately, Meng Tian's hero rating is quite abstract.。
+打的菜的不能扣，他本来技术就这样，活跃度低的也不能扣他场数这么低，打成这样也合理，老玩家狠狠的扣。
 
-Killing one person doesn't give much rating either.，I regret it，I shouldn't have used my ultimate to attack the dragon just now，Otherwise I would have won straight away.，without four minions。
+往死里扣，他明明能带飞四个队友，但是却不发挥实力，MVP也要判他蓄意战败，防御塔拆的差不多了。
 
-left all alone，The opponent missed a minion while clearing the lane.，Although this minion is now at low health，But as long as I charge ahead of the minion later, it'll be fine.，The enemy team is team fighting near the dragon pit。
+干扰CD也没有，好闲着没事过来打条龙，还好，蒙恬这个英雄评分抽象，杀了一个人。
 
-The super minion is gone，This minion is actually still alive，All troops, assemble!，2 seconds to demolish
+评分也高不到哪去，我后悔了，刚刚就不应该开大招打龙，否则这会我直接就赢了，没有四个小兵啊。
+
+成光杆司令了，对面清线的时候漏掉了一个小兵，虽然这个小兵现在是个残血，但是等下只要我冲在小兵前面就行了，对面在龙坑这边打团。
+
+超级兵都没了，这个小兵竟然还活着，全军列阵呢，魂金之马两秒钟拆完
 
 ---
 
@@ -49,6 +53,6 @@ The super minion is gone，This minion is actually still alive，All troops, ass
 
 时长：03:12
 
-创建时间：2025-05-17 03:24:42
+创建时间：2025-05-17 11:24:42
 
-发布时间：2025-05-18 00:00:00
+发布时间：2025-05-18 08:00:00

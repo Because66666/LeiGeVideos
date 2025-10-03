@@ -1,49 +1,53 @@
 ---
 title: 最逆天的必赢局，演都不演了，对面除了牢玩家都是原皮
-published: 2025-06-14 00:00:00
+published: 2025-06-14 08:00:00
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
 ---
 
 
-> 作者：[磊哥游戏](https://space.bilibili.com/268941858?spm_id_from=333.788.upinfo.head.click)
+> 作者：[磊哥游戏](https://space.bilibili.com/268941858)
 
 视频字幕：
 
-I was wondering why I didn't get Lanling Wang in my fill position，So it was picked by the opponent，I tried my best but the opponent picked their hero faster than me，At first glance, they didn't even bother pretending to play fair.，I've never seen such an obvious guaranteed victory.。
+我说我补位里面怎么没补到兰陵王，原来是被对面选了哎，尽力了，对面选将比我快，进来一看。
 
-Everyone on our team except me has skins.，Except for Lancelot, the enemy team is all using default skins，So who is the noob player on the enemy team?，It's really hard to guess，Entering the game, Hou Yi and Dong Huang engaged in a duel.。
+那是演都不演了，就没见过这么明显的必赢局，我们这边除了我之外都有皮肤，对面除了兰陵王，全都是原皮。
 
-Hou Yi couldn't out-auto-attack Dong Huang, then the support arrived，Both of them couldn't defeat Donghuang, in this kind of game if we don't feed there's no chance left.，a complete stomp，Tried my best. Yang Jian has been reworked and buffed.，It's reasonable for Li Xin to lose the fight。
+那对面的老玩家是谁啊，真的是好难猜啊，进入游戏特意跟东皇对A，特意没挨过东皇之后辅助过来了，两个人没打过东皇这种局再不送就没机会了。
 
-but it's fine，Our revamp of Li Xin is extremely bold，so bold that they might not even have created a new folder，Now watch the details，If you can understand the move I'm about to make。
+纯碾压局，尽力了，杨戬重做加强了李信打不过很合理，不过没事啊，我们李信的重做非常的大胆啊。
 
-Achieving an 80% win rate to reach the King rank is a piece of cake for you.，If you don't understand, you can only be a prisoner player.，you can only be an old-school player，You must not get involved in any karma in this kind of match，Whoever takes the blame becomes the scapegoat。
+大胆到可能新建文件夹都没建，接下来看我细节，如果你能看懂我，接下来这个操作，你80胜率上个王者。
 
-who's the boss，Been slain，Han Xin not only stole the blue buff，and even farmed Yang Jian like a jungle creep，How to lose。
+那是轻轻松松看不懂，你就只能当老玩家了，这种局一点因果都不能沾啊，谁有因果，谁是老大。
 
-Got caught by Lancelot, that's great. This Yang Jian is so trash.，After fighting for so long, they still couldn't kill me，The Lanling King went to gank Luban.，Can they really catch our Luban?，Our jungler has also gone over。
+Been slain，韩信不仅反到了蓝Buff，而且还把杨戬当野怪给刷了，怎么输啊，被兰陵王抓了太好了。
 
-The score is now 7:3，I was the one who gave away both kills.，The enemy Lanling King just respawned，took his blue buff，This Yang Jian is truly a master。
+这个杨戬太菜了，打半天没打死我，兰陵王跑去抓鲁班了，这能抓到我们鲁班吗，哎我们打野也过去了。
 
-I never expected there would be such a move，Ah，This Han Xin won't retreat，Don't fight，It's over if we fight。
+唉比分直接七比三，两个人头还是我送的，对面兰陵王刚复活过来，把他的蓝Buff给拿了，这杨戬还真是个高手啊。
 
-preferably zero damage output，This is a great opportunity to suppress the score，The time comes to 7 minutes，The score is almost tied now，The opposing team's prison-breaking player, Lanling Wang, started to show his strength.。
+我是万万没想到，还有这种操作啊，这韩信不撤退，不能打，打了就完了呃。
 
-But it's not about being the king alone，but the glory of the team，Let him do whatever he wants，At the 10-minute mark，The score has now truly turned around。
+呃最好零输出，这是压分的好机会啊，时间来到7分钟，此时的比分快打平了，对面的老玩家兰陵王发力了。
 
-Lanling Wang has entered the second-tier bounty state，has secured over a dozen kills alone，It seems that Orchid King is still struggling.，Even if you win this round, Lanling Wang，Judge Bao。
+不过不是一个人的王者，而是团队的荣耀，随便他折腾了哎，来到10分钟，此时的比分真的实现了反超。
 
-You won't be spared in the next game either，How could this Han Xin even lose to Doria，This Han Xin is also a naturally talented player.，building the Bloodsucker，Fortunately, I didn't help him at the start.。
+兰陵王已经进入了二级悬赏状态，一个人拿了十几个人头，看来兰陵王还在苦苦挣扎啊，就算兰陵王，你这把赢了。
 
-I would have suffered a great loss if I had helped him.，Is it right for Luban to ambush Lancelot?，An enemy has been，From the 13-minute mark，The enemy just stubbornly holds the high ground and refuses to come out。
+青天大老爷，下一把也是绝对不会放过你的，这韩信怎么连个多利亚都打不过啊，这韩信也是个天赋型选手，在搞吸血刀。
 
-The teammates couldn't break through after trying for a long time.，can't even sneak in，because the enemy Hou Yi and Xiao Qiao were split pushing top and bottom lanes，one in the bottom lane，Even though I can beat him。
+还好我开局没帮他，这要是帮他，我就亏大了，鲁班蹲兰陵王，这对吗。
 
-but I don't want to increase my rating，This kind of game actually dragged on until the appearance of the Storm Lord，This is so frustrating，The enemy is holding fast, and our team can't break through，Let's see if we can use the Storm Dragon to push for victory in one go.。
+An enemy has been，从13分钟开始，对面就死守高地不出来，队友打半天也没打进去，偷也偷不了。
 
-The previous minions were too squishy，can't get in at all，Our team still couldn't break through，Finally saw the opportunity，This siege minion got pushed out，Fortunately, another minion wave has come in.，After the fight, it turned out the opposing team's Orchid King was the team's MVP，That explains it.
+因为对面后羿跟小乔一个在上路，一个在下路，虽然我打得过他，但是我不想涨评分，这种局竟然打到了风暴龙王的出现。
+
+这就很难受了，对面死守队友又打不进去，哎看能不能利用风暴龙王直接一波了，之前的小兵血量太脆，根本进不去。
+
+队友这边还是打不进去，终于看到机会了，哎这个龙兵被推出来了，唉好在另一个龙兵进来了，打完一看对面兰陵王是团队之光，这就不奇怪了
 
 ---
 
@@ -51,6 +55,6 @@ The previous minions were too squishy，can't get in at all，Our team still cou
 
 时长：03:26
 
-创建时间：2025-06-13 14:37:52
+创建时间：2025-06-13 22:37:52
 
-发布时间：2025-06-14 00:00:00
+发布时间：2025-06-14 08:00:00

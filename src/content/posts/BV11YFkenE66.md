@@ -1,43 +1,43 @@
 ---
 title: 丸辣！对面牢玩家比我方牢玩家要厉害
-published: 2025-02-02 11:28:15
+published: 2025-02-02 19:28:15
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
 ---
 
 
-> 作者：[磊哥游戏](https://space.bilibili.com/268941858?spm_id_from=333.788.upinfo.head.click)
+> 作者：[磊哥游戏](https://space.bilibili.com/268941858)
 
 视频字幕：
 
-Who put so many boxes in my mailbox?，I don't dare to open any of them.，Our marksman is a versatile expert.，It looks like he's a real pro.，This is the first time my alt has encountered this fearless hero.。
+这这这这是谁把这么多盒子塞到我邮箱里的，我是一个都不敢开啊，这把我们的射手是全能高手啊，看来真是个高手啊，我这个小号还是第一次遇到这个无畏英雄。
 
-Same old story.，Except for Donghuang Taiyi,，the rest are almost all primitives.，I didn't expect to get Zhuang Zhou as a substitute.，And Zhuang Zhou hasn't been banned yet.。
+还是老样子，除了东皇太一，其他的几乎全是原始人，没想到补位还能补出庄周，而且庄周还没有被禁。
 
-Among the fearless heroes, there's an Arthur.，This Arthur is a liability.，You absolutely can't pick him.，Because you definitely have the Arthur hero.，He's filling in diagonally because your mastery isn't high enough.。
+无畏的英雄里面有个亚瑟，这个亚瑟是个坑，千万不能选啊，因为你肯定有亚瑟这个英雄，他斜着补位是因为你熟练度不够。
 
-If you really play him,，you'll boost your battle power.，Do your best.，I was flipped by Mi Yue at the very beginning，But fortunately, Zhuang Zhou can counter control。
+你要是真玩，你就加战力了，尽力了，我开局就被对面的芈月给翻到了，不过还好我庄周可以解控。
 
-I almost got killed by her，Well, but I managed to counter-kill her with all my skills and tricks，Mi Yue was full health，I did my best，Two of them were fighting against me。
+差点就被他给打死了，哎不过还好我各种操作细节拉满也是反杀了，满血的芈月，尽力了，对面两个人打我一个。
 
-But our jungler avenged us，Now the score is four to one, we’re in a good position，Our veteran player，the marksman also secured two kills within a minute，this all-rounder is indeed a seasoned player。
+但是我们打野替我们报仇了，现在比分来到了四比一稳了，我们的老玩家，射手也是在一分钟之内拿了两个人头，这个全能高手果然是老玩家。
 
-although I got wiped out here，they overextended and killed my Zhuang Zhou，but my teammates also crushed the enemy，it doesn't matter that I died，as long as our veteran players are still alive。
+虽然我这边被打爆了，他们越塔把我庄周给杀了，但是我的队友也把对面给打爆了，我死了没事，我们老玩家活着就行了。
 
-it seems the veteran player on the enemy side is Dian Wei，We can rule out Mi Yue as an option for the veteran player on the other side.，Dian Wei is indeed formidable.，It's amazing that they managed to level the score.，The score is now ten to ten.。
+看来对面的老玩家是典韦啊，芈月可以直接排除了对面的老玩家，典韦果然强大啊，这都能把比分给打平，现在比分来到了十比十。
 
-What I didn't expect was，the veteran player on the other side，turning out to be even stronger than our veteran player.，He just pulled off a quad kill.，I think it might be due to the Dong Huang Tai Yi on their side.。
+没想到的是，对面的老玩家，竟然比我们这边的老玩家还要强大啊，他直接拿了一波四杀，我觉得可能是对面东皇太一的问题。
 
-I found out that Donghuang Taiyi's gameplay，seems to involve spamming his ultimate ability，whoever gets close to him，he just sucks them in，but after I tanked Donghuang Taiyi's ultimate。
+结果我发现这个东皇太一的操作，好像就是狂按大招啊，谁靠近他，他就吸谁啊，不过在我扛掉了东皇太一的大招之后。
 
-our marksman went on a killing spree against the enemy team，fortunately，Honor of Kings has an excellent matchmaking system，one carry can support four underperformers，Given that the opposing Dian Wei is an old player,。
+我们的射手也是一路杀穿了对面人，还好，王者荣耀的匹配机制优秀，一劳带四坑，已知对面典韦是老玩家的情况下。
 
-their Dong Huang Taiyi can't be too smart.，As soon as I get close to him,，he'll use his ultimate to attack.，I,，fortunately, started the game with a Dominance Heavy Armor build,。
+他们家的东皇太一肯定聪明不到哪去，只要我一靠近他，他就会开大打，我，好在我的出装开局就憋霸者重装。
 
-and his health isn't as thick as mine.，During team fights,，I just need to use my ultimate to counter Dian Wei's ultimate.，Dian Wei just lost it，Well, as expected。
+他的血量也没我厚，而在团战的时候，我只要一个大招把典韦的大招给解了啊，典韦他就炸了，哎果不其然。
 
-Apart from Dian Wei，the other four were completely out of their depth，After Dian Wei was gone，his teammates had no clue what to do，Look, Mi Yue is still pushing the lane，He even used his first skill to escape，Still, our side has the more skilled players
+对面除了典韦，其他四个完全不是人，在没有了典韦之后，他的队友根本不知道要干什么，你看这芈月他还在带线，甚至他还放一技能跑了，还是我们这边的老玩家技高一筹啊
 
 ---
 
@@ -45,6 +45,6 @@ Apart from Dian Wei，the other four were completely out of their depth，After 
 
 时长：02:36
 
-创建时间：2025-02-02 11:28:16
+创建时间：2025-02-02 19:28:16
 
-发布时间：2025-02-02 11:28:15
+发布时间：2025-02-02 19:28:15

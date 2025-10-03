@@ -1,33 +1,35 @@
 ---
 title: 鸡爪流终于获得了新装备，下赛季可以开局就憋名刀
-published: 2025-05-26 04:08:13
+published: 2025-05-26 12:08:13
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
 ---
 
 
-> 作者：[磊哥游戏](https://space.bilibili.com/268941858?spm_id_from=333.788.upinfo.head.click)
+> 作者：[磊哥游戏](https://space.bilibili.com/268941858)
 
 视频字幕：
 
-Due to the major changes in the next version of the Blade of the Seven Seas，It feels necessary to rush a Frostfang at the start，Since the next version of the Blade of the Heptaseas will add an attack speed attribute，with both attack speed and physical attack，are all crucial attributes for tower pushing。
+由于下个版本的名刀大改，感觉有必要开局就憋一个名刀，由于下版本的名刀加了一个攻击速度的属性，又有攻速，又有物理攻击。
 
-and the next version of the Blade of Despair requires stacking this passive，The passive effect increases duration by only 0.01 seconds every 5 seconds.，When fully stacked, you gain 2.5 seconds of invincibility time，from the moment you purchase the Blade of the Hegemon until its stacks are fully accumulated，It takes you twelve and a half minutes to fully stack。
+都是推塔非常重要的属性，并且下个版本的名刀要叠这个被动被动，每五秒只增加0.01秒的持续时间，叠满可以获得2.5秒的无敌时间，从你买名刀到这个层数叠满。
 
-In other words, even if you rush to buy the Blade of the Immortal at the start of the game，It will probably take over 16 minutes for it to fully stack.，When the passive effect of the Blade of the Hegemon activates, it also increases attack speed and movement speed，extremely useful，I think it's often more useful than the revival armor.。
+你需要12分钟半才可以叠满，也就是说，即使你开局就憋名刀，等他叠满，估计都得16分钟后。
 
-The revival armor might just mean dying again，But this Demonblade offers 2.5 seconds of invincibility，and increases movement speed，In the future, taking Demon Blade and Chicken Claw to backdoor will be such a delightful thing.，Next are the Lightning Dagger and the End, the Lightning Dagger has added physical attack。
+名刀被动触发还可以加攻击速度跟移动速度，非常的好用啊，我认为很多时候都要比复活甲好用啊，复活甲可能是再死一次，但这名刀可是2.5秒的无敌。
 
-Previously, people didn't use Lightning Saber because it was easy to accidentally get assists.，and the lack of physical attack would affect tower-pushing speed，Now it has added physical attack，but it's still easy to get assists，may still not be very useful。
+还加移动速度啊，以后带着名刀跟鸡爪去偷塔多是一件美事啊，然后就是电刀跟末世电刀他是加了物理攻击啊，以前不出电刀是因为容易蹭到助攻，加上还没有物理攻击。
 
-The Corrosion Scythe now adds 100-200 points of fixed damage，It's unclear whether this will have any effect on towers.，If it works on towers, it would be extremely effective.，Frostbrand can be directly phased out，As for the new lifesteal blade's skill that allows lifesteal。
+影响推塔速度，现在他加了物理攻击啊，但是他还是容易蹭到助攻，可能还是不好用啊，末世的话他加了100到200点的固定伤害啊。
 
-This is not very useful for the 'chicken claw' playstyle.，mainly because there's no attack speed，The physical attack is not particularly high either.，Now the Corrosion Scythe also provides 20% lifesteal，fully sufficient。
+这个不知道对塔有没有效果，如果对塔有效果，那就是非常好用了，冰矛就可以直接下岗了，至于新版的吸血刀技能可以吸血。
 
-The final piece of equipment that caught my eye was the Imperial Jade Seal，took a glance at the stats，Another look and it explodes，666 without even pretending，Attack speed 180。
+这个对鸡爪流就没什么大用了，主要是没有攻速，物理攻击也不是特别高啊，现在末世也有20，吸血完全足够了。
 
-Just as I was still thinking，I took a look at his actual gameplay video，found that this thing's attack speed is actually only 20，only 20% attack speed，Never mind then，The effect is to randomly grant you a buff，Let's see what specific buffs there are first, then evaluate its usefulness.
+最后让我看上的装备就是传国玉玺，看了一眼属性，再看一眼就爆炸，666，演都不演了。
+
+攻速180，正当我还在思考时，我看了一下他的实机视频，发现这玩意攻速其实就20哦，才20攻速啊，那没事了，效果是随机给你一种Buff啊，到时候看看具体有哪些再看它有没有用啊
 
 ---
 
@@ -35,6 +37,6 @@ Just as I was still thinking，I took a look at his actual gameplay video，foun
 
 时长：02:07
 
-创建时间：2025-05-26 04:08:13
+创建时间：2025-05-26 12:08:13
 
-发布时间：2025-05-26 04:08:13
+发布时间：2025-05-26 12:08:13

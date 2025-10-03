@@ -1,55 +1,57 @@
 ---
 title: 兰陵王的评分太让人放心了，打出3级悬赏都不怕
-published: 2025-06-03 02:00:00
+published: 2025-06-03 10:00:00
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
 ---
 
 
-> 作者：[磊哥游戏](https://space.bilibili.com/268941858?spm_id_from=333.788.upinfo.head.click)
+> 作者：[磊哥游戏](https://space.bilibili.com/268941858)
 
 视频字幕：
 
-The chicken claw strategy works fine during regular play，In promotion matches, it's always one win followed by one loss.，Teammates are utterly useless，What should I do，Recently, some followers told me。
+鸡爪流平时玩的没问题，一到晋级赛就一胜一负，队友完全不是人，这怎么办，最近有些粉丝跟我说。
 
-He's currently stuck at Star Crest I and has already played the promotion match four times.，haven't passed，The win rate has just dropped to 70.，If you lose again, it will only be 69.，Actually, your issue。
+他现在卡星耀一晋级赛已经打了四次了，都没有过，胜率已经掉到刚好70了，再输的话只有69了，其实你这个问题。
 
-It also happened when the chicken claw strategy first became popular last year，So I believe that in promotion matches，should use a different matchmaking mechanism compared to normal games，We, the chicken claw strategy players, are quite sensitive to the matchmaking mechanism.，Normally teammates are all useless。
+在去年鸡爪驴刚火的那会儿就出现过，所以我认为晋级赛，应该跟平时采用了不同的匹配机制啊，让我们鸡爪流玩家对匹配机制那是相当敏感的，平时队友都不是人。
 
-the opponents are not human either，This is perfectly normal，but once it's a promotion match，It's just that our team is terrible，the opponents are still human。
+对面也不是人，这很正常，但是一到晋级赛，就我们这边不是人，对面还是人。
 
-Too obvious，The jungler is coming to gank for me，Tried my best but didn't hit it，Ah，Solo kill, 666. Let's circle back to the topic.。
+太明显了啊，打野要过来帮我抓啊，尽力了，没打着啊，单杀666话题再绕回来。
 
-In this situation，I suggest you just get a gold medal and skip it，For example, when you're at four stars in Glory rank，Just use a gold medal to skip this promotion match, and it's all good, isn't it?，Like last year when there was no MVP bonus star。
+遇到这种情况，我建议你直接打个金牌跳过去得了，比如说你在星耀一四颗星，直接一个金牌跳过了这个晋级赛不就没事了吗，像去年没这个金牌加薪。
 
-had no choice but to tough it out，This year, there's also the gold medal.，Surely some people are curious，This round got gold medal，what about the next match。
+只能硬扛，今年还有金牌了，哎那肯定有人就好奇了，这把金牌了，下一把怎么办。
 
-That naturally doesn't matter，As mentioned before，your comprehensive score is just 40-50，even if you kill forty or fifty in a single match，it's impossible to push the rating up to seventy or eighty。
+那自然是没什么关系的，之前就说过，你就四五十综合评分，哪怕你一局杀了四五十个，都不可能把评分打到七八十。
 
-as long as you don't keep dominating，just keep the rating from getting too high，out of mana，Ask Li Xin to help me regain the blue buff，Blue an en。
+只要你不是一直乱杀，把评分打的太高就行了，没有蓝了，找李信帮我回一下，蓝an en。
 
-Let me give you an example，There was a multiple-choice question that was extremely difficult，highly deceptive，Only one underachiever in the class got it right，The teacher would definitely think he guessed it, right?。
+我给你举一个例子，有一道选择题非常的困难，迷惑性很强，全班只有一个学渣写对了，那老师肯定会觉得是他蒙的。
 
-So, it's no big deal if you occasionally dominate one or two games.，a blind cat happens upon a dead mouse，it's inevitable to get a couple of questions right，Isn't this quite normal?，Just don't let the teacher notice.。
+对不对，所以你偶尔乱杀个一脸局是没什么事的，嗯你瞎猫碰上死耗子，难免对个一脸提，这不很正常吗。
 
-For example, even though your exam scores are at the bottom every time，but you got all the hardest questions right，got all the easy questions wrong，The teacher could tell at a glance that you were deliberately manipulating your scores.，Just cashed out the Li Xin who was laning against me.。
+只要别让老师看出来就行了，比如说你每次考试虽然成绩都是垫底，但是最难的题全对，简单的题全错，那老师一看就知道你小子就是故意扣分的。
 
-raised for so long，It's time to kill，Let's cash out this Hou Yi as well，Lanling King is so convenient，only 200 bucks。
+刚刚把跟我对线的李信给提现了，养了这么久，是时候杀了啊，这后羿也提现了吧，哎兰陵王就是省事啊。
 
-Is this Dong Huang Tai Yi even human?，I'm here slaying the dragon，He's auto-attacking here，It seems this guy is still the MVP on our team，It shows that there aren't many real players on the opposing team either.。
+才200块钱，这东皇太一是人吗，我在这里打龙，他在这里普攻啊，这家伙好像还是我们这的MVP。
 
-In a bot match like this，Getting a gold medal in promotion matches is incredibly easy，even if you occasionally get a gold medal，the system would surely think the opponents were just too weak，but not because I'm too strong。
+说明对面也没几个是人，像这种伟人局，在晋级赛想拿个金牌简直轻而易举，就算偶尔拿个金牌，系统肯定也觉得是对面太菜。
 
-The moment to strike，Why aren't you leaving yet，There's a Liu Chan and Li Xin on the enemy team, and it took me almost 15 minutes to sneak attack the high ground.，This Liu Chan is about to revive，That's strange, where's Li Xin?。
+而不是我太强了，出刀的时刻，这还不走好耶，对面有个刘禅跟李信打了快15分钟，我才偷到高地。
 
-easy task，I'm really fed up，Why do I always encounter this basic attack Dong Huang whenever I go for the dragon?，See if we can sneak in and take down the middle lane's third tower.，This Xi Shi is really annoying。
+这刘禅要复活了，奇怪了，李信呢顺手的事，我真是服了，怎么我一打龙就遇到这个平A的东皇。
 
-Not team fighting, just keeps defending the tower，You wanna die, don't you?，Before I didn't attack him，he thought I couldn't beat him，chasing me with his ultimate ability。
+看能不能把中路的二塔给偷了，这个西施也是很烦，不打团一直在守塔，想死是吧，之前我不打他。
 
-My Lancelot now has the highest economy on the entire field，from 0-4 to 4-4，Just triggered the third-level bounty status，If this were Li Xin on a killing spree, it would definitely be game over.，Fortunately, it's Lian Po。
+他就以为我打不过他，开着大招追着我打我，兰陵王现在全场经济最高，从零杠四打到四杠四，刚刚还打出了三级悬赏状态。
 
-a 1:1 KDA like 4-4，It's impossible to get a high score，What on earth is this Luban trying to do?，The original bond is gone，I'll come over and take this dragon.，Finish them off directly, with a rating of only 5.4，It's even lower than my 0-6 Li Xin's score.
+这要是李信连环杀人，肯定是完蛋了，但好在是兰陵王啊，像四杠四这种一比一的战绩，根本不可能把分打高啊。
+
+这鲁班到底想干什么啊，原初羁绊没了，我过来把这个龙给拿了，直接一波评分才5.4，还没我李信零杠六的评分高呢
 
 ---
 
@@ -57,6 +59,6 @@ a 1:1 KDA like 4-4，It's impossible to get a high score，What on earth is this
 
 时长：03:51
 
-创建时间：2025-06-01 14:26:37
+创建时间：2025-06-01 22:26:37
 
-发布时间：2025-06-03 02:00:00
+发布时间：2025-06-03 10:00:00
