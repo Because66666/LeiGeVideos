@@ -97,7 +97,7 @@ async def get_series_list():
             await next_page.click()
             await get_signal.wait()
             next_page = page.get_by_role("button", name="下一页")
-
+            get_signal.clear()
         await page.close()
     return user_responses, got_urls
 
@@ -236,5 +236,23 @@ def experimental_main():
             save_md_file(markdown_content, file_name)
 
 
+def edit_ct():
+    # 获取新数据
+    print("从API获取系列列表...")
+    user_responses, got_urls = asyncio.run(get_series_list())
+    videos: dict[str:dict] = parse_json_to_videos(user_responses)
+    from t import modify_times_in_file
+
+    for bvid, video in videos.items():
+        file_path = os.path.join(OUTPUT_DIR, f"{bvid}.md")
+        modify_times_in_file(
+            file_path=file_path,
+            save_path=file_path,
+            new_published=video["pub_time"],  # 修改front matter中的published
+            new_create_time=video["cre_time"],  # 修改创建时间
+            new_publish_time=video["pub_time"],  # 修改文末的发布时间
+        )
+
+
 if __name__ == "__main__":
-    main()
+    experimental_main()
