@@ -212,12 +212,15 @@ def experimental_main():
     video_urls = [video["link"] for video in videos.values()]
 
     async def get_subtitle_(video_urls: list) -> dict[str:str]:
-        import experiments
+        import video_to_text_old as experiments
 
-        # 使用自定义的函数
-        subtitle_text_dict = await experiments.get_bilibili_video_subtitle(
-            video_urls, headless=HEADLESS
-        )
+        subtitle_text_dict: dict[str:str] = {}
+        for url in video_urls:
+            # 使用自定义的函数
+            subtitle_text = await experiments.get_bilibili_video_subtitle(
+                url, headless=HEADLESS
+            )
+            subtitle_text_dict[url] = subtitle_text
         return subtitle_text_dict
 
     subtitle_text_dict: dict[str:str] = asyncio.run(get_subtitle_(video_urls))
@@ -230,4 +233,4 @@ def experimental_main():
 
 
 if __name__ == "__main__":
-    experimental_main()
+    main()
