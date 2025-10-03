@@ -237,6 +237,9 @@ def experimental_main():
 
 
 def edit_ct():
+    """
+    编辑调整md文件的创建时间和发布时间。
+    """
     # 获取新数据
     print("从API获取系列列表...")
     user_responses, got_urls = asyncio.run(get_series_list())
