@@ -255,4 +255,4 @@ def edit_ct():
 
 
 if __name__ == "__main__":
-    experimental_main()
+    main()
