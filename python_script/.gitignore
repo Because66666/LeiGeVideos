@@ -3,3 +3,4 @@ bec.json
 __pycache__/
 delete_md.py
 video_to_text_old.py
+t.py
