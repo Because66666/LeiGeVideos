@@ -235,15 +235,5 @@ def experimental_main():
             save_md_file(markdown_content, file_name)
 
 
-def change_pubtime():
-
-    from t import process_md_file
-
-    files = os.listdir(OUTPUT_DIR)
-    for file in files:
-        file_path = os.path.join(OUTPUT_DIR, file)
-        process_md_file(file_path, file_path)
-
-
 if __name__ == "__main__":
     main()
