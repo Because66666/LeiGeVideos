@@ -129,8 +129,11 @@ def parse_json_to_videos(json_data: dict) -> dict[str:dict]:
                 "duration": video.get("duration"),  # 时长，单位是秒
                 "play": video.get("stat", "{}").get("view", 0),  # 播放量
                 "pub_time": time.strftime(
-                    "%Y-%m-%d %H:%M:%S", time.localtime(video.get("ctime"))
+                    "%Y-%m-%d %H:%M:%S", time.localtime(video.get("pubdate"))
                 ),  # 发布时间，格式化
+                "cre_time": time.strftime(
+                    "%Y-%m-%d %H:%M:%S", time.localtime(video.get("ctime"))
+                ),  # 创建时间，格式化
             }
             videos[bvid] = video
     return videos
@@ -232,5 +235,15 @@ def experimental_main():
             save_md_file(markdown_content, file_name)
 
 
+def change_pubtime():
+
+    from t import process_md_file
+
+    files = os.listdir(OUTPUT_DIR)
+    for file in files:
+        file_path = os.path.join(OUTPUT_DIR, file)
+        process_md_file(file_path, file_path)
+
+
 if __name__ == "__main__":
-    main()
+    change_pubtime()

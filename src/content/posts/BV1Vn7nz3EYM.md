@@ -1,6 +1,6 @@
 ---
 title: 牢玩家掉到了一个名为Elo的井里，挣扎半天原地踏步
-published: 2025-05-30 09:32:33
+published: 2025-06-02 08:00:00
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
@@ -65,8 +65,13 @@ draft: false
 
 ---
 
+
 链接：https://www.bilibili.com/video/BV1Vn7nz3EYM
+
+
 
 时长：04:53
 
-发布时间：2025-05-30 09:32:33
+创建时间：2025-05-30 09:32:33
+
+发布时间：2025-06-02 08:00:00

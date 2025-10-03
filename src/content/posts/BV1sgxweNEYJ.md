@@ -1,6 +1,6 @@
 ---
 title: 新赛季打的最热血的一局，真是一场酣畅淋漓的对决啊
-published: 2024-09-27 14:59:44
+published: 2024-09-28 08:00:00
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
@@ -37,8 +37,13 @@ draft: false
 
 ---
 
+
 链接：https://www.bilibili.com/video/BV1sgxweNEYJ
+
+
 
 时长：02:27
 
-发布时间：2024-09-27 14:59:44
+创建时间：2024-09-27 22:59:44
+
+发布时间：2024-09-28 08:00:00

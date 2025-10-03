@@ -1,6 +1,6 @@
 ---
 title: 考虑到新版霸者买不起，尝试买圣杯代替一下
-published: 2025-03-16 21:45:48
+published: 2025-03-16 21:45:47
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
@@ -43,8 +43,13 @@ draft: false
 
 ---
 
+
 链接：https://www.bilibili.com/video/BV1YuQaYmE1x
+
+
 
 时长：02:51
 
-发布时间：2025-03-16 21:45:48
+创建时间：2025-03-16 21:45:48
+
+发布时间：2025-03-16 21:45:47

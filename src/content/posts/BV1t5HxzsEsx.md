@@ -1,6 +1,6 @@
 ---
 title: 盘古EVP太强了，略微出手，对面就得罚站
-published: 2025-10-01 23:18:36
+published: 2025-10-02 09:00:00
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
@@ -55,8 +55,13 @@ draft: false
 
 ---
 
+
 链接：https://www.bilibili.com/video/BV1t5HxzsEsx
+
+
 
 时长：04:07
 
-发布时间：2025-10-01 23:18:36
+创建时间：2025-10-01 23:18:36
+
+发布时间：2025-10-02 09:00:00

@@ -1,6 +1,6 @@
 ---
 title: 兰陵王装备优化，舍弃暗影战斧，回归鸡爪
-published: 2025-07-19 21:39:35
+published: 2025-07-20 09:00:00
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
@@ -33,8 +33,13 @@ draft: false
 
 ---
 
+
 链接：https://www.bilibili.com/video/BV1M3uozyEgE
+
+
 
 时长：01:58
 
-发布时间：2025-07-19 21:39:35
+创建时间：2025-07-19 21:39:35
+
+发布时间：2025-07-20 09:00:00

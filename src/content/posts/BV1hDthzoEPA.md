@@ -1,6 +1,6 @@
 ---
 title: 6分钟打到对面水晶，与荣耀领袖之间的博弈
-published: 2025-08-09 21:10:56
+published: 2025-08-10 09:00:00
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
@@ -49,8 +49,13 @@ draft: false
 
 ---
 
+
 链接：https://www.bilibili.com/video/BV1hDthzoEPA
+
+
 
 时长：03:31
 
-发布时间：2025-08-09 21:10:56
+创建时间：2025-08-09 21:10:56
+
+发布时间：2025-08-10 09:00:00

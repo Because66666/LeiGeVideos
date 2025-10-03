@@ -61,6 +61,7 @@ def generate_full_md(videos_data):
     body += f"\n---\n"
     body += f"\n链接：{videos_data['link']}\n"
     body += f"\n时长：{parse_second_to_time(videos_data['duration'])}\n"
+    body += f"\n创建时间：{videos_data['cre_time']}\n"
     body += f"\n发布时间：{videos_data['pub_time']}\n"
 
     new_content += body

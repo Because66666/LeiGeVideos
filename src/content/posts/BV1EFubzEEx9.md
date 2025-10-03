@@ -1,6 +1,6 @@
 ---
 title: 实战教学，王者荣耀必定2.0评分打法攻略
-published: 2025-07-16 22:30:37
+published: 2025-07-17 09:00:00
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
@@ -35,8 +35,13 @@ draft: false
 
 ---
 
+
 链接：https://www.bilibili.com/video/BV1EFubzEEx9
+
+
 
 时长：02:31
 
-发布时间：2025-07-16 22:30:37
+创建时间：2025-07-16 22:30:37
+
+发布时间：2025-07-17 09:00:00

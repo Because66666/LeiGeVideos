@@ -1,6 +1,6 @@
 ---
 title: 开局第一件直接憋玉玺，最快登基确定正统性
-published: 2025-07-31 17:21:02
+published: 2025-08-01 09:00:00
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
@@ -49,8 +49,13 @@ draft: false
 
 ---
 
+
 链接：https://www.bilibili.com/video/BV1aG8mzyEdL
+
+
 
 时长：03:42
 
-发布时间：2025-07-31 17:21:02
+创建时间：2025-08-01 01:21:02
+
+发布时间：2025-08-01 09:00:00

@@ -1,6 +1,6 @@
 ---
 title: 不打野怪的打野被踢出对局了，但AI接管后还是不打野
-published: 2025-05-22 20:29:42
+published: 2025-05-24 08:00:00
 tags: [王者荣耀]
 category: 磊哥视频
 draft: false
@@ -53,8 +53,13 @@ draft: false
 
 ---
 
+
 链接：https://www.bilibili.com/video/BV1W6JHzPEzQ
+
+
 
 时长：04:06
 
-发布时间：2025-05-22 20:29:42
+创建时间：2025-05-22 20:29:42
+
+发布时间：2025-05-24 08:00:00
