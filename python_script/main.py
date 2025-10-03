@@ -246,4 +246,4 @@ def change_pubtime():
 
 
 if __name__ == "__main__":
-    change_pubtime()
+    main()
