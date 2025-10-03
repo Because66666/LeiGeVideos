@@ -55,7 +55,7 @@ def generate_full_md(videos_data):
 
     # 添加视频的信息
     # body = f"\n![封面]({videos_data['cover']})\n"
-    body = f"\n> 作者：[磊哥游戏](https://space.bilibili.com/268941858?spm_id_from=333.788.upinfo.head.click)\n"
+    body = f"\n> 作者：[磊哥游戏](https://space.bilibili.com/268941858)\n"
     body += f"\n视频字幕：\n"
     body += f"\n{videos_data['subtitle']}\n"
     body += f"\n---\n"

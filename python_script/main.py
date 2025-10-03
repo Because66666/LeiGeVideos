@@ -19,6 +19,7 @@ async def get_series_list():
     """获取系列列表，全部内容"""
     user_responses: list[dict] = []
     got_urls = set()
+    get_signal = asyncio.Event()
     async with async_playwright() as p:
         browser = await p.chromium.launch(
             headless=HEADLESS,
@@ -66,7 +67,7 @@ async def get_series_list():
 
         # 监听所有响应事件
         async def handle_response(response):
-            nonlocal user_responses, got_urls
+            nonlocal user_responses, got_urls, get_signal
             # 获取响应所属页面的 URL
             page_url = response.request.url if response.request else ""
             # 检查当前页面的用户 ID
@@ -74,6 +75,7 @@ async def get_series_list():
                 if page_url not in got_urls:
                     got_urls.add(page_url)
                     user_responses.append(await response.json())
+                get_signal.set()
 
         context.on("response", handle_response)
 
@@ -89,13 +91,11 @@ async def get_series_list():
         await page.goto(
             f"https://space.bilibili.com/268941858/lists/3041938?type=season"
         )
-        await page.wait_for_load_state("networkidle")
-        await page.wait_for_timeout(1300)
+        await get_signal.wait()
         next_page = page.get_by_role("button", name="下一页")
         while await next_page.is_visible():
             await next_page.click()
-            await page.wait_for_load_state("networkidle")
-            await page.wait_for_timeout(1300)
+            await get_signal.wait()
             next_page = page.get_by_role("button", name="下一页")
 
         await page.close()
