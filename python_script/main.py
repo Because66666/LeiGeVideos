@@ -91,10 +91,13 @@ async def get_series_list():
         await page.goto(
             f"https://space.bilibili.com/268941858/lists/3041938?type=season"
         )
+        await page.wait_for_load_state("networkidle")
         await get_signal.wait()
         next_page = page.get_by_role("button", name="下一页")
+        get_signal.clear()
         while await next_page.is_visible():
             await next_page.click()
+            await page.wait_for_load_state("networkidle")
             await get_signal.wait()
             next_page = page.get_by_role("button", name="下一页")
             get_signal.clear()
