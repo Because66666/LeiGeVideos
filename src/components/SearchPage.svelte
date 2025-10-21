@@ -11,10 +11,17 @@ interface SearchIndexItem {
 	content?: string;
 	tags?: string[];
 	category?: string;
+	published?: string;
 }
 
 let keyword = "";
-let results: { url: string; title: string; excerpt: string }[] = [];
+let results: {
+	url: string;
+	title: string;
+	excerpt: string;
+	published: string;
+	category?: string;
+}[] = [];
 let fuse: any = null;
 let indexItems: SearchIndexItem[] = [];
 
@@ -85,10 +92,18 @@ async function doSearch() {
 	}
 	try {
 		const ret = fuse.search(keyword);
-		results = ret.slice(0, 50).map(({ item, matches }: any) => {
+		results = ret.map(({ item, matches }: any) => {
 			const baseText = item.content || item.description || "";
 			const excerpt = buildExcerpt(baseText, keyword, matches);
-			return { url: item.url, title: item.title, excerpt };
+			return {
+				url: item.url,
+				title: item.title,
+				excerpt,
+				published: item.published
+					? new Date(item.published).toLocaleDateString()
+					: "",
+				category: item.category || "",
+			};
 		});
 	} catch (e) {
 		console.warn("Fuse search failed:", e);
@@ -139,6 +154,11 @@ $: doSearch();
           </a>
           <div class="transition text-75 mb-3.5 pr-4">
             {@html item.excerpt}
+          </div>
+          <div class="text-sm text-black/30 dark:text-white/30 flex gap-4 transition">
+            {#if item.published}<div>{item.published}</div>{/if}
+            {#if item.published && item.category}<div>|</div>{/if}
+            {#if item.category}<div>{item.category}</div>{/if}
           </div>
         </div>
       </div>

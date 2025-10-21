@@ -3,8 +3,8 @@ import I18nKey from "@i18n/i18nKey";
 import { i18n } from "@i18n/translation";
 import Icon from "@iconify/svelte";
 import { url } from "@utils/url-utils.ts";
-import { onMount } from "svelte";
 import Fuse from "fuse.js";
+import { onMount } from "svelte";
 
 let keywordDesktop = "";
 let keywordMobile = "";
@@ -16,98 +16,110 @@ let fuse: Fuse<any> | null = null;
 let indexItems: any[] = [];
 
 async function initFuse() {
-    if (fuse) return;
-    try {
-        const res = await fetch(url('/search-index.json'));
-        const data = await res.json();
-        indexItems = data.items || [];
-        fuse = new Fuse(indexItems, {
-            keys: ["title", "description", "content", "tags", "category"],
-            isCaseSensitive: false,
-            includeMatches: true,
-            includeScore: true,
-            shouldSort: true,
-            ignoreLocation: true,
-            threshold: 0.3,
-            minMatchCharLength: 1,
-        });
-    } catch (e) {
-        console.warn("Search index load failed:", e);
-    }
+	if (fuse) return;
+	try {
+		const res = await fetch(url("/search-index.json"));
+		const data = await res.json();
+		indexItems = data.items || [];
+		fuse = new Fuse(indexItems, {
+			keys: ["title", "description", "content", "tags", "category"],
+			isCaseSensitive: false,
+			includeMatches: true,
+			includeScore: true,
+			shouldSort: true,
+			ignoreLocation: true,
+			threshold: 0.3,
+			minMatchCharLength: 1,
+		});
+	} catch (e) {
+		console.warn("Search index load failed:", e);
+	}
 }
 
 function buildExcerpt(text: string, keyword: string, matches?: any[]): string {
-    if (!text) return "";
-    const lowerText = text.toLowerCase();
-    const lowerKey = keyword.toLowerCase();
+	if (!text) return "";
+	const lowerText = text.toLowerCase();
+	const lowerKey = keyword.toLowerCase();
 
-    // Prefer match from Fuse
-    const m = matches && matches.find((mm) => mm.key === 'content' || mm.key === 'description' || mm.key === 'title');
-    if (m && Array.isArray(m.indices) && m.indices.length > 0) {
-        const [s, e] = m.indices[0];
-        const start = Math.max(0, s - 30);
-        const end = Math.min(text.length, e + 30);
-        const slice = text.slice(start, end);
-        const target = text.slice(s, e + 1);
-        return slice.replace(target, `<mark>${target}</mark>`);
-    }
+	// Prefer match from Fuse
+	const m =
+		matches &&
+		matches.find(
+			(mm) =>
+				mm.key === "content" || mm.key === "description" || mm.key === "title",
+		);
+	if (m && Array.isArray(m.indices) && m.indices.length > 0) {
+		const [s, e] = m.indices[0];
+		const start = Math.max(0, s - 30);
+		const end = Math.min(text.length, e + 30);
+		const slice = text.slice(start, end);
+		const target = text.slice(s, e + 1);
+		return slice.replace(target, `<mark>${target}</mark>`);
+	}
 
-    // Fallback to simple substring highlight
-    const pos = lowerText.indexOf(lowerKey);
-    if (pos >= 0) {
-        const start = Math.max(0, pos - 30);
-        const end = Math.min(text.length, pos + keyword.length + 30);
-        const slice = text.slice(start, end);
-        return slice.replace(text.slice(pos, pos + keyword.length), `<mark>${text.slice(pos, pos + keyword.length)}</mark>`);
-    }
+	// Fallback to simple substring highlight
+	const pos = lowerText.indexOf(lowerKey);
+	if (pos >= 0) {
+		const start = Math.max(0, pos - 30);
+		const end = Math.min(text.length, pos + keyword.length + 30);
+		const slice = text.slice(start, end);
+		return slice.replace(
+			text.slice(pos, pos + keyword.length),
+			`<mark>${text.slice(pos, pos + keyword.length)}</mark>`,
+		);
+	}
 
-    return text.slice(0, 80);
+	return text.slice(0, 80);
 }
 
 onMount(() => {
-    search = async (keyword: string, isDesktop: boolean) => {
-        let panel = document.getElementById("search-panel");
-        if (!panel) return;
+	search = async (keyword: string, isDesktop: boolean) => {
+		let panel = document.getElementById("search-panel");
+		if (!panel) return;
 
-        if (!keyword && isDesktop) {
-            panel.classList.add("float-panel-closed");
-            result = [];
-            return;
-        }
+		if (!keyword && isDesktop) {
+			panel.classList.add("float-panel-closed");
+			result = [];
+			return;
+		}
 
-        await initFuse();
+		await initFuse();
 
-        let arr: any[] = [];
-        if (fuse && keyword) {
-            try {
-                const ret = fuse.search(keyword);
-                arr = ret.slice(0, 20).map(({ item, matches }) => ({
-                    url: item.url,
-                    meta: { title: item.title },
-                    excerpt: buildExcerpt(item.content || item.description || "", keyword, matches),
-                }));
-            } catch (err) {
-                console.warn("Fuse search failed:", err);
-                arr = [];
-            }
-        }
+		let arr: any[] = [];
+		if (fuse && keyword) {
+			try {
+				const ret = fuse.search(keyword);
+				arr = ret.map(({ item, matches }) => ({
+					url: item.url,
+					meta: { title: item.title },
+					excerpt: buildExcerpt(
+						item.content || item.description || "",
+						keyword,
+						matches,
+					),
+				}));
+			} catch (err) {
+				console.warn("Fuse search failed:", err);
+				arr = [];
+			}
+		}
 
-        if (!arr.length && isDesktop) {
-            panel.classList.add("float-panel-closed");
-            result = [];
-            return;
-        }
+		if (!arr.length && isDesktop) {
+			panel.classList.add("float-panel-closed");
+			result = [];
+			return;
+		}
 
-        if (isDesktop) {
-            panel.classList.remove("float-panel-closed");
-        }
-        result = arr as any;
-    };
+		if (isDesktop) {
+			panel.classList.remove("float-panel-closed");
+		}
+		result = arr as any;
+	};
 });
 
 const togglePanel = () => {
-    let panel = document.getElementById("search-panel");
-    panel?.classList.toggle("float-panel-closed");
+	let panel = document.getElementById("search-panel");
+	panel?.classList.toggle("float-panel-closed");
 };
 
 $: search(keywordDesktop, true);
@@ -169,7 +181,7 @@ top-20 left-4 md:left-[unset] right-4 shadow-2xl rounded-2xl p-2 overflow-y-auto
                 查看更多搜索结果<Icon icon="fa6-solid:chevron-right" class="transition text-[0.75rem] translate-x-1 my-auto text-[var(--primary)]"></Icon>
             </div>
             <div class="transition text-sm text-50">
-                在搜索页中查看完整结果
+                在搜索页中查看完整结果（一共{result.length} 条）
             </div>
         </a>
     {/if}
