@@ -261,4 +261,4 @@ def edit_ct():
 
 
 if __name__ == "__main__":
-    main()
+    edit_ct()
