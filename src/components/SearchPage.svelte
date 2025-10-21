@@ -51,12 +51,10 @@ function buildExcerpt(text: string, keyword: string, matches?: any[]): string {
 	const lowerText = text.toLowerCase();
 	const lowerKey = keyword.toLowerCase();
 
+	// 仅在 content/description 命中时使用 Fuse 提供的索引，避免 title 命中导致错位
 	const m =
 		matches &&
-		matches.find(
-			(mm: any) =>
-				mm.key === "content" || mm.key === "description" || mm.key === "title",
-		);
+		matches.find((mm: any) => mm.key === "content" || mm.key === "description");
 	if (m && Array.isArray(m.indices) && m.indices.length > 0) {
 		const [s, e] = m.indices[0];
 		const start = Math.max(0, s - 30);
@@ -66,6 +64,7 @@ function buildExcerpt(text: string, keyword: string, matches?: any[]): string {
 		return slice.replace(target, `<mark>${target}</mark>`);
 	}
 
+	// Fallback: 简单子串高亮（仅在 text 中找到关键字时）
 	const pos = lowerText.indexOf(lowerKey);
 	if (pos >= 0) {
 		const start = Math.max(0, pos - 30);
