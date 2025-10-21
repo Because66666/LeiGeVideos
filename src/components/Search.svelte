@@ -149,7 +149,7 @@ top-20 left-4 md:left-[unset] right-4 shadow-2xl rounded-2xl p-2 overflow-y-auto
     </div>
 
     <!-- search results -->
-    {#each result as item}
+    {#each result.slice(0, 5) as item}
         <a href={item.url}
            class="transition first-of-type:mt-2 lg:first-of-type:mt-0 group block
        rounded-xl text-lg px-3 py-2 hover:bg-[var(--btn-plain-bg-hover)] active:bg-[var(--btn-plain-bg-active)]">
@@ -161,6 +161,18 @@ top-20 left-4 md:left-[unset] right-4 shadow-2xl rounded-2xl p-2 overflow-y-auto
             </div>
         </a>
     {/each}
+    {#if result.length > 5}
+        <a href={url(`/search/?q=${encodeURIComponent(keywordDesktop || keywordMobile)}`)}
+           class="transition first-of-type:mt-2 lg:first-of-type:mt-0 group block
+       rounded-xl text-lg px-3 py-2 hover:bg-[var(--btn-plain-bg-hover)] active:bg-[var(--btn-plain-bg-active)]">
+            <div class="transition text-90 inline-flex font-bold group-hover:text-[var(--primary)]">
+                查看更多搜索结果<Icon icon="fa6-solid:chevron-right" class="transition text-[0.75rem] translate-x-1 my-auto text-[var(--primary)]"></Icon>
+            </div>
+            <div class="transition text-sm text-50">
+                在搜索页中查看完整结果
+            </div>
+        </a>
+    {/if}
 </div>
 
 <style>
