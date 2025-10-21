@@ -103,37 +103,4 @@ function loadButtonScript() {
 loadButtonScript();
 </script>
 
-{import.meta.env.PROD && <script is:inline define:vars={{scriptUrl: url('/pagefind/pagefind.js')}}>
-// 加载预构建的pagefind索引
-async function loadPagefind() {
-    try {
-        const pagefind = await import(scriptUrl)
-        await pagefind.options({
-            'excerptLength': 30,  // 增加摘要长度以获得更好的搜索结果
-            'highlightLength': 15  // 高亮文本长度
-        })
-        pagefind.init()
-        window.pagefind = pagefind
-        
-        // 预加载搜索以加速首次搜索体验
-        try {
-            await pagefind.search('')
-        } catch (preloadError) {
-            console.warn('Pagefind preload search failed:', preloadError)
-        }
-        
-        console.log('Pagefind search index loaded successfully')
-    } catch (error) {
-        console.error('Failed to load pagefind search index:', error)
-        // 即使加载失败也不影响网站其他功能
-    }
-}
-
-// 在页面加载完成后加载搜索索引
-if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', loadPagefind)
-} else {
-    // 如果页面已经加载完成，立即加载
-    loadPagefind()
-}
-</script>}
+<!-- Search index is now provided by /search-index.json and used via Fuse.js -->

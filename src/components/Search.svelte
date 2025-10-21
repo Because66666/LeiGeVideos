@@ -4,118 +4,110 @@ import { i18n } from "@i18n/translation";
 import Icon from "@iconify/svelte";
 import { url } from "@utils/url-utils.ts";
 import { onMount } from "svelte";
+import Fuse from "fuse.js";
+
 let keywordDesktop = "";
 let keywordMobile = "";
 let result: { url: string; meta: { title: string }; excerpt: string }[] = [];
-const fakeResult = [
-	{
-		url: url("/"),
-		meta: {
-			title: "This Is a Fake Search Result",
-		},
-		excerpt:
-			"Because the search cannot work in the <mark>dev</mark> environment.",
-	},
-	{
-		url: url("/"),
-		meta: {
-			title: "If You Want to Test the Search",
-		},
-		excerpt: "Try running <mark>npm build && npm preview</mark> instead.",
-	},
-];
 
 let search = (keyword: string, isDesktop: boolean) => {};
 
+let fuse: Fuse<any> | null = null;
+let indexItems: any[] = [];
+
+async function initFuse() {
+    if (fuse) return;
+    try {
+        const res = await fetch(url('/search-index.json'));
+        const data = await res.json();
+        indexItems = data.items || [];
+        fuse = new Fuse(indexItems, {
+            keys: ["title", "description", "content", "tags", "category"],
+            isCaseSensitive: false,
+            includeMatches: true,
+            includeScore: true,
+            shouldSort: true,
+            ignoreLocation: true,
+            threshold: 0.3,
+            minMatchCharLength: 1,
+        });
+    } catch (e) {
+        console.warn("Search index load failed:", e);
+    }
+}
+
+function buildExcerpt(text: string, keyword: string, matches?: any[]): string {
+    if (!text) return "";
+    const lowerText = text.toLowerCase();
+    const lowerKey = keyword.toLowerCase();
+
+    // Prefer match from Fuse
+    const m = matches && matches.find((mm) => mm.key === 'content' || mm.key === 'description' || mm.key === 'title');
+    if (m && Array.isArray(m.indices) && m.indices.length > 0) {
+        const [s, e] = m.indices[0];
+        const start = Math.max(0, s - 30);
+        const end = Math.min(text.length, e + 30);
+        const slice = text.slice(start, end);
+        const target = text.slice(s, e + 1);
+        return slice.replace(target, `<mark>${target}</mark>`);
+    }
+
+    // Fallback to simple substring highlight
+    const pos = lowerText.indexOf(lowerKey);
+    if (pos >= 0) {
+        const start = Math.max(0, pos - 30);
+        const end = Math.min(text.length, pos + keyword.length + 30);
+        const slice = text.slice(start, end);
+        return slice.replace(text.slice(pos, pos + keyword.length), `<mark>${text.slice(pos, pos + keyword.length)}</mark>`);
+    }
+
+    return text.slice(0, 80);
+}
+
 onMount(() => {
-	search = async (keyword: string, isDesktop: boolean) => {
-		let panel = document.getElementById("search-panel");
-		if (!panel) return;
+    search = async (keyword: string, isDesktop: boolean) => {
+        let panel = document.getElementById("search-panel");
+        if (!panel) return;
 
-		if (!keyword && isDesktop) {
-			panel.classList.add("float-panel-closed");
-			return;
-		}
+        if (!keyword && isDesktop) {
+            panel.classList.add("float-panel-closed");
+            result = [];
+            return;
+        }
 
-		let arr = [];
+        await initFuse();
 
-		// 使用预构建的pagefind索引（生产环境）
-		if (import.meta.env.PROD && window.pagefind) {
-			try {
-				// 首先进行基础搜索
-				const baseRet = await window.pagefind.search(keyword);
-				const baseResults = [];
-				for (const item of baseRet.results) {
-					baseResults.push(await item.data());
-				}
-				
-				// 对中文内容进行特殊处理 - 检查是否包含精确子串
-				const exactMatches = [];
-				const fuzzyMatches = [];
-				
-				for (const result of baseResults) {
-					// 检查标题和摘要中是否包含精确的关键词
-					const titleContainsExact = result.meta.title?.toLowerCase().includes(keyword.toLowerCase());
-					const excerptContainsExact = result.excerpt?.toLowerCase().includes(keyword.toLowerCase());
-					const contentContainsExact = result.content?.toLowerCase().includes(keyword.toLowerCase());
-					
-					if (titleContainsExact || excerptContainsExact || contentContainsExact) {
-						// 精确匹配：标题、摘要或内容中包含完整关键词
-						exactMatches.push({
-							...result,
-							matchType: 'exact',
-							matchScore: (titleContainsExact ? 3 : 0) + (excerptContainsExact ? 2 : 0) + (contentContainsExact ? 1 : 0)
-						});
-					} else {
-						// 模糊匹配：pagefind认为相关但不包含完整关键词
-						fuzzyMatches.push({
-							...result,
-							matchType: 'fuzzy',
-							matchScore: 0
-						});
-					}
-				}
-				
-				// 排序：精确匹配在前，按匹配分数排序；模糊匹配在后
-				exactMatches.sort((a, b) => b.matchScore - a.matchScore);
-				
-				// 合并结果，总数不超过20个
-				arr = [...exactMatches, ...fuzzyMatches].slice(0, 20);
-				
-				console.log(
-					"Search keyword:",
-					keyword,
-					"Exact matches:", exactMatches.length,
-					"Fuzzy matches:", fuzzyMatches.length,
-					"Total results:", arr.length
-				);
-			} catch (error) {
-				console.warn("Pagefind search failed:", error);
-				arr = fakeResult;
-			}
-		} else if (!import.meta.env.PROD) {
-			// 开发环境使用模拟数据
-			arr = fakeResult;
-		} else {
-			// 生产环境但pagefind未加载
-			console.warn("Pagefind not available");
-			arr = fakeResult;
-		}
-		if (!arr.length && isDesktop) {
-			panel.classList.add("float-panel-closed");
-			return;
-		}
+        let arr: any[] = [];
+        if (fuse && keyword) {
+            try {
+                const ret = fuse.search(keyword);
+                arr = ret.slice(0, 20).map(({ item, matches }) => ({
+                    url: item.url,
+                    meta: { title: item.title },
+                    excerpt: buildExcerpt(item.content || item.description || "", keyword, matches),
+                }));
+            } catch (err) {
+                console.warn("Fuse search failed:", err);
+                arr = [];
+            }
+        }
 
-		if (isDesktop) {
-			panel.classList.remove("float-panel-closed");
-		}
-		result = arr;
-	};
+        if (!arr.length && isDesktop) {
+            panel.classList.add("float-panel-closed");
+            result = [];
+            return;
+        }
+
+        if (isDesktop) {
+            panel.classList.remove("float-panel-closed");
+        }
+        result = arr as any;
+    };
 });
 
 const togglePanel = () => {
-	let panel = document.getElementById("search-panel");
-	panel?.classList.toggle("float-panel-closed");
+    let panel = document.getElementById("search-panel");
+    panel?.classList.toggle("float-panel-closed");
 };
 
 $: search(keywordDesktop, true);
@@ -142,7 +134,7 @@ $: search(keywordMobile, false);
 
 <!-- search panel -->
 <div id="search-panel" class="float-panel float-panel-closed search-panel absolute md:w-[30rem]
-top-20 left-4 md:left-[unset] right-4 shadow-2xl rounded-2xl p-2">
+top-20 left-4 md:left-[unset] right-4 shadow-2xl rounded-2xl p-2 overflow-y-auto max-h-[70vh]">
 
     <!-- search bar inside panel for phone/tablet -->
     <div id="search-bar-inside" class="flex relative lg:hidden transition-all items-center h-11 rounded-xl
